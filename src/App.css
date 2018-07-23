@@ -1,0 +1,91 @@
+body {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+.app-logo {
+  height: 100px;
+}
+.app-header {
+  background-color: #FFF;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.act-links {
+  margin-top: 40px;
+}
+.act-links li {
+  padding: 20px 0;
+  max-width: 400px;
+  margin: auto;
+  color: #04364e;
+  background: #c6ddec;
+}
+.act-links li:nth-child(odd) {
+  background: #7cb0d3;
+}
+
+
+.contact-items {
+  list-style: none;
+  width: 180px;
+  margin: auto;
+  padding-left: 0;
+}
+.contact-items .item {
+  position: relative;
+  margin-bottom: 2rem;
+}
+.contact-items img {
+  position: relative;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 10px;
+  top: 12px;
+}
+.contact-items li span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.contact-button {
+  width: 200px;
+  padding: 10px;
+  margin: 40px auto;
+  background-color: #04364e;
+  color: #fff;
+  font-size: 1em;
+  border-radius: 15px;
+}
+.contact-button p {
+  margin: 0;
+}
+.disclaimer-link {
+  color: #2199e8;
+  font-weight: bold;
+}
+
+section {
+  color: #04364e;
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+section .law-section-heading {
+  border: 1px #04364e solid;
+  padding: 15px;
+}
+section .law-section-body {
+  color: #3d3d3d;
+}
+.poaa-text {
+  color: #04364e;
+}
