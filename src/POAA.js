@@ -10,7 +10,7 @@ class POAA extends React.Component {
       <div className="poaa-text">
         <h1>Property Owners' Association Act</h1>
         <Search />
-        <h2>Article 1. General Provisions</h2>
+        {/* <h2>Article 1. General Provisions</h2> */}
         {poaaText.map(section => <LawSection headingText={section.title}
                                              bodyText={section.text} />)}
       </div>
