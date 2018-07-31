@@ -7,7 +7,7 @@ export const condoText2 = [
 
         1974, c. 416.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -20,7 +20,7 @@ export const condoText2 = [
 
         1974, c. 416; 1985, c. 107; 1992, c. 72; 1993, c. 667.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -31,7 +31,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -42,7 +42,7 @@ export const condoText2 = [
 
         1974, c. 416; 1980, c. 702; 1984, c. 21; 1990, c. 831.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -53,7 +53,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415; 1982, c. 545.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -74,7 +74,7 @@ export const condoText2 = [
 
         1974, c. 416; 1982, cc. 206, 545.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -85,7 +85,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -102,7 +102,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415; 1998, cc. 32, 454.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -117,7 +117,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415; 1993, c. 667; 1996, c. 977; 2012, c. 758; 2014, c. 569.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -230,7 +230,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415; 1977, c. 428; 1982, c. 545; 1993, c. 667; 1998, c. 32; 2012, c. 520.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -253,7 +253,7 @@ export const condoText2 = [
 
         1974, c. 416.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -274,7 +274,7 @@ export const condoText2 = [
 
         1974, c. 416.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -293,7 +293,7 @@ export const condoText2 = [
 
         1974, c. 416; 1983, c. 230; 1991, c. 497; 1998, c. 32.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -314,7 +314,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415; 1984, c. 601; 1991, c. 497; 1999, c. 560; 2008, cc. 851, 871.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -331,7 +331,7 @@ export const condoText2 = [
 
         1977, c. 428; 1988, c. 15; 1999, c. 560; 2008, cc. 851, 871.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -342,7 +342,7 @@ export const condoText2 = [
 
         1974, c. 416; 1991, c. 497.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -353,7 +353,7 @@ export const condoText2 = [
 
         1974, c. 416.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -368,7 +368,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415; 1986, c. 324; 1991, c. 497; 1993, c. 45; 2012, c. 520.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -385,7 +385,7 @@ export const condoText2 = [
 
         1974, c. 416; 1999, c. 560.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -396,7 +396,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -407,7 +407,7 @@ export const condoText2 = [
 
         1974, c. 416.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -418,7 +418,7 @@ export const condoText2 = [
 
         1974, c. 416.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -429,7 +429,7 @@ export const condoText2 = [
 
         1974, c. 416.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -444,7 +444,7 @@ export const condoText2 = [
 
         1974, c. 416; 1975, c. 415.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -457,7 +457,7 @@ export const condoText2 = [
 
         1974, c. 416.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -480,7 +480,7 @@ export const condoText2 = [
 
         1974, c. 416; 1991, c. 497.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -503,7 +503,7 @@ export const condoText2 = [
 
         1974, c. 416; 1991, c. 497.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -524,7 +524,7 @@ export const condoText2 = [
 
         1974, c. 416; 1993, c. 667.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -547,7 +547,7 @@ export const condoText2 = [
 
         2010, c. 432.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -564,7 +564,7 @@ export const condoText2 = [
 
         2014, c. 659.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -573,7 +573,7 @@ export const condoText2 = [
       `
         Repealed by Acts 1993, c. 667.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -608,7 +608,7 @@ export const condoText2 = [
 
         1993, c. 667.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -619,7 +619,7 @@ export const condoText2 = [
 
         1993, c. 667.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -642,7 +642,7 @@ export const condoText2 = [
 
         2015, c. 286.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   }
 ]

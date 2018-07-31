@@ -23,7 +23,7 @@ export const cioText = [
 
         2008, cc. 851, 871.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -44,7 +44,7 @@ export const cioText = [
 
         2008, cc. 851, 871; 2011, cc. 334, 605.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -77,7 +77,7 @@ export const cioText = [
 
         2008, cc. 851, 871; 2010, c. 511; 2011, cc. 334, 605.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -90,7 +90,7 @@ export const cioText = [
 
         2008, cc. 851, 871; 2010, c. 511; 2012, c. 522.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -127,7 +127,7 @@ export const cioText = [
 
         2008, cc. 851, 871; 2009, c. 557; 2010, cc. 511, 615; 2011, c. 334; 2012, cc. 481, 797; 2015, c. 268; 2017, cc. 387, 393, 405, 406.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -144,7 +144,7 @@ export const cioText = [
 
         2008, cc. 851, 871; 2017, c. 257; 2018, cc. 70, 733.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -169,7 +169,7 @@ export const cioText = [
 
         2008, cc. 851, 871; 2009, c. 557; 2010, c. 615.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -190,7 +190,7 @@ export const cioText = [
 
         2008, cc. 851, 871; 2009, c. 557.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -219,7 +219,7 @@ export const cioText = [
 
         2008, cc. 851, 871; 2011, cc. 334, 605.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -230,7 +230,7 @@ export const cioText = [
 
         2008, cc. 851, 871.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   }
 

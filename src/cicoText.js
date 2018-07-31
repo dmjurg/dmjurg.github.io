@@ -48,9 +48,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -67,9 +65,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -88,9 +84,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -111,9 +105,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012; amended, Virginia Register Volume 33, Issue 15, eff. May 1, 2017.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -150,9 +142,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -171,9 +161,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -192,9 +180,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -211,9 +197,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -249,9 +233,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -268,9 +250,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -289,9 +269,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -310,9 +288,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -329,9 +305,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -351,9 +325,7 @@ export const cicoText = [
 
         Derived from Volume 28, Issue 19, eff. July 1, 2012.
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   },
   {
@@ -366,9 +338,7 @@ export const cicoText = [
 
         Notice of Final Adverse Decision, F491-CICNOTE-v1 (eff. 10/2012)
 
-        Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
-
-        As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+        
       `
   }
 ]

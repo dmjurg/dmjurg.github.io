@@ -25,7 +25,7 @@ export const cicbText = [
 
         1993, c. 958; 2008, cc. 851, 871.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -36,7 +36,7 @@ export const cicbText = [
 
         1993, c. 958; 2008, cc. 851, 871.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -99,7 +99,7 @@ export const cicbText = [
 
         1993, c. 958; 1997, c. 222; 1998, c. 463; 2001, c. 816; 2008, cc. 851, 871; 2010, cc. 59, 208; 2012, cc. 481, 797.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   },
   {
@@ -146,7 +146,7 @@ export const cicbText = [
 
         2008, cc. 851, 871; 2009, c. 557; 2013, c. 754.
 
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
+        
       `
   }
 ]
