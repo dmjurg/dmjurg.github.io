@@ -19,10 +19,10 @@ class Home extends React.Component {
             <Link to="/cico">CICO Regulations</Link>
           </li>
           <li>
-            <Link to="/cio">CIO Ombudsman</Link>
+            <Link to="/cio">Common Interest Communities</Link>
           </li>
           <li>
-            <Link to="/cicb">CICB</Link>
+            <Link to="/cicb">Common Interest Community Management Information Fund</Link>
           </li>
         </ul>
         <footer>
