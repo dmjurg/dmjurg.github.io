@@ -13,6 +13,14 @@ import {vncaText9} from './vncaText9';
 import {vncaText10} from './vncaText10';
 import {vncaText11} from './vncaText11';
 import {vncaText111} from './vncaText111';
+import {vncaText12} from './vncaText12';
+import {vncaText13} from './vncaText13';
+import {vncaText14} from './vncaText14';
+import {vncaText15} from './vncaText15';
+import {vncaText16} from './vncaText16';
+import {vncaText17} from './vncaText17';
+import {vncaText171} from './vncaText171';
+import {vncaText18} from './vncaText18';
 
 class VNCA extends React.Component {
   constructor(props) {
@@ -162,6 +170,62 @@ class VNCA extends React.Component {
                                             />)}
         <h2>Article 11.1. Domestication</h2>
         {vncaText111.map((section, index) => <LawSection headingText={section.title}
+                                              bodyText={section.text}
+                                              searchText={searchText}
+                                              registerMatch={this.registerMatch}
+                                              key={`section-${index}`}
+                                            />)}
+        <h2>Article 12. Sale of Assets</h2>
+        {vncaText12.map((section, index) => <LawSection headingText={section.title}
+                                              bodyText={section.text}
+                                              searchText={searchText}
+                                              registerMatch={this.registerMatch}
+                                              key={`section-${index}`}
+                                            />)}
+        <h2>Article 13. Dissolution</h2>
+        {vncaText13.map((section, index) => <LawSection headingText={section.title}
+                                              bodyText={section.text}
+                                              searchText={searchText}
+                                              registerMatch={this.registerMatch}
+                                              key={`section-${index}`}
+                                            />)}
+        <h2>Article 14. Foreign Corporations</h2>
+        {vncaText14.map((section, index) => <LawSection headingText={section.title}
+                                              bodyText={section.text}
+                                              searchText={searchText}
+                                              registerMatch={this.registerMatch}
+                                              key={`section-${index}`}
+                                            />)}
+        <h2>Article 15. Records and Reports.</h2>
+        {vncaText15.map((section, index) => <LawSection headingText={section.title}
+                                              bodyText={section.text}
+                                              searchText={searchText}
+                                              registerMatch={this.registerMatch}
+                                              key={`section-${index}`}
+                                            />)}
+        <h2>Article 16. Transition Provisions</h2>
+        {vncaText16.map((section, index) => <LawSection headingText={section.title}
+                                              bodyText={section.text}
+                                              searchText={searchText}
+                                              registerMatch={this.registerMatch}
+                                              key={`section-${index}`}
+                                            />)}
+        <h2>Article 17. Conversion to a Stock Corporation</h2>
+        {vncaText17.map((section, index) => <LawSection headingText={section.title}
+                                              bodyText={section.text}
+                                              searchText={searchText}
+                                              registerMatch={this.registerMatch}
+                                              key={`section-${index}`}
+                                            />)}
+        <h2>Article 17.1. Conversion to a Limited Liability Company</h2>
+        {vncaText171.map((section, index) => <LawSection headingText={section.title}
+                                              bodyText={section.text}
+                                              searchText={searchText}
+                                              registerMatch={this.registerMatch}
+                                              key={`section-${index}`}
+                                            />)}
+        <h2>Article 18. Miscellaneous Provisions</h2>
+        {vncaText18.map((section, index) => <LawSection headingText={section.title}
                                               bodyText={section.text}
                                               searchText={searchText}
                                               registerMatch={this.registerMatch}
