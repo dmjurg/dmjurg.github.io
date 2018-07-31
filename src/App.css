@@ -89,3 +89,13 @@ section .law-section-body {
 .poaa-text, .cico-text, .cicb-text, .cio-text, .condo-text {
   color: #04364e;
 }
+
+.highlight {
+  background-color: yellow;
+}
+
+.search-form {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
