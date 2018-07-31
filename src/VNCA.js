@@ -43,7 +43,7 @@ class VNCA extends React.Component {
   }
 
   registerMatch(match) {
-    if (match) {
+    if(match) {
       this.state.matches.push(match);
     }
 
