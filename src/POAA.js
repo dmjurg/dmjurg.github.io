@@ -1,5 +1,8 @@
 import React from 'react';
 import LawSection from './LawSection';
+import {
+  Link
+} from 'react-router-dom'
 import {poaaText1} from './poaaText1';
 import {poaaText2} from './poaaText2';
 import {poaaText3} from './poaaText3';

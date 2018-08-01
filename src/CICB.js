@@ -1,5 +1,8 @@
 import React from 'react';
 import LawSection from './LawSection';
+import {
+  Link
+} from 'react-router-dom'
 import {cicbText} from './cicbText';
 
 class CICB extends React.Component {
@@ -59,6 +62,9 @@ class CICB extends React.Component {
     return (
       <div className="cicb-text">
         <h1>Common Interest Community Management Information Fund</h1>
+        <div className="back-button">
+          <Link to="/">Back</Link>
+        </div>
         <div className="search-form">
           <input value={searchText} onChange={this.updateSearchText} />
           <button onClick={this.scrollToNextMatch}>Next</button>

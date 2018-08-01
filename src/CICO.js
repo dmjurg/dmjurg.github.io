@@ -1,5 +1,8 @@
 import React from 'react';
 import LawSection from './LawSection';
+import {
+  Link
+} from 'react-router-dom'
 import {cicoText} from './cicoText';
 
 class CICO extends React.Component {
@@ -63,6 +66,9 @@ class CICO extends React.Component {
           <input value={searchText} onChange={this.updateSearchText} />
           <button onClick={this.scrollToNextMatch}>Next</button>
           {this.state.currentMatch} of {this.state.matches.length}
+        </div>
+        <div className="back-button">
+          <Link to="/">Back</Link>
         </div>
         {cicoText.map((section, index) => <LawSection headingText={section.title}
                                              bodyText={section.text}

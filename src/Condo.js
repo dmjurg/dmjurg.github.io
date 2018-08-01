@@ -1,5 +1,8 @@
 import React from 'react';
 import LawSection from './LawSection';
+import {
+  Link
+} from 'react-router-dom'
 import {condoText1} from './condoText1';
 import {condoText2} from './condoText2';
 import {condoText3} from './condoText3';

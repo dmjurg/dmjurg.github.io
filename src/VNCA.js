@@ -1,5 +1,8 @@
 import React from 'react';
 import LawSection from './LawSection';
+import {
+  Link
+} from 'react-router-dom'
 import {vncaText1} from './vncaText1';
 import {vncaText2} from './vncaText2';
 import {vncaText3} from './vncaText3';
