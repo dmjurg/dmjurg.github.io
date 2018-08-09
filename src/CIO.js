@@ -67,6 +67,9 @@ class CIO extends React.Component {
           <button onClick={this.scrollToNextMatch}>Next</button>
           {this.state.currentMatch} of {this.state.matches.length}
         </div>
+        <div className="back-button">
+          <Link to="/">Back</Link>
+        </div>
         {cioText.map((section, index) => <LawSection headingText={section.title}
                                              bodyText={section.text}
                                              searchText={searchText}

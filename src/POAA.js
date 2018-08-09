@@ -66,8 +66,11 @@ class POAA extends React.Component {
         <h1>Property Owners' Association Act</h1>
         <div className="search-form">
           <input value={searchText} onChange={this.updateSearchText} />
-          <button onClick={this.scrollToNextMatch}>Next</button>
+          <button onClick={this.scrollToNextMatch}>Search</button>
           {this.state.currentMatch} of {this.state.matches.length}
+        </div>
+        <div className="back-button">
+          <Link to="/">&lt; Back</Link>
         </div>
         <h2>Article 1. General Provisions</h2>
         {poaaText1.map((section, index) => <LawSection headingText={section.title}

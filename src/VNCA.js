@@ -87,6 +87,9 @@ class VNCA extends React.Component {
           <button onClick={this.scrollToNextMatch}>Next</button>
           {this.state.currentMatch} of {this.state.matches.length}
         </div>
+        <div className="back-button">
+          <Link to="/">Back</Link>
+        </div>
         <h2>Article 1. General Provisions</h2>
         {vncaText1.map((section, index) => <LawSection headingText={section.title}
                                               bodyText={section.text}
