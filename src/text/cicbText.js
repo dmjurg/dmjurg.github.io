@@ -17,7 +17,7 @@ export const cicbText = [
   {
     title: `§ 55-529. Common Interest Community Management Information Fund.`,
     text: [
-      `There is hereby created the Common Interest Community Management Information Fund to be used in the discretion of the Board to promote the improvement and more efficient operation of common interest communities through research and education. The Fund shall consist of money paid into it pursuant to §§ 54.1-2349, 55-79.93:1, 55-504.1, and 55-516.1. The Fund shall be established on the books of the Comptroller, and any funds remaining in such Fund at the end of the biennium shall not revert to the general fund but, at the discretion of the Board, shall remain in the Fund or shall be transferred to the Common Interest Community Management Recovery Fund established pursuant to § 55-530.1. Interest earned on the Fund shall be credited to the Fund.`
+      `There is hereby created the Common Interest Community Management Information Fund to be used in the discretion of the Board to promote the improvement and more efficient operation of common interest communities through research and education. The Fund shall consist of money paid into it pursuant to §§ 54.1-2349, 55-79.93:1, 55-504.1, and 55-516.1. The Fund shall be established on the books of the Comptroller, and any funds remaining in such Fund at the end of the biennium shall not revert to the general fund but, at the discretion of the Board, shall remain in the Fund or shall be transferred to the Common Interest Community Management Recovery Fund established pursuant to § 55-530.1. Interest earned on the Fund shall be credited to the Fund.`,
     ]
   },
   {
