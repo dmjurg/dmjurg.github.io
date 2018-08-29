@@ -66,7 +66,7 @@ class VNCA extends React.Component {
   }
 
   scrollToNextMatch = () => {
-    const {matches, currentMatch} = this.state;
+    const {matches} = this.state;
 
     if(matches.length === 0) {
       return;

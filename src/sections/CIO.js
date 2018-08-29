@@ -26,7 +26,7 @@ class CICB extends React.Component {
   }
 
   registerMatch(match) {
-    if(match) {
+    if (match) {
       this.state.matches.push(match);
     }
 
@@ -46,9 +46,9 @@ class CICB extends React.Component {
   }
 
   scrollToNextMatch = () => {
-    const {matches, currentMatch} = this.state;
+    const {matches} = this.state;
 
-    if(matches.length === 0) {
+    if (matches.length === 0) {
       return;
     }
 
@@ -66,16 +66,19 @@ class CICB extends React.Component {
           <Link to="/">Back</Link>
         </div>
         <div className="search-form">
-          <input value={searchText} onChange={this.updateSearchText} />
+          <input value={searchText} onChange={this.updateSearchText}/>
           <button onClick={this.scrollToNextMatch}>Next</button>
           {this.state.currentMatch} of {this.state.matches.length}
         </div>
+        <div className="back-button">
+          <Link to="/">Back</Link>
+        </div>
         {cicbText.map((section, index) => <LawSection headingText={section.title}
-                                             bodyText={section.text}
-                                             searchText={searchText}
-                                             registerMatch={this.registerMatch}
-                                             key={`section-${index}`}
-                                           />)}
+                                                     bodyText={section.text}
+                                                     searchText={searchText}
+                                                     registerMatch={this.registerMatch}
+                                                     key={`section-${index}`}
+        />)}
       </div>
     );
   }
