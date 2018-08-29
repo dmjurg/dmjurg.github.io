@@ -11,9 +11,7 @@ export const condoText3 = [
 
         D. In any case where an amendment to the declaration is required by subsection (b), (c), or (d) of § 55-79.56, the person or persons required to execute the same shall also prepare and execute, and record simultaneously with such amendment, an amendment to the bylaws. The amendment to the bylaws shall allocate votes in the unit owners' association to new units on the same basis as was used for the allocation of such votes to the units depicted on plats and plans recorded pursuant to subsections A and B of § 55-79.58, or shall abolish the votes appertaining to former units, as the case may be. The amendment to the bylaws shall also reallocate rights to future common profits, and liabilities for future common expenses not specially assessed, in proportion to relative voting strengths as reflected by the said amendment.
 
-        1974, c. 416; 1978, c. 332; 1993, c. 667; 1998, c. 32; 2012, c. 758.
 
-        
       `
   },
   {
@@ -26,9 +24,7 @@ export const condoText3 = [
 
         C. Where the condominium instruments are silent on the need for mortgagee consent, no mortgagee consent shall be required if the amendment to the condominium instruments does not specifically affect mortgagee rights.
 
-        1993, c. 1; 1998, c. 32; 2007, c. 675.
 
-        
       `
   },
   {
@@ -57,9 +53,7 @@ export const condoText3 = [
 
         D. Any mortgagee of a condominium unit in the condominium shall have standing to participate in the reformation proceedings before the court. No reformation pursuant to this section shall affect mortgagee rights, alter the priority of the lien of any mortgage, materially impair or affect any condominium unit as collateral for a mortgage, or affect a mortgagee's right to foreclose on a condominium unit as collateral without the prior written consent of the mortgagee. Consent of a mortgagee required by this section may be deemed received pursuant to § 55-79.73:1.
 
-        2014, c. 659.
 
-        
       `
   },
   {
@@ -90,9 +84,7 @@ export const condoText3 = [
 
         I. This section shall be strictly construed to protect the rights of the unit owners.
 
-        1974, c. 416; 1975, c. 415; 1978, c. 332; 1980, c. 738; 1984, c. 601; 1985, c. 83; 1996, c. 977; 2008, cc. 851, 871; 2013, c. 599.
 
-        
       `
   },
   {
@@ -101,9 +93,6 @@ export const condoText3 = [
       `
       All funds deposited with a managing agent shall be handled in a fiduciary capacity and shall be kept in a fiduciary trust account in a federally insured financial institution separate from other assets of the managing agent. The funds shall be the property of the unit owners' association and shall be segregated for each account in the records of the managing agent in a manner that permits the funds to be identified on an individual unit owners' association basis.
 
-      2007, cc. 696, 712.
-
-      
       `
   },
   {
@@ -138,9 +127,7 @@ export const condoText3 = [
 
       E. Prior to providing copies of any books and records, the unit owners' association may impose and collect a charge, reflecting the reasonable costs of materials and labor, not to exceed the actual costs thereof. Charges may be imposed only in accordance with a cost schedule adopted by the executive organ in accordance with this subsection. The cost schedule shall (i) specify the charges for materials and labor, (ii) apply equally to all unit owners in good standing, and (iii) be provided to such requesting unit owner at the time the request is made.
 
-      1980, c. 738; 1985, c. 75; 1989, c. 57; 1990, c. 662; 1992, c. 72; 1994, c. 463; 1999, c. 594; 2000, cc. 906, 919; 2001, c. 419; 2011, cc. 334, 361, 605; 2014, c. 207; 2018, c. 663.
 
-      
       `
   },
   {
@@ -149,9 +136,7 @@ export const condoText3 = [
       `
       Unless the condominium instruments expressly provide otherwise, the unit owners' association shall not be prohibited from maintaining a management office on common elements or in one or more units in the condominium.
 
-      1982, c. 545.
 
-      
       `
   },
   {
@@ -194,9 +179,7 @@ export const condoText3 = [
 
       G. For the purposes of this section, "affiliate of a declarant" means any person who controls, is controlled by, or is under common control with a declarant. A person controls a declarant if the person (i) is general partner, officer, director or employer of the declarant, (ii) directly or indirectly or acting in concert with one or more persons or through one or more subsidiaries, owns, controls, holds with power to vote, or holds proxies representing more than twenty percent of the voting interests in the declarant, (iii) controls in any manner the election of a majority of the directors of the declarant, or (iv) has contributed more than twenty percent of the capital of the declarant. A person is controlled by a declarant if the declarant (i) is a general partner, officer, director or employer of the person, (ii) directly or indirectly or acting in concert with one or more other persons or through one or more subsidiaries, owns, controls, holds with power to vote or holds proxies representing more than twenty percent of the voting interest in the person, (iii) controls in any manner the election of a majority of the directors of the person, or (iv) has contributed more than twenty percent of the capital of the person. Control does not exist if the powers described in this paragraph are held solely as security for an obligation and are not exercised.
 
-      1982, c. 545; 1991, c. 497; 1996, c. 977; 2006, c. 646.
 
-      
       `
   },
   {
@@ -205,9 +188,7 @@ export const condoText3 = [
       `
       A declarant who does not succeed to any special declarant rights shall be liable only to the extent of his actions for claims and obligations arising under this chapter or the condominium instruments.
 
-      1993, c. 667.
 
-      
       `
   },
   {
@@ -240,9 +221,7 @@ export const condoText3 = [
 
       D. Subject to reasonable rules adopted by the executive organ, the executive organ shall provide a designated period of time during a meeting to allow unit owners an opportunity to comment on any matter relating to the unit owners' association. During a meeting at which the agenda is limited to specific topics or at a special meeting, the executive organ may limit the comments of unit owners to the topics listed on the meeting agenda.
 
-      1974, c. 416; 1978, c. 363; 1989, c. 58; 1990, c. 662; 1992, c. 72; 2000, c. 906; 2001, c. 715; 2003, cc. 404, 405, 442; 2005, c. 353; 2007, c. 675; 2013, c. 275.
 
-      
       `
   },
   {
@@ -253,9 +232,7 @@ export const condoText3 = [
 
       B. Except as otherwise provided in the condominium instruments, the executive organ shall not require prior approval of the dissemination or content of any material regarding any matter concerning the unit owners' association.
 
-      2001, c. 715; 2003, c. 405.
 
-      
       `
   },
   {
@@ -270,9 +247,7 @@ export const condoText3 = [
 
       D. In any action brought by the unit owners' association under § 55-79.80:2, the unit owner shall be entitled to assert as an affirmative defense that the required disclosure of any limitation pertaining to the flag of the United States or any flagpole or similar structure necessary to display the flag of the United States was not contained in the public offering statement or resale certificate, as appropriate, required pursuant to § 55-79.90 or 55-79.97.
 
-      2007, cc. 854, 910; 2010, cc. 166, 453.
 
-      
       `
   },
   {
@@ -293,9 +268,7 @@ export const condoText3 = [
 
       A unit owner filing a petition under this subsection shall provide a copy of the petition to the executive organ at least ten business days prior to filing.
 
-      1974, c. 416; 2003, c. 413; 2015, cc. 214, 430.
 
-      
       `
   },
   {
@@ -316,9 +289,7 @@ export const condoText3 = [
 
       G. Except to the extent that the condominium instruments provide otherwise, the voting interest allocated to the unit or member that has been suspended by the unit owners' association or the executive organ pursuant to the condominium instruments shall not be counted in the total number of voting interests used to determine the quorum for any meeting or vote under the condominium instruments.
 
-      1974, c. 416; 1980, c. 108; 1991, c. 497; 1993, c. 667; 1998, c. 32; 2003, c. 442; 2015, c. 214.
 
-      
       `
   },
   {
@@ -329,9 +300,7 @@ export const condoText3 = [
 
       B. If the condominium instruments provide that any officer or officers must be unit owners, then notwithstanding the provisions of subsection (a) of § 55-79.50, the term "unit owner" in such context shall, unless the condominium instruments otherwise provide, be deemed to include, without limitation, any director, officer, partner in, or trustee of any person which is, either alone or in conjunction with another person or persons, a unit owner. Any officer who would not be eligible to serve as such were he not a director, officer, partner in, or trustee of such a person, shall be deemed to have disqualified himself from continuing in office if he ceases to have any such affiliation with that person, or if that person would itself have been deemed to have disqualified itself from continuing in such office under subsection A were it a natural person holding such office.
 
-      1974, c. 416; 1991, c. 497; 2002, c. 520.
 
-      
       `
   },
   {
@@ -354,9 +323,7 @@ export const condoText3 = [
 
       E. Within 45 days after the formation of the committee, the declarant shall deliver to the chair of the committee (i) a copy of the latest available approved plans and specifications for all improvements in the project or as-build plans if available; (ii) all association insurance policies that are currently in force; (iii) any written unexpired warranties of the contractors, subcontractors, suppliers, and manufacturers applicable to the condominium; and (iv) a list of manufacturers of paints, roofing materials, and other similar materials if specified for use on the condominium property.
 
-      1974, c. 416; 1975, c. 415; 1980, c. 386; 1982, c. 545; 1984, c. 347; 1987, c. 395; 2006, c. 646; 2008, cc. 851, 871; 2013, c. 599.
 
-      
       `
   },
   {
@@ -377,9 +344,7 @@ export const condoText3 = [
 
       C. This section shall not be construed to prohibit the grant, by the condominium instruments, of other powers and responsibilities to the unit owners' association or its executive organ.
 
-      1974, c. 416; 1975, c. 415; 1981, c. 146; 1982, c. 195; 1991, c. 497; 1993, c. 667; 1996, c. 977.
 
-      
       `
   },
   {
@@ -388,9 +353,7 @@ export const condoText3 = [
       `
       Unit owners' associations shall post notice of all pesticide applications in or upon the common elements. Such notice shall consist of conspicuous signs placed in or upon the common elements where the pesticide will be applied at least forty-eight hours prior to the application.
 
-      1999, c. 65.
 
-      
       `
   },
   {
@@ -405,9 +368,7 @@ export const condoText3 = [
 
       D. A judgment for money against the unit owners' association shall be a lien against any property owned by the association, and against each of the condominium units in proportion to the liability of each unit owner for common expenses as established pursuant to subsection D of § 55-79.83, but not against any other property of any unit owner. A unit owner who pays a percentage of the total amount due under such judgment equal to such unit owner's liability for common expenses fixed pursuant to subsection D of § 55-79.83 shall be entitled to a release of any such judgment lien and the association shall not be entitled to assess the unit for payment of the remaining amount due. Such judgment shall be otherwise subject to the provisions of § 8.01-458.
 
-      1975, c. 415; 1991, c. 497; 1992, c. 72; 1996, c. 977.
 
-      
       `
   },
   {
@@ -432,9 +393,7 @@ export const condoText3 = [
 
       F. This section shall not be construed to prohibit the grant, by the condominium instruments, of other powers and responsibilities to the unit owners' association or its executive organ.
 
-      1993, c. 667; 1997, cc. 173, 417; 2000, cc. 846, 906; 2002, c. 509; 2011, cc. 372, 378; 2014, c. 784.
 
-      
       `
   },
   {
@@ -443,9 +402,7 @@ export const condoText3 = [
       `
       The unit owners' association shall have the power, to the extent the condominium instruments expressly so provide, to limit the number of persons who may occupy a unit as a dwelling. Such limitation shall be reasonable and shall comply with the provisions of § 55-79.52.
 
-      1996, c. 888; 1998, c. 454.
 
-      
       `
   },
   {
@@ -464,9 +421,8 @@ export const condoText3 = [
 
       C. When any policy of insurance has been obtained by or on behalf of the unit owners' association, written notice of the obtainment thereof and of any subsequent changes therein or termination thereof shall be promptly furnished to each unit owner by the officer required to send notices of meetings of the unit owners' association. Such notices shall be sent in accordance with the provisions of subsection A of § 55-79.75.
 
-      1974, c. 416; 2000, c. 906; 2003, c. 360; 2004, c. 281; 2007, cc. 696, 712; 2008, cc. 851, 871.
 
-      
+
       `
   },
   {
@@ -475,7 +431,7 @@ export const condoText3 = [
       `
       Repealed by Acts 1991, c. 497.
 
-      
+
       `
   },
   {
@@ -500,9 +456,7 @@ export const condoText3 = [
 
       H. Except to the extent that the condominium instruments or rules or regulations promulgated pursuant thereto provide otherwise, an executive organ may impose a late fee, not to exceed the penalty provided in § 58.1-3915, for any assessment or installment thereof that is not paid within 60 days of the due date for payment of such assessment.
 
-      1974, c. 416; 1977, c. 428; 1981, c. 180; 1984, cc. 27, 84, 601; 1992, c. 72; 1993, c. 667; 2003, c. 421; 2013, c. 256; 2014, c. 239.
 
-      
       `
   },
   {
@@ -525,9 +479,7 @@ export const condoText3 = [
 
       3. A general statement describing the procedures used for the estimation and accumulation of cash reserves pursuant to this section and the extent to which the unit owners' association is funding its reserve obligations consistent with the study currently in effect.
 
-      2002, c. 459.
 
-      
       `
   },
   {
@@ -596,9 +548,7 @@ export const condoText3 = [
 
       11. If the sale of a unit is made pursuant to subsection I and the accounting is made by the trustee, the title of the purchaser at such sale shall not be disturbed unless within 12 months from the confirmation of the accounting by the commissioner of accounts, the sale is set aside by the court or an appeal is allowed by the Supreme Court of Virginia, and a decree is therein entered requiring such sale to be set aside.
 
-      1974, c. 416; 1975, c. 415; 1991, c. 497; 1992, c. 72; 1997, cc. 760, 766; 2000, c. 906; 2004, cc. 778, 779, 786.
 
-      
       `
   },
   {
@@ -607,9 +557,7 @@ export const condoText3 = [
       `
       In accordance with the provisions of § 15.2-979, the unit owners' association shall be given notice whenever a condominium unit becomes subject to a sale under a deed of trust. Upon receipt of such notice, the executive organ, on behalf of the unit owners' association, shall exercise whatever due diligence it deems necessary with respect to the unit subject to a sale under a deed of trust to protect the interests of the unit owners' association.
 
-      2015, cc. 93, 410.
 
-      
       `
   },
   {
@@ -622,9 +570,7 @@ export const condoText3 = [
 
       The Board may promulgate reasonable regulations which govern the return of bonds submitted in accordance with this section.
 
-      1977, c. 428; 1981, c. 480; 1984, c. 601; 1985, c. 107; 1988, c. 15; 1993, cc. 667, 900; 2008, cc. 851, 871.
 
-      
       `
   },
   {
@@ -633,9 +579,7 @@ export const condoText3 = [
       `
       If the condominium instruments create any rights of first refusal or other restraints on free alienability of the condominium units, such rights and restraints shall be void unless the condominium instruments make provision for promptly furnishing to any unit owner or purchaser requesting the same a recordable statement certifying to any waiver of, or failure or refusal to exercise, such rights and restraints, in all cases where such waiver, failure, or refusal does in fact occur. Failure or refusal to furnish promptly such a statement in such circumstances in accordance with the provisions of the condominium instruments shall make all such rights and restraints inapplicable to any disposition of a condominium unit in contemplation of which such statement was requested. Any such statement shall be binding on the association of unit owners, the executive organ, and every unit owner. Payment of a fee not exceeding twenty-five dollars may be required as a prerequisite to the issuance of such a statement if the condominium instruments so provide.
 
-      1974, c. 416.
 
-      
       `
   }
 ]

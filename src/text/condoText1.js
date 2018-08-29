@@ -5,7 +5,6 @@ export const condoText1 = [
       `
         This chapter shall be known and may be cited as the "Condominium Act."
 
-        1974, c. 416.
 
 
       `
@@ -20,7 +19,6 @@ export const condoText1 = [
 
         C. Subsection B of § 55-79.79 and § 55-79.94 do not apply to the declarant of a conversion condominium if that declarant is a proprietary lessees' association that, immediately before the creation of the condominium, owned fee simple title to or a fee simple reversionary interest in the real estate described pursuant to subdivision (a) (3) of § 55-79.54.
 
-        1974, c. 416; 1982, c. 545; 1989, c. 63; 2006, c. 646.
 
 
       `
@@ -103,7 +101,6 @@ export const condoText1 = [
 
         "Unit owner" means one or more persons who own a condominium unit or, in the case of a leasehold condominium, whose leasehold interest or interests in the condominium extend for the entire balance of the unexpired term or terms. "Unit owner" includes any purchaser of a condominium unit at a foreclosure sale, regardless of whether the deed is recorded in the land records where the unit is located. "Unit owner" does not include any person or persons holding an interest in a condominium unit solely as security for a debt.
 
-        1974, c. 416; 1975, c. 415; 1981, c. 480; 1982, c. 545; 1991, c. 497; 1993, c. 667; 1996, c. 977; 2001, c. 715; 2002, c. 459; 2003, c. 442; 2008, cc. 851, 871; 2015, cc. 93, 410.
 
 
       `
@@ -114,7 +111,6 @@ export const condoText1 = [
       `
         Except as expressly provided in this chapter, provisions of this chapter may not be varied by agreement, and rights conferred by this chapter may not be waived. A declarant may not act under power of attorney or use any other device to evade the limitations or prohibitions of this chapter or of the condominium instruments.
 
-        1982, c. 545.
 
 
       `
@@ -125,7 +121,6 @@ export const condoText1 = [
       `
         Except as provided in the following sentence, each condominium unit constitutes for all purposes a separate parcel of real estate. If there is any unit owner other than the declarant, each unit, together with its common element interest, but excluding its common element interest in convertible land and in any withdrawable land within which the declarant has the right to create units and/or limited common elements shall be separately assessed and taxed. Each convertible land and withdrawable land within which the declarant has the right to create units and/or limited common elements shall be separately assessed and taxed against the declarant.
 
-        1974, c. 416; 1986, c. 324.
 
 
       `
@@ -136,7 +131,6 @@ export const condoText1 = [
       `
         Except as expressly authorized in this chapter, in the condominium instruments, or as otherwise provided by law, no unit owners' association may make an assessment or impose a charge against a unit owner unless the charge is (i) authorized under § 55-79.83, (ii) a fee for services provided, or (iii) related to the provisions set out in § 55-79.97:1. The Common Interest Community Board may assess a monetary penalty for a violation of this section against any (a) unit owners' association pursuant to § 54.1-2351 or (b) common interest community manager pursuant to § 54.1-2349, and may issue a cease and desist order pursuant to § 54.1-2349 or 54.1-2352, as applicable.
 
-        2015, c. 277.
 
 
       `
@@ -159,7 +153,6 @@ export const condoText1 = [
 
         F. Nothing in this section shall be construed to permit application of any provision of the Uniform Statewide Building Code (§ 36-97 et seq.) or any local ordinances regulating design and construction of roads, sewer and water lines, stormwater management facilities and other public infrastructure, to a condominium in a manner different from the manner in which such provision is applied to other buildings of similar physical form and nature of occupancy.
 
-        1974, c. 416; 1975, c. 415; 1982, c. 663; 1991, c. 497; 2006, cc. 9, 317.
 
 
       `
@@ -180,7 +173,6 @@ export const condoText1 = [
 
         (f) The decree of the court shall require the recordation thereof among the land records of the city or county in which the condominium is located.
 
-        1974, c. 416; 1975, c. 415; 1982, c. 545; 1998, c. 32.
 
 
       `

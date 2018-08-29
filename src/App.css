@@ -131,3 +131,12 @@ section .law-section-body {
   padding: 10px;
   color: white;
 }
+
+.disclaimer-text {
+  width: 70%;
+  margin: auto;
+}
+.disclaimer-text p {
+  text-align: left;
+  line-height: 1.5em;
+}

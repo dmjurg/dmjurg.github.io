@@ -3,9 +3,9 @@ import LawSection from '../LawSection';
 import {
   Link
 } from 'react-router-dom'
-import {cicbText} from '../text/cicbText';
+import {cioText} from '../text/cioText';
 
-class CICB extends React.Component {
+class CIO extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -60,17 +60,17 @@ class CICB extends React.Component {
     const {searchText} = this.state;
 
     return (
-      <div className="cicb-text">
-        <h1>Common Interest Community Management Information Fund</h1>
-        <div className="back-button">
-          <Link to="/">Back</Link>
-        </div>
+      <div class="cio-text">
+        <h1>Common Interest Communities</h1>
         <div className="search-form">
           <input value={searchText} onChange={this.updateSearchText} />
           <button onClick={this.scrollToNextMatch}>Next</button>
           {this.state.currentMatch} of {this.state.matches.length}
         </div>
-        {cicbText.map((section, index) => <LawSection headingText={section.title}
+        <div className="back-button">
+          <Link to="/">Back</Link>
+        </div>
+        {cioText.map((section, index) => <LawSection headingText={section.title}
                                              bodyText={section.text}
                                              searchText={searchText}
                                              registerMatch={this.registerMatch}
@@ -81,4 +81,4 @@ class CICB extends React.Component {
   }
 }
 
-export default CICB;
+export default CIO;

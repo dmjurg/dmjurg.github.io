@@ -23,9 +23,7 @@ export const cicbText = [
 
         "Lot" means (i) any plot or parcel of land designated for separate ownership or occupancy shown on a recorded subdivision plat for a development or the boundaries of which are described in the declaration or in a recorded instrument referred to or expressly contemplated by the declaration, other than a common area, and (ii) a unit in a condominium association or a unit in a real estate cooperative.
 
-        1993, c. 958; 2008, cc. 851, 871.
 
-        
       `
   },
   {
@@ -34,9 +32,8 @@ export const cicbText = [
       `
         There is hereby created the Common Interest Community Management Information Fund to be used in the discretion of the Board to promote the improvement and more efficient operation of common interest communities through research and education. The Fund shall consist of money paid into it pursuant to §§ 54.1-2349, 55-79.93:1, 55-504.1, and 55-516.1. The Fund shall be established on the books of the Comptroller, and any funds remaining in such Fund at the end of the biennium shall not revert to the general fund but, at the discretion of the Board, shall remain in the Fund or shall be transferred to the Common Interest Community Management Recovery Fund established pursuant to § 55-530.1. Interest earned on the Fund shall be credited to the Fund.
 
-        1993, c. 958; 2008, cc. 851, 871.
 
-        
+
       `
   },
   {
@@ -97,9 +94,7 @@ export const cicbText = [
 
         I. The Board may prescribe regulations which shall be adopted, amended or repealed in accordance with the Administrative Process Act (§ 2.2-4000 et seq.) to accomplish the purpose of this chapter.
 
-        1993, c. 958; 1997, c. 222; 1998, c. 463; 2001, c. 816; 2008, cc. 851, 871; 2010, cc. 59, 208; 2012, cc. 481, 797.
 
-        
       `
   },
   {
@@ -144,9 +139,7 @@ export const cicbText = [
 
         8. Nothing contained in this subsection shall limit the authority of the Board to take disciplinary action against any common interest community manager for any violation of statute or regulation, nor shall the repayment in full by a common interest community manager of the amount paid from the fund on such common interest community manager's account nullify or modify the effect of any disciplinary proceeding against such common interest community manager for any such violation.
 
-        2008, cc. 851, 871; 2009, c. 557; 2013, c. 754.
 
-        
       `
   }
 ]

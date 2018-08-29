@@ -5,9 +5,7 @@ export const condoText2 = [
       `
         No condominium shall come into existence except by the recordation of condominium instruments pursuant to the provisions of this chapter. No condominium instruments shall be recorded unless all units located or to be located on any portion of the submitted land, other than within the boundaries of any convertible lands, are depicted on plats and plans that comply with the provisions of subsections A and B of § 55-79.58. The foreclosure of any mortgage, deed of trust, or other lien shall not be deemed, ex proprio vigore, to terminate the condominium.
 
-        1974, c. 416.
 
-        
       `
   },
   {
@@ -18,9 +16,7 @@ export const condoText2 = [
 
         B. In the event that any lien, other than a deed of trust or mortgage, becomes effective against two or more condominium units subsequent to the creation of the condominium, any unit owner may remove his condominium unit from that lien by payment of the amount attributable to his condominium unit. Such amount shall be computed by reference to the liability for common expenses appertaining to that condominium unit pursuant to subsection D of § 55-79.83. Subsequent to such payment, discharge or other satisfaction, the unit owner of that condominium unit shall be entitled to have that lien released as to his condominium unit in accordance with the provisions of § 55-66.4, and the unit owners' association shall not assess, or have a valid lien against, that condominium unit for any portion of the common expenses incurred in connection with that lien, notwithstanding anything to the contrary in §§ 55-79.83 and 55-79.84.
 
-        1974, c. 416; 1985, c. 107; 1992, c. 72; 1993, c. 667.
 
-        
       `
   },
   {
@@ -29,9 +25,7 @@ export const condoText2 = [
       `
         After the creation of the condominium, no description of a condominium unit shall be deemed vague, uncertain, or otherwise insufficient or infirm which sets forth the identifying number of that unit, the name of the condominium, the name of the city or county wherein the condominium is situated, and either the deed book and page number where the first page of the declaration is recorded or else the document number assigned to the declaration by the clerk. Any such description shall be deemed to include the undivided interest in the common elements appertaining to such unit even if such interest is not defined or referred to therein.
 
-        1974, c. 416; 1975, c. 415.
 
-        
       `
   },
   {
@@ -40,9 +34,7 @@ export const condoText2 = [
       `
         The declaration and bylaws, and any amendments to either made pursuant to § 55-79.71 shall be duly executed by or on behalf of all of the owners and lessees of the submitted land. But the phrase "owners and lessees" in the preceding sentence and in § 55-79.63 does not include, in their capacity as such, any mortgagee, any trustee or beneficiary under a deed of trust, any other lien holder, any person having an equitable interest under any contract for the sale and/or lease of a condominium unit, any lessee whose leasehold interest does not extend to any portion of the common elements, any person whose land is subject to an easement included in the condominium or, in the case of a leasehold condominium subject to any lease or leases executed before July 1, 1962, any lessor of the submitted land who is not a declarant.
 
-        1974, c. 416; 1980, c. 702; 1984, c. 21; 1990, c. 831.
 
-        
       `
   },
   {
@@ -51,9 +43,7 @@ export const condoText2 = [
       `
         All amendments and certifications of condominium instruments shall set forth the name of the city or county in which the condominium is located, and the deed book and page number where the first page of the declaration is recorded. All condominium instruments and all amendments and certifications thereof shall be recorded in every city and county wherein any portion of the condominium is located. The condominium instruments, amendments and certifications shall set forth the name of the condominium and either the deed book and page number where the first page of the declaration is recorded or the document number assigned to the declaration by the clerk. Wherever the phrase "city or county" appears in this chapter, the disjunctive shall be deemed to include the conjunctive and the singular shall be deemed to include the plural.
 
-        1974, c. 416; 1975, c. 415; 1982, c. 545.
 
-        
       `
   },
   {
@@ -72,9 +62,7 @@ export const condoText2 = [
 
         (e) Any shutters, awnings, doors, windows, window boxes, doorsteps, porches, balconies, patios and any other apparatus designed to serve a single unit, but located outside the boundaries thereof, shall be deemed a limited common element appertaining to that unit exclusively; provided that if a single unit's electrical master switch is located outside the designated boundaries of the unit, the switch and its cover shall be deemed a part of the common elements.
 
-        1974, c. 416; 1982, cc. 206, 545.
 
-        
       `
   },
   {
@@ -83,9 +71,7 @@ export const condoText2 = [
       `
         The condominium instruments shall be construed together and shall be deemed to incorporate one another to the extent that any requirement of this chapter as to the content of one shall be deemed satisfied if the deficiency can be cured by reference to any of the others. In the event of any conflict between the condominium instruments, the declaration shall control; but particular provisions shall control more general provisions, except that a construction conformable with the statute shall in all cases control over any construction inconsistent therewith.
 
-        1974, c. 416; 1975, c. 415.
 
-        
       `
   },
   {
@@ -100,9 +86,7 @@ export const condoText2 = [
 
         D. Subject to the provisions of subsection C, the rule of property law known as the rule restricting unreasonable restraints on alienation shall not be applied to defeat any provision of the condominium instruments restraining the alienation of condominium units other than such units as may be restricted to residential use only.
 
-        1974, c. 416; 1975, c. 415; 1998, cc. 32, 454.
 
-        
       `
   },
   {
@@ -115,9 +99,7 @@ export const condoText2 = [
 
         C. The condominium instruments may provide for arbitration of disputes or other means of alternative dispute resolution. Any such arbitration held in accordance with this subsection shall be consistent with the provisions of this chapter and Chapter 21 (§ 8.01-577 et seq.) of Title 8.01. The place of any such arbitration or alternative dispute resolution shall be in the county or city in which the condominium is located, or as mutually agreed by the parties.
 
-        1974, c. 416; 1975, c. 415; 1993, c. 667; 1996, c. 977; 2012, c. 758; 2014, c. 569.
 
-        
       `
   },
   {
@@ -228,9 +210,7 @@ export const condoText2 = [
 
         (g) Wherever this section requires a legal description by metes and bounds of land that is submitted to this chapter or that may be added to or withdrawn from the condominium, an added requirement shall be a separate legally sufficient description of all lands in which the unit owners shall or may be tenants in common or joint tenants with any other persons, and a separate legally sufficient description of all lands in which the unit owners shall or may be life tenants. No units shall be situated on any such lands, however, and the declaration shall describe the nature of the unit owners' estate therein. No such lands shall be shown on the same plat or plats showing other portions of the condominium, but shall be shown instead on separate plats.
 
-        1974, c. 416; 1975, c. 415; 1977, c. 428; 1982, c. 545; 1993, c. 667; 1998, c. 32; 2012, c. 520.
 
-        
       `
   },
   {
@@ -251,9 +231,7 @@ export const condoText2 = [
 
         (g) The common elements shall not be subject to any suit for partition until and unless the condominium is terminated.
 
-        1974, c. 416.
 
-        
       `
   },
   {
@@ -272,9 +250,7 @@ export const condoText2 = [
 
         (d) In the case of a leasehold condominium, if the expiration or termination of any lease causes a contraction of the condominium which reduces the number of units, then the undivided interest in the common elements appertaining to any units thereby withdrawn from the condominium shall thenceforth appertain to the remaining units, being allocated among them in proportion to their undivided interests in the common elements. The principal officer of the unit owners' association, or such other officer or officers as the condominium instruments may specify, shall forthwith prepare, execute, and record an amendment to the declaration reflecting the reallocation of undivided interests produced thereby.
 
-        1974, c. 416.
 
-        
       `
   },
   {
@@ -291,9 +267,7 @@ export const condoText2 = [
 
         E. The declarant may unilaterally record an amendment to the declaration converting a limited common element appurtenant to a unit owned by the declarant into a common element as long as the declarant continues to own the unit.
 
-        1974, c. 416; 1983, c. 230; 1991, c. 497; 1998, c. 32.
 
-        
       `
   },
   {
@@ -312,9 +286,7 @@ export const condoText2 = [
 
         F. For the purposes of subsections A, B, and C, all provisions and requirements relating to units shall be deemed equally applicable to limited common elements. The limited common elements shall be labeled as such, and each limited common element depicted on the plats and plans shall bear the identifying number or numbers of the unit or units to which it is assigned, if it has been assigned, unless the provisions of subsection (e) of § 55-79.50 make such designations unnecessary.
 
-        1974, c. 416; 1975, c. 415; 1984, c. 601; 1991, c. 497; 1999, c. 560; 2008, cc. 851, 871.
 
-        
       `
   },
   {
@@ -329,9 +301,7 @@ export const condoText2 = [
 
         D. The Board may promulgate reasonable regulations which govern the return of bonds submitted in accordance with this section.
 
-        1977, c. 428; 1988, c. 15; 1999, c. 560; 2008, cc. 851, 871.
 
-        
       `
   },
   {
@@ -340,9 +310,7 @@ export const condoText2 = [
       `
         Plats and plans previously recorded pursuant to § 55-79.54 (a), (b) and (c) may be used in lieu of new plats and plans to satisfy in whole or in part the requirements of § 55-79.56 (b), § 55-79.61 B and/or § 55-79.63 if certifications thereof are recorded by the declarant in accordance with § 55-79.58 A and B; and if such certifications are recorded, the plats and plans which they certify shall be deemed recorded pursuant to § 55-79.58 C within the meaning of the three sections aforesaid. All condominium instruments for condominiums created prior to July 1, 1991, are hereby validated notwithstanding that the plats were prerecorded as if in compliance with this section and not recorded with amendments converting convertible land or adding additional land if the plats or subsequent amendments contained the required certifications.
 
-        1974, c. 416; 1991, c. 497.
 
-        
       `
   },
   {
@@ -351,9 +319,7 @@ export const condoText2 = [
       `
         To the extent that any unit or common element encroaches on any other unit or common element, whether by reason of any deviation from the plats and plans in the construction, repair, renovation, restoration, or replacement of any improvement, or by reason of the settling or shifting of any land or improvement, a valid easement for such encroachment shall exist. The purpose of this section is to protect the unit owners, except in cases of willful and intentional misconduct by them or their agents or employees, and not to relieve the declarant or any contractor, subcontractor, or materialman of any liability which any of them may have by reason of any failure to adhere strictly to the plats and plans.
 
-        1974, c. 416.
 
-        
       `
   },
   {
@@ -366,9 +332,7 @@ export const condoText2 = [
 
         C. All convertible lands shall be deemed a part of the common elements except for such portions thereof as are converted in accordance with the provisions of this section. Until the expiration of the period during which conversion may occur or until actual conversion, whichever occurs first, the declarant alone shall be liable for real estate taxes assessed against the convertible land and any improvements thereon and all other expenses in connection with that real estate, and no other unit owner and no other portion of the condominium shall be subject to a claim for payment of those taxes or expenses, and unless the declaration provides otherwise, any income or proceeds from the convertible land and any improvements thereon shall inure to the declarant. No such conversion shall occur after 10 years from the recordation of the declaration, or such shorter period of time as the declaration may specify.
 
-        1974, c. 416; 1975, c. 415; 1986, c. 324; 1991, c. 497; 1993, c. 45; 2012, c. 520.
 
-        
       `
   },
   {
@@ -383,9 +347,7 @@ export const condoText2 = [
 
         (d) Any convertible space not converted in accordance with the provisions of this section, or any portion or portions thereof not so converted, shall be treated for all purposes as a single unit until and unless it is so converted, and the provisions of this chapter shall be deemed applicable to any such space, or portion or portions thereof, as though the same were a unit.
 
-        1974, c. 416; 1999, c. 560.
 
-        
       `
   },
   {
@@ -394,9 +356,7 @@ export const condoText2 = [
       `
         No condominium shall be expanded except in accordance with the provisions of the declaration and of this chapter. Any such expansion shall be deemed to have occurred at the time of the recordation of plats and plans pursuant to subsection C of § 55-79.58, together with an amendment to the declaration, duly executed by the declarant, including, without limitation, all of the owners and lessees of the additional land added to the condominium. Such amendment shall contain a legal description by metes and bounds of the land added to the condominium, and shall reallocate undivided interests in the common elements in accordance with the provisions of subsection (b) of § 55-79.56. Such amendment may create convertible or withdrawable lands or both within the land added to the condominium, but this provision shall not be construed in derogation of the time limits imposed by or pursuant to subdivision (d) (3) of § 55-79.54 and subsection C of § 55-79.61.
 
-        1974, c. 416; 1975, c. 415.
 
-        
       `
   },
   {
@@ -405,9 +365,7 @@ export const condoText2 = [
       `
         No condominium shall be contracted except in accordance with the provisions of the declaration and of this chapter. Any such contraction shall be deemed to have occurred at the time of the recordation of an amendment to the declaration, executed by the declarant, containing a legal description by metes and bounds of the land withdrawn from the condominium. If portions of the withdrawable land were described pursuant to subdivision (d) (5) of § 55-79.54, then no such portion shall be so withdrawn after the conveyance of any unit on such portion. If no such portions were described, then none of the withdrawable land shall be withdrawn after the first conveyance of any unit thereon.
 
-        1974, c. 416.
 
-        
       `
   },
   {
@@ -416,9 +374,7 @@ export const condoText2 = [
       `
         Subject to any restrictions and limitations the condominium instruments may specify, the declarant shall have a transferable easement over and on the common elements for the purpose of making improvements on the submitted land and any additional land pursuant to the provisions of those instruments and of this chapter, and for the purpose of doing all things reasonably necessary and proper in connection therewith.
 
-        1974, c. 416.
 
-        
       `
   },
   {
@@ -427,9 +383,7 @@ export const condoText2 = [
       `
         The declarant and his duly authorized agents, representatives, and employees may maintain sales offices and/or model units on the submitted land if and only if the condominium instruments provide for the same and specify the rights of the declarant with regard to the number, size, location, and relocation thereof. Any such sales office or model unit which is not designated a unit by the condominium instruments shall become a common element as soon as the declarant ceases to be a unit owner, and the declarant shall cease to have any rights with regard thereto unless such sales office or model unit is removed forthwith from the submitted land in accordance with a right reserved in the condominium instruments to make such removal.
 
-        1974, c. 416.
 
-        
       `
   },
   {
@@ -442,9 +396,7 @@ export const condoText2 = [
 
         (b) To the extent that damage is inflicted on any part of the condominium by any person or persons utilizing the easements reserved by the condominium instruments or created by §§ 55-79.65 and 55-79.66, the declarant together with the person or persons causing the same shall be jointly and severally liable for the prompt repair thereof and for the restoration of the same to a condition compatible with the remainder of the condominium.
 
-        1974, c. 416; 1975, c. 415.
 
-        
       `
   },
   {
@@ -455,9 +407,7 @@ export const condoText2 = [
 
         (b) If a unit owner acquires an adjoining unit, or an adjoining part of an adjoining unit, then such unit owner shall have the right to remove all or any part of any intervening partition or to create doorways or other apertures therein, notwithstanding the fact that such partition may in whole or in part be a common element, so long as no portion of any bearing wall or bearing column is weakened or removed and no portion of any common element other than that partition is damaged, destroyed, or endangered. Such creation of doorways or other apertures shall not be deemed an alteration of boundaries within the meaning of § 55-79.69.
 
-        1974, c. 416.
 
-        
       `
   },
   {
@@ -478,9 +428,7 @@ export const condoText2 = [
 
         G. Any relocation of boundaries between adjoining units shall be governed by this section and not by § 55-79.70. Section 55-79.70 shall apply only to such subdivisions of units as are intended to result in the creation of two or more new units in place of the subdivided unit.
 
-        1974, c. 416; 1991, c. 497.
 
-        
       `
   },
   {
@@ -501,9 +449,7 @@ export const condoText2 = [
 
         G. Notwithstanding the definition of "unit" found in § 55-79.41 and the provisions of subsection (d) of § 55-79.62, this section shall have no application to convertible spaces, and no such space shall be deemed a unit for the purposes of this section. However, this section shall apply to any units formed by the conversion of all or any portion of any such space, and any such unit shall be deemed a unit for the purposes of this section.
 
-        1974, c. 416; 1991, c. 497.
 
-        
       `
   },
   {
@@ -522,9 +468,7 @@ export const condoText2 = [
 
         F. Notwithstanding any other provision of this section, the declarant may unilaterally execute and record a corrective amendment or supplement to the condominium instruments to correct a mathematical mistake, an inconsistency or a scrivener's error, or clarify an ambiguity in the condominium instruments with respect to an objectively verifiable fact (including without limitation recalculating the undivided interest in the common elements, the liability for common expenses or the number of votes in the unit owners' association appertaining to a unit), within five years after the recordation of the condominium instrument containing or creating such mistake, inconsistency, error or ambiguity. No such amendment or supplement may materially reduce what the obligations of the declarant would have been if the mistake, inconsistency, error or ambiguity had not occurred. Regardless of the date of recordation of the condominium instruments, the principal officer of the unit owners' association may also unilaterally execute and record such a corrective amendment or supplement upon a vote of two-thirds of the members of the executive organ. All corrective amendments and supplements recorded prior to July 1, 1986, are hereby validated to the extent that such corrective amendments and supplements would have been permitted by this subsection.
 
-        1974, c. 416; 1993, c. 667.
 
-        
       `
   },
   {
@@ -545,9 +489,7 @@ export const condoText2 = [
 
         G. This section shall not apply to any notice related to an enforcement action by the unit owners' association, an assessment lien, or foreclosure proceedings in enforcement of an assessment lien.
 
-        2010, c. 432.
 
-        
       `
   },
   {
@@ -562,9 +504,7 @@ export const condoText2 = [
 
         D. If the condominium instruments of a condominium to be merged or consolidated require a vote or consent of mortgagees in order to amend the condominium instruments or terminate the condominium, the same vote or consent of mortgagees shall be required before such merger or consolidation shall become effective. No merger or consolidation shall affect mortgagee rights, alter the priority of the lien of any mortgage, materially impair or affect any condominium unit as collateral for a mortgage, or affect a mortgagee's right to foreclose on a condominium unit as collateral without the prior written consent of the mortgagee. A vote or consent of a mortgagee required by this section may be deemed received pursuant to § 55-79.73:1.
 
-        2014, c. 659.
 
-        
       `
   },
   {
@@ -573,7 +513,7 @@ export const condoText2 = [
       `
         Repealed by Acts 1993, c. 667.
 
-        
+
       `
   },
   {
@@ -606,9 +546,7 @@ export const condoText2 = [
 
         K. If a lien or encumbrance against a portion of the property that comprises the condominium has priority over the condominium instruments and the lien or encumbrance has not been partially released, upon foreclosure, the parties foreclosing the lien or encumbrance may record an instrument that excludes the property subject to the lien or encumbrance from the condominium.
 
-        1993, c. 667.
 
-        
       `
   },
   {
@@ -617,9 +555,7 @@ export const condoText2 = [
       `
         No provision of this chapter shall be construed in derogation of any requirement of the condominium instruments that all or a specified number of the beneficiaries of mortgages or deeds of trust encumbering the condominium units approve specified actions contemplated by the unit owners' association.
 
-        1993, c. 667.
 
-        
       `
   },
   {
@@ -640,9 +576,7 @@ export const condoText2 = [
 
         The rights enumerated in this section shall be enforceable by any such unit owner pursuant to the provisions of § 55-79.53.
 
-        2015, c. 286.
 
-        
       `
   }
 ]

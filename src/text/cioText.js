@@ -21,9 +21,7 @@ export const cioText = [
 
         "Management services" means (i) acting with the authority of an association in its business, legal, financial, or other transactions with association members and nonmembers; (ii) executing the resolutions and decisions of an association or, with the authority of the association, enforcing the rights of the association secured by statute, contract, covenant, rule, or bylaw; (iii) collecting, disbursing, or otherwise exercising dominion or control over money or other property belonging to an association; (iv) preparing budgets, financial statements, or other financial reports for an association; (v) arranging, conducting, or coordinating meetings of an association or the governing body of an association; (vi) negotiating contracts or otherwise coordinating or arranging for services or the purchase of property and goods for or on behalf of an association; or (vii) offering or soliciting to perform any of the aforesaid acts or services on behalf of an association.
 
-        2008, cc. 851, 871.
 
-        
       `
   },
   {
@@ -42,9 +40,7 @@ export const cioText = [
 
         F. The Board shall issue a provisional license to any person, partnership, corporation, or other entity offering management services to a common interest community on or before December 31, 2008, who makes application for licensure prior to January 1, 2009. Such provisional license shall expire on June 30, 2012, and shall not be renewed. This subsection shall not be construed to limit the powers and authority of the Board.
 
-        2008, cc. 851, 871; 2011, cc. 334, 605.
 
-        
       `
   },
   {
@@ -75,9 +71,7 @@ export const cioText = [
 
         B. A licensee of the Board shall comply with the Board's regulations, notwithstanding the fact that the licensee would be otherwise exempt from licensure under subsection A. Nothing in this subsection shall be construed to require a person to be licensed in accordance with this chapter if he would be otherwise exempt from such licensure.
 
-        2008, cc. 851, 871; 2010, c. 511; 2011, cc. 334, 605.
 
-        
       `
   },
   {
@@ -88,9 +82,8 @@ export const cioText = [
 
         The Board shall meet at least once each year and at other such times as it deems necessary. The Board shall elect from its membership a chairman and a vice-chairman to serve for a period of one year. A majority of the Board shall constitute a quorum. The Board is vested with the powers and duties necessary to execute the purposes of this chapter.
 
-        2008, cc. 851, 871; 2010, c. 511; 2012, c. 522.
 
-        
+
       `
   },
   {
@@ -125,9 +118,8 @@ export const cioText = [
 
         D. Notwithstanding the provisions of subsection E of § 55-530, the Board may receive a complaint directly from any person aggrieved by an association's failure to deliver a resale certificate or disclosure packet within the time period required under § 55-79.97, 55-79.97:1, 55-484, 55-509.5, 55-509.6, or 55-509.7.
 
-        2008, cc. 851, 871; 2009, c. 557; 2010, cc. 511, 615; 2011, c. 334; 2012, cc. 481, 797; 2015, c. 268; 2017, cc. 387, 393, 405, 406.
 
-        
+
       `
   },
   {
@@ -142,9 +134,8 @@ export const cioText = [
 
         3. Develop and disseminate a form to accompany resale certificates required pursuant to § 55-79.97 and association disclosure packets required pursuant to § 55-509.5, which form shall summarize the unique characteristics of common interest communities generally that may affect a prospective purchaser's decision to purchase a lot or unit located in a common interest community. The form shall include information on the following, which may or may not be applicable to a particular common interest community: (i) the obligation on the part of an owner to pay regular annual or special assessments to the association; (ii) the penalty for failure or refusal to pay such assessments; (iii) the purposes for which such assessments, if any, may be used; (iv) the importance the declaration of restrictive covenants or condominium instruments, as applicable, and other governing documents play in association living; (v) limitations on an owner's ability to rent his lot or unit; (vi) limitations on an owner's ability to park or store certain types of motor vehicles or boats within the common interest community; (vii) limitations on an owner's ability to maintain an animal as a pet within the lot or unit, or in common areas or common elements; (viii) architectural guidelines applicable to an owner's lot or unit; (ix) limitations on an owner's ability to operate a business within a dwelling unit on a lot or within a unit; (x) the period or length of declarant control; and (xi) that the purchase contract for a lot within an association is a legally binding document once it is signed by the prospective purchaser where the purchaser has not elected to cancel the purchase contract in accordance with law. The form shall also provide that (a) the purchaser remains responsible for his own examination of the materials that constitute the resale certificate or disclosure packet and of any table of contents that may be contained therein; (b) the purchaser shall carefully review the entire resale certificate or disclosure packet; and (c) the contents of the resale certificate or disclosure packet shall control to the extent that there are any inconsistencies between the form and the resale certificate or disclosure packet.
 
-        2008, cc. 851, 871; 2017, c. 257; 2018, cc. 70, 733.
 
-        
+
       `
   },
   {
@@ -167,9 +158,8 @@ export const cioText = [
 
         H. The Board may assess a monetary penalty to be paid to the Common Interest Community Management Information Fund of not more than $1,000 per violation against any governing board that violates any provision of this chapter, Chapter 4.2 (§ 55-79.39 et seq.), 21 (§ 55-360 et seq.), 24 (§ 55-424 et seq.), or 26 (§ 55-508 et seq.) of Title 55, or any of the Board's regulations or orders. In determining the amount of the penalty, the Board shall consider the degree and extent of harm caused by the violation. No monetary penalty may be assessed under this chapter, Chapter 4.2 (§ 55-79.39 et seq.), 21 (§ 55-360 et seq.), 24 (§ 55-424 et seq.), or 26 (§ 55-508 et seq.) of Title 55, or any of the Board's regulations or orders unless the governing board has been given notice and an opportunity to be heard pursuant to the Administrative Process Act (§ 2.2-4000 et seq.). The penalty may be sued for and recovered in the name of the Commonwealth.
 
-        2008, cc. 851, 871; 2009, c. 557; 2010, c. 615.
 
-        
+
       `
   },
   {
@@ -188,9 +178,7 @@ export const cioText = [
 
         B. If the Board makes a finding of fact in writing that the public interest will be irreparably harmed by delay in issuing an order, it may issue a temporary cease and desist order. Prior to issuing the temporary cease and desist order, the Board shall give notice of the proposal to issue a temporary cease and desist order to the person. Every temporary cease and desist order shall include in its terms a provision that upon request a hearing will be held promptly to determine whether or not it becomes permanent.
 
-        2008, cc. 851, 871; 2009, c. 557.
 
-        
       `
   },
   {
@@ -217,9 +205,8 @@ export const cioText = [
 
         J. The provisions of this chapter are declared to be remedial. The purpose of this chapter is to protect the interests of associations adversely affected by common interest community managers who have breached their fiduciary duty. The provisions of this chapter shall be liberally administered in order to protect those interests and thereby the public's interest in the quality of management services provided by Virginia common interest community managers.
 
-        2008, cc. 851, 871; 2011, cc. 334, 605.
 
-        
+
       `
   },
   {
@@ -228,9 +215,8 @@ export const cioText = [
       `
         Except as expressly provided in this chapter, provisions of this chapter may not be varied by agreement, and rights conferred by this chapter may not be waived. All management agreements entered into by common interest community managers shall comply with the terms of this chapter and the provisions of Chapter 4.2 (§ 55-79.39 et seq.), 21 (§ 55-360 et seq.), 24 (§ 55-424 et seq.), or 26 (§ 55-508 et seq.) of Title 55, as applicable.
 
-        2008, cc. 851, 871.
 
-        
+
       `
   }
 

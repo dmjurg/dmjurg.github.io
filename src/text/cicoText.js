@@ -40,15 +40,7 @@ export const cicoText = [
 
         "Record of complaint" means all documents, correspondence, and other materials related to a decision made pursuant to an association complaint procedure.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -57,15 +49,7 @@ export const cicoText = [
       `
         Any documentation required to be filed with or provided to the board, director, or Office of the Common Interest Community Ombudsman pursuant to this chapter and Chapter 29 (§ 55-528 et seq.) of Title 55 of the Code of Virginia shall be filed with or provided to the Department of Professional and Occupational Regulation.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -76,15 +60,8 @@ export const cicoText = [
 
         In accordance with § 55-530 E of the Code of Virginia, each association shall have a written process for resolving association complaints from members and citizens. The association complaint procedure or form shall conform with the requirements set forth in § 55-530 of the Code of Virginia and this chapter, as well as the association governing documents, which shall not be in conflict with § 55-530 of the Code of Virginia or this chapter.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
 
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -97,15 +74,7 @@ export const cicoText = [
 
         C. The association shall certify with each annual report filing that the association complaint procedure has been adopted and is in effect.
 
-        Statutory Authority
 
-        § 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012; amended, Virginia Register Volume 33, Issue 15, eff. May 1, 2017.
-
-        
       `
   },
   {
@@ -134,15 +103,7 @@ export const cicoText = [
 
         10. The notice of final determination shall include the complainant's right to file a Notice of Final Adverse Decision with the Common Interest Community Board via the Common Interest Community Ombudsman and the applicable contact information.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -153,15 +114,7 @@ export const cicoText = [
 
         B. The association complaint procedure shall be included as an attachment to the resale certificate or the association disclosure packet.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -172,15 +125,6 @@ export const cicoText = [
 
         B. Unless otherwise specified by the director or his designee, the association shall provide to the director or his designee, within 14 days of receipt of the request, any document, book, or record concerning the association complaint. The director or his designee may extend such timeframe upon a showing of extenuating circumstances prohibiting delivery within 14 days of receiving the request.
 
-        Statutory Authority
-
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -189,15 +133,7 @@ export const cicoText = [
       `
         Failure of an association to establish and utilize an association complaint procedure in accordance with this chapter may result in the board seeking any of the remedies available pursuant to Chapter 23.3 (§ 54.1-2345 et seq.) of Title 54.1 of the Code of Virginia.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -225,15 +161,7 @@ export const cicoText = [
 
         4. The notice shall be accompanied by a $25 filing fee or a request for waiver pursuant to 18VAC48-70-100.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -242,15 +170,7 @@ export const cicoText = [
       `
         In accordance with § 55-530 F of the Code of Virginia, the board may, for good cause shown, waive or refund the filing fee upon a finding that payment of the filing fee will cause undue financial hardship for the complainant.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -261,15 +181,8 @@ export const cicoText = [
 
         In accordance with § 55-530 G of the Code of Virginia, additional information may be requested from the association that made the final adverse decision. Upon request, the association shall provide such information to the Office of the Common Interest Community Ombudsman within a reasonable time.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
 
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -280,15 +193,7 @@ export const cicoText = [
 
         The determination of whether the final adverse decision may be in conflict with laws or regulations governing common interest communities or interpretations thereof by the board shall be a matter within the sole discretion of the director. Such decision is final and not subject to further review. The determination of the director shall not be binding upon the complainant or the association that made the final adverse decision.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -297,15 +202,6 @@ export const cicoText = [
       `
         In addition to the provisions of this chapter, any matter involving a violation of applicable laws or regulations of the board may be referred for further action by the board in accordance with the provisions of Chapter 23.3 (§ 54.1-2345 et seq.) of Title 54.1; Chapters 4.2 (§ 55-79.39 et seq.), 26 (§ 55-508 et et seq.), and 29 (§ 55-528 et seq.) of Title 55 of the Code of Virginia; and the board's regulations.
 
-        Statutory Authority
-
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -317,15 +213,7 @@ export const cicoText = [
 
         The Office of the Common Interest Community Ombudsman shall carry out those activities as enumerated in subsection C of § 55-530 of the Code of Virginia.
 
-        Statutory Authority
 
-        §§ 54.1-2349 and 55-530 of the Code of Virginia.
-
-        Historical Notes
-
-        Derived from Volume 28, Issue 19, eff. July 1, 2012.
-
-        
       `
   },
   {
@@ -338,7 +226,7 @@ export const cicoText = [
 
         Notice of Final Adverse Decision, F491-CICNOTE-v1 (eff. 10/2012)
 
-        
+
       `
   }
 ]
