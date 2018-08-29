@@ -3,7 +3,6 @@ export const condoText1 = [
     title: `§ 55-79.39. How chapter cited.`,
     text: [
       `This chapter shall be known and may be cited as the "Condominium Act."
-
      `
     ]
   },
@@ -13,7 +12,6 @@ export const condoText1 = [
       `A. This chapter shall apply to all condominiums and to all horizontal property regimes or condominium projects. For the purposes of this chapter, the terms "horizontal property regime" and "condominium project" shall be deemed to correspond to the term "condominium"; the term "apartment" shall be deemed to correspond to the term "unit"; the term "co-owner" shall be deemed to correspond to the term "unit owner"; the term "council of co-owners" shall be deemed to correspond to the term "unit owners' association"; the term "developer" shall be deemed to correspond to the term "declarant"; the term "general common elements" shall be deemed to correspond to the term "common elements"; and the terms "master deed" and "master lease" shall be deemed to correspond to the term "declaration" and shall be deemed included in the term "condominium instruments." This chapter shall be deemed to supersede the Horizontal Property Act, §§ 55-79.1 through 55-79.38, and no condominium shall be established under the latter on or after July 1, 1974. But this chapter shall not be construed to affect the validity of any provision of any condominium instrument recorded prior to July 1, 1974. Nor shall Article 4 (§ 55-79.86 et seq.) of this chapter be deemed to supersede §§ 55-79.16 through 55-79.31 of the Horizontal Property Act as to any condominiums established prior to the effective date hereof.
        B. This chapter shall not apply to condominiums located outside the Commonwealth. Sections 55-79.88 through 55-79.94 and §§ 55-79.98 through 55-79.103 shall apply to all contracts for the disposition of condominium units signed in the Commonwealth by any person, unless exempt under § 55-79.87.
        C. Subsection B of § 55-79.79 and § 55-79.94 do not apply to the declarant of a conversion condominium if that declarant is a proprietary lessees' association that, immediately before the creation of the condominium, owned fee simple title to or a fee simple reversionary interest in the real estate described pursuant to subdivision (a) (3) of § 55-79.54.
-
      `
     ]
   },
@@ -57,7 +55,6 @@ export const condoText1 = [
        "Special declarant rights" means any right reserved for the benefit of a declarant, or of a person or group of persons that becomes a declarant, to (i) expand an expandable condominium, (ii) contract a contractable condominium, (iii) convert convertible land or convertible space or both, (iv) appoint or remove any officers of the unit owners' association or the executive organ pursuant to subsection A of § 55-79.74, (v) exercise any power or responsibility otherwise assigned by any condominium instrument or by this chapter to the unit owners' association, any officer or the executive organ, or (vi) maintain sales offices, management offices, model units and signs pursuant to § 55-79.66.
        "Unit" means a portion of the condominium designed and intended for individual ownership and use. (Cf. the definition of condominium unit, supra.) For the purposes of this chapter, a convertible space shall be treated as a unit in accordance with subsection (d) of § 55-79.62.
        "Unit owner" means one or more persons who own a condominium unit or, in the case of a leasehold condominium, whose leasehold interest or interests in the condominium extend for the entire balance of the unexpired term or terms. "Unit owner" includes any purchaser of a condominium unit at a foreclosure sale, regardless of whether the deed is recorded in the land records where the unit is located. "Unit owner" does not include any person or persons holding an interest in a condominium unit solely as security for a debt.
-
      `
     ]
   },
@@ -65,7 +62,6 @@ export const condoText1 = [
     title: `§ 55-79.41:1. Variation by agreement.`,
     text: [
       `Except as expressly provided in this chapter, provisions of this chapter may not be varied by agreement, and rights conferred by this chapter may not be waived. A declarant may not act under power of attorney or use any other device to evade the limitations or prohibitions of this chapter or of the condominium instruments.
-
      `
     ]
   },
@@ -73,7 +69,6 @@ export const condoText1 = [
     title: `§ 55-79.42. Separate assessments, titles and taxation.`,
     text: [
       `Except as provided in the following sentence, each condominium unit constitutes for all purposes a separate parcel of real estate. If there is any unit owner other than the declarant, each unit, together with its common element interest, but excluding its common element interest in convertible land and in any withdrawable land within which the declarant has the right to create units and/or limited common elements shall be separately assessed and taxed. Each convertible land and withdrawable land within which the declarant has the right to create units and/or limited common elements shall be separately assessed and taxed against the declarant.
-
      `
     ]
   },
@@ -81,7 +76,6 @@ export const condoText1 = [
     title: `§ 55-79.42:1. Association charges.`,
     text: [
       `Except as expressly authorized in this chapter, in the condominium instruments, or as otherwise provided by law, no unit owners' association may make an assessment or impose a charge against a unit owner unless the charge is (i) authorized under § 55-79.83, (ii) a fee for services provided, or (iii) related to the provisions set out in § 55-79.97:1. The Common Interest Community Board may assess a monetary penalty for a violation of this section against any (a) unit owners' association pursuant to § 54.1-2351 or (b) common interest community manager pursuant to § 54.1-2349, and may issue a cease and desist order pursuant to § 54.1-2349 or 54.1-2352, as applicable.
-
      `
     ]
   },
@@ -95,7 +89,6 @@ export const condoText1 = [
        In accordance with subsection B of § 55-79.80, once the declarant no longer has such authority, the executive organ of the unit owners' association, if any, and if not, then a representative duly appointed by the unit owners' association, shall have the authority to execute, file, and process any subdivision, site plan, zoning, or other land use applications or disclosures, including conditional zoning proffers and agreements incidental thereto that do not create an affirmative obligation on the declarant without its consent, with respect to the common elements or applications affecting more than one unit, notwithstanding that the unit owners' association is not the owner of the land. Such applications shall not adversely affect the rights of the declarant to develop additional land. For purposes of obtaining building and occupancy permits, the unit owner (including the declarant if the declarant is the unit owner) shall apply for permits for the unit, and the unit owners' association shall apply for permits for the common elements, except that the declarant shall apply for permits for convertible land.
        E. Counties, cities and towns may provide by ordinance that proposed conversion condominiums and the use thereof, which do not conform to the zoning, land use and site plan regulations of the respective county or city in which the property is located, shall secure a special use permit, a special exception, or variance, as the case may be, prior to such property becoming a conversion condominium. A request for such a special use permit, special exception, or variance filed on or after July 1, 1982, shall be granted if the applicant can demonstrate to the reasonable satisfaction of the local authority that the nonconformities are not likely to be adversely affected by the proposed conversion. No action on any such request shall be unreasonably delayed. In the event of an approved conversion to condominium ownership, counties, cities, towns, sanitary districts, or other political subdivisions may impose such charges and fees as are lawfully imposed by such political subdivisions as a result of construction of new structures to the extent that such charges and fees, or portions of such charges and fees, imposed upon property subject to such conversions may be reasonably related to greater or additional services provided by the political subdivision as a result of the conversion.
        F. Nothing in this section shall be construed to permit application of any provision of the Uniform Statewide Building Code (§ 36-97 et seq.) or any local ordinances regulating design and construction of roads, sewer and water lines, stormwater management facilities and other public infrastructure, to a condominium in a manner different from the manner in which such provision is applied to other buildings of similar physical form and nature of occupancy.
-
      `
     ]
   },
@@ -108,7 +101,6 @@ export const condoText1 = [
        (d) If, however, the taking of a portion of any unit makes it impractical to use the remaining portion of that unit for any lawful purpose permitted by the condominium instruments, then the entire undivided interest in the common elements appertaining to that unit shall thenceforth appertain to the remaining units, being allocated to them in proportion to their respective undivided interests in the common elements, and the remaining portion of that unit shall thenceforth be a common element. The court shall enter a decree reflecting the reallocation of undivided interests produced thereby, and the award shall include, without limitation, just compensation to the unit owner of such unit for his entire undivided interest in the common elements and for his entire unit.
        (e) Votes in the unit owners' association, rights to future common profits, and liabilities for future common expenses not specially assessed, appertaining to any unit or units taken or partially taken by eminent domain, shall thenceforth appertain to the remaining units, being allocated to them in proportion to their relative voting strength in the unit owners' association, with any units partially taken participating in such reallocation as though their voting strength in the unit owners' association had been reduced in proportion to the reduction in their undivided interests in the common elements, and the decree of the court shall provide accordingly.
        (f) The decree of the court shall require the recordation thereof among the land records of the city or county in which the condominium is located.
-
      `
     ]
   }

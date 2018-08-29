@@ -11,8 +11,6 @@ export const vncaText2 = [
      4. An authenticated copy of an instrument of entity conversion for a foreign corporation that has converted to a different entity type.
      The Commission shall cancel the annual registration fee assessments specified in this subsection that remain unpaid.
      D. Annual registration fee assessments that have been paid shall not be refunded.
-     Code 1950, § 13.1-284; 1956, c. 428; 1985, c. 522; 1988, c. 405; 1989, c. 152; 1997, c. 216; 2003, c. 374; 2006, c. 659; 2007, cc. 810, 925; 2009, c. 216; 2010, c. 753; 2015, c. 623.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -21,7 +19,6 @@ export const vncaText2 = [
     text: [
       `A. Every domestic corporation, upon the granting of its charter or upon domestication, shall pay a charter fee in the amount of $50 into the state treasury, and every foreign corporation shall pay an entrance fee of $50 into the state treasury for its certificate of authority to transact business in the Commonwealth.
      B. For any foreign corporation that files articles of domestication and that had authority to transact business in the Commonwealth at the time of such filing, the charter fee to be charged upon domestication shall be an amount equal to the difference between the amount that would be required by this section and the amount already paid as an entrance fee by such corporation. For any foreign corporation that files an application for a certificate of authority to transact business in the Commonwealth and that had previously surrendered its articles of incorporation as a domestic corporation, the entrance fee to be charged upon obtaining a certificate of authority to transact business in the Commonwealth shall be an amount equal to the difference between the amount that would be required by this section and the amount already paid as a charter fee by such corporation.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -48,8 +45,6 @@ export const vncaText2 = [
      f. Articles of termination of corporate existence.
      g. An application for withdrawal of a foreign corporation.
      3. For issuing a certificate pursuant to § 13.1-945, the fee shall be $6.
-     Code 1950, §§ 13.1-285, 13.1-286.1; 1956, c. 428; 1958, c. 564; 1964, c. 551; 1972, c. 579; 1975, c. 500; 1981, c. 522; 1982, c. 460; 1984, c. 294; 1985, c. 522; 1987, c. 183; 1988, c. 405; 1995, c. 368; 2003, c. 374; 2004, c. 274; 2007, cc. 771, 925; 2012, c. 130.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -57,7 +52,6 @@ export const vncaText2 = [
     title: `§ 13.1-817. Repealed.`,
     text: [
       `Repealed by Acts 1991, c. 123.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   }

@@ -4,7 +4,6 @@ export const vncaText8 = [
     text: [
       `A. Except as provided in an agreement authorized by § 13.1-852.1, each corporation shall have a board of directors.
      B. All corporate powers shall be exercised by or under the authority of, and the business and affairs of the corporation managed under the direction of, its board of directors, subject to any limitation set forth in the articles of incorporation or in an agreement authorized by § 13.1-852.1.
-     Code 1950, § 13.1-220; 1956, c. 428; 1983, c. 393; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -12,7 +11,6 @@ export const vncaText8 = [
     title: `§ 13.1-854. Qualification of directors.`,
     text: [
       `The articles of incorporation or bylaws may prescribe qualifications for directors. Unless the articles of incorporation or bylaws so prescribe, a director need not be a resident of the Commonwealth or a member of the corporation.
-     Code 1950, § 13.1-220; 1956, c. 428; 1983, c. 393; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -24,7 +22,6 @@ export const vncaText8 = [
      C. The articles of incorporation or bylaws may establish a variable range for the size of the board of directors by fixing a minimum and maximum number of directors. If a variable range is established, the number of directors may be fixed or changed from time to time, within the minimum and maximum, by the members or the board of directors. However, to the extent that the corporation has members with voting privileges, only the members may change the range for the size of the board of directors or change from a fixed to a variable-range size board or vice versa.
      D. Directors shall be elected or appointed in the manner provided in the articles of incorporation. If the corporation has members with voting privileges, directors shall be elected at the first annual members' meeting and at each annual meeting thereafter unless their terms are staggered under § 13.1-858.
      E. No individual shall be named or elected as a director without his prior consent.
-     Code 1950, § 13.1-220; 1956, c. 428; 1983, c. 393; 1985, c. 522; 2007, c. 925; 2010, c. 171.
       `
     ]
   },
@@ -44,7 +41,6 @@ export const vncaText8 = [
      D. A decrease in the number of directors does not shorten an incumbent director's term.
      E. The term of a director elected by the board of directors to fill a vacancy expires at the next members' meeting at which directors are elected or, if there are no members or the corporation's members do not have voting rights, as provided in the articles of incorporation.
      F. Except in the case of ex-officio directors, despite the expiration of a director's term, a director continues to serve until his successor is elected and qualifies or until there is a decrease in the number of directors, if any.
-     Code 1950, § 13.1-221; 1956, c. 428; 1985, c. 522; 1986, c. 529; 2004, c. 303; 2007, c. 925.
       `
     ]
   },
@@ -53,7 +49,6 @@ export const vncaText8 = [
     text: [
       `A. The articles of incorporation may provide for staggering the terms of directors by dividing the total number of directors into groups, and the terms of office of the several groups need not be uniform.
      B. If the articles of incorporation permit cumulative voting, any provision establishing staggered terms of directors shall provide that at least three directors shall be elected at each annual members' meeting.
-     Code 1950, § 13.1-221; 1956, c. 428; 1985, c. 522; 1987, c. 140; 1989, c. 419; 2007, c. 925.
       `
     ]
   },
@@ -76,7 +71,6 @@ export const vncaText8 = [
      D. If a corporation has no members or no members with voting rights, a director may be removed pursuant to procedures set forth in the articles of incorporation or bylaws, and if none are provided, a director may be removed by such vote as would suffice for his election.
      E. A director may be removed only at a meeting called for the purpose of removing him. The meeting notice shall state that the purpose or one of the purposes of the meeting is removal of the director.
      F. Upon the removal of a director, the corporation may file an amended annual report with the Commission indicating the removal of the director and the successor in office, if any.
-     Code 1950, § 13.1-221; 1956, c. 428; 1985, c. 522; 1987, c. 177; 1991, c. 124; 2007, c. 925.
       `
     ]
   },
@@ -84,7 +78,6 @@ export const vncaText8 = [
     title: `§ 13.1-861. Judicial review of elections.`,
     text: [
       `Any member or director aggrieved by an election of directors may, after reasonable notice to the corporation and each director whose election is contested, apply for relief to the circuit court in the county or city in which the principal office of the corporation is located, or, if none in the Commonwealth, in the county or city in which its registered office is located. The court shall proceed forthwith in a summary way to hear and decide the issues and thereupon to determine the persons elected or order a new election or grant such other relief as may be equitable. Pending decision, the court may require the production of any information and may by order restrain any person from exercising the powers of a director if such relief is equitable.
-     Code 1950, § 13.1-221; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -98,7 +91,6 @@ export const vncaText8 = [
      B. Unless the articles of incorporation provide otherwise, if the vacant office was held by a director elected by a voting group of members, only the members of that voting group are entitled to vote to fill the vacancy if it is filled by the members.
      C. A vacancy that will occur at a specific later date, by reason of a resignation effective at a later date under subsection B of § 13.1-859 or otherwise, may be filled before the vacancy occurs but the new director may not take office until the vacancy occurs.
      D. The corporation may file an amended annual report with the Commission indicating the filling of a vacancy.
-     Code 1950, § 13.1-222; 1956, c. 428; 1985, c. 522; 1991, c. 124; 2007, c. 925.
       `
     ]
   },
@@ -114,7 +106,6 @@ export const vncaText8 = [
     text: [
       `A. The board of directors may hold regular or special meetings in or out of the Commonwealth.
      B. Unless the articles of incorporation or bylaws provide otherwise, the board of directors may permit any or all directors to participate in a regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all directors participating may simultaneously hear each other during the meeting. A director participating in a meeting by this means is deemed to be present in person at the meeting.
-     Code 1950, § 13.1-225; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -159,7 +150,6 @@ export const vncaText8 = [
      2. He votes against, or abstains from, the action taken.
      E. Except as provided in § 13.1-852.1, a director shall not vote by proxy.
      F. Whenever this Act requires the board of directors to take any action or to recommend or approve any proposed corporate act, such action, recommendation or approval shall not be required if the proposed action or corporate act is adopted by the unanimous consent of members.
-     Code 1950, § 13.1-223; 1956, c. 428; 1985, c. 522; 1992, c. 471; 2007, c. 925.
       `
     ]
   },
@@ -177,7 +167,6 @@ export const vncaText8 = [
      5. Approve a plan of merger not requiring member approval.
      E. The creation of, delegation of authority to, or action by a committee does not alone constitute compliance by a director with the standards of conduct described in § 13.1-870.
      F. The board of directors may appoint one or more directors as alternate members of any committee to replace any absent or disqualified member during the member's absence or disqualification. Unless the articles of incorporation, the bylaws, or the resolution creating the committee provides otherwise, in the event of the absence or disqualification of a member of a committee, the member or members present at any meeting and not disqualified from voting may unanimously appoint another director to act in place of the absent or disqualified member.
-     Code 1950, § 13.1-224; 1956, c. 428; 1975, c. 500; 1977, c. 435; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -229,7 +218,6 @@ export const vncaText8 = [
      3. The transaction was fair to the corporation.
      B. For purposes of subdivision A 1, a conflict of interests transaction is authorized, approved, or ratified if it receives the affirmative vote of a majority of the disinterested directors on the board of directors, or on the committee. A transaction shall not be authorized, approved, or ratified under this section by a single director. If a majority of the disinterested directors vote to authorize, approve or ratify the transaction, a quorum is present for the purpose of taking action under this section. The presence of, or a vote cast by, a director who is not disinterested does not affect the validity of any action taken under subdivision A 1 if the transaction is otherwise authorized, approved or ratified as provided in that subsection.
      C. For purposes of subdivision A 2, a conflict of interests transaction is authorized, approved, or ratified if it receives the vote of a majority of the votes entitled to be counted under this subsection. The votes controlled by a director who is not disinterested may not be counted in a vote of members to determine whether to authorize, approve, or ratify a conflict of interests transaction under subdivision A 2. The director's votes, however, may be counted in determining whether the transaction is approved under other sections of this Act. A majority of the members, whether or not present, that are entitled to be counted in a vote on the transaction under this subsection constitutes a quorum for the purpose of taking action under this section.
-     Code 1950, § 13.1-223; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -250,7 +238,6 @@ export const vncaText8 = [
      B. The board of directors may elect individuals to fill one or more offices of the corporation. An officer may appoint one or more officers or assistant officers if authorized by the bylaws or the board of directors.
      C. The secretary or any other officer as designated in the bylaws or by resolution of the board shall have responsibility for preparing and maintaining custody of minutes of the directors' and members' meetings and for authenticating records of the corporation.
      D. The same individual may simultaneously hold more than one office in the corporation.
-     Code 1950, § 13.1-226; 1956, c. 428; 1982, c. 372; 1985, c. 522; 1994, c. 189; 2007, c. 925.
       `
     ]
   },
@@ -268,7 +255,6 @@ export const vncaText8 = [
      B. A board of directors may remove any officer at any time with or without cause and any officer or assistant officer, if appointed by another officer, may likewise be removed by such officer. Election or appointment of an officer shall not of itself create any contract rights in the officer or the corporation. An officer's removal does not affect such officer's contract rights, if any, with the corporation. An officer's resignation does not affect the corporation's contract rights, if any, with the officer.
      C. Any person who has resigned as an officer of a corporation, or whose name is incorrectly on file with the Commission as an officer of a corporation, may file a statement to that effect with the Commission.
      D. Upon the resignation or removal of an officer, the corporation may file an amended annual report with the Commission indicating the resignation or removal of the officer and the successor in office, if any.
-     Code 1950, § 13.1-227; 1956, c. 428; 1985, c. 522; 1990, c. 282; 1991, c. 124; 2007, c. 925.
       `
     ]
   }

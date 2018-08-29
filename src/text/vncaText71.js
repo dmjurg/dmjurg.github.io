@@ -22,7 +22,6 @@ export const vncaText71 = [
      G. Incorporators or subscribers for membership interests may act as members or directors with respect to an agreement authorized by this section if no members have been elected or appointed or, in the case of a corporation that has no members, no directors are elected or holding office when the agreement was made.
      H. No action taken pursuant to this section shall change any requirement to file articles or other documents with the Commission or affect the rights of any creditors or other third parties.
      I. An agreement among the members or the directors of a corporation that is consistent with the other provisions of this chapter that does not comply with the provisions of this section shall nonetheless be effective among the members, the directors, and the corporation.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -31,7 +30,6 @@ export const vncaText71 = [
     text: [
       `A. Two or more members entitled to vote may provide for the manner in which they will vote by signing an agreement for that purpose.
      B. A voting agreement created under this section is specifically enforceable.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   }

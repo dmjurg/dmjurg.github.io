@@ -3,8 +3,6 @@ export const vncaText1 = [
     title: `§ 13.1-801. Short title.`,
     text: [
       `This chapter shall be known as the Virginia Nonstock Corporation Act or the "Act."
-     Code 1950, § 13.1-201; 1956, c. 428; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -12,8 +10,6 @@ export const vncaText1 = [
     title: `§ 13.1-802. Reservation of power to amend or repeal.`,
     text: [
       `The General Assembly shall have power to amend or repeal all or part of this Act at any time, and all domestic and foreign corporations subject to this Act shall be governed by the amendment or repeal.
-     Code 1950, § 13.1-291; 1956, c. 428; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -75,8 +71,6 @@ export const vncaText1 = [
      "Voting group" means all members of one or more classes that under the articles of incorporation or this Act are entitled to vote and be counted together collectively on a matter at a meeting of members. All members entitled by the articles of incorporation or this Act to vote generally on the matter are for that purpose a single voting group.
      "Voting power" means the current power to vote in the election of directors.
      "Writing" or "written" means any information in the form of a document.
-     Code 1950, § 13.1-202; 1956, c. 428; 1985, c. 522; 1997, c. 801; 2002, c. 285; 2007, c. 925; 2010, c. 171; 2012, c. 706.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -115,7 +109,6 @@ export const vncaText1 = [
      f. Any required statement in a filed document of the date on which the underlying transaction was approved or the manner in which that approval was given.
      5. If a term of a filed document is made dependent on a fact objectively ascertainable outside of the filed document and that fact is not objectively ascertainable by reference to a source described in subdivision 2a or to a document that is a matter of public record, or if the affected members have not received notice of the fact from the corporation, then the corporation shall file with the Commission articles of amendment setting forth the fact promptly after the time when the fact referred to is first objectively ascertainable or thereafter changes. Articles of amendment under this subdivision are deemed to be authorized by the authorization of the original filed document or plan to which they relate and may be filed by the corporation without further action by the board of directors or the members.
      6. The provisions of subdivisions 1, 2, and 5 of this subsection shall not be considered by the Commission in deciding whether the terms of a plan or filed document comply with the requirements of law.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -131,7 +124,6 @@ export const vncaText1 = [
      5. A statement that the court had jurisdiction of the proceeding under federal statute.
      C. If the Commission finds that the articles of amendment, merger, or dissolution comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of amendment, merger, or dissolution.
      D. This section does not apply after entry of a final decree in the reorganization proceeding even though the court retains jurisdiction of the proceeding for limited purposes unrelated to consummation of the reorganization plan.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -140,8 +132,6 @@ export const vncaText1 = [
     text: [
       `A. Whenever this chapter conditions the effectiveness of a document upon the issuance of a certificate by the Commission to evidence the effectiveness of the document, the Commission shall by order issue the certificate if it finds that the document complies with the requirements of law and that all required fees have been paid. The Commission shall admit any such certificate to record in its office.
      B. Whenever the Commission is directed to admit any document to record in its office, it shall cause it to be spread upon its record books or to be recorded or reproduced in any other manner the Commission may deem suitable. Except as otherwise provided by law, the Commission may furnish information from and provide access to any of its records by any means the Commission may deem suitable.
-     Code 1950, § 13.1-288; 1956, c. 428; 1982, c. 375; 1984, c. 295; 1985, c. 522; 1986, c. 231; 1987, c. 183; 1988, c. 405; 1989, c. 152.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -151,7 +141,6 @@ export const vncaText1 = [
       `A. A certificate issued by the Commission is effective at the time such certificate is issued, unless the certificate relates to articles filed with the Commission and the articles state that the certificate shall become effective at a later time and date specified in the articles. In that event the certificate shall become effective at the earlier of the time and date so specified or 11:59 p.m. on the 15th day after the date on which the certificate is issued by the Commission. Any other document filed with the Commission shall be effective when accepted for filing unless otherwise provided for in this Act.
      B. Notwithstanding subsection A, any certificate that has a delayed effective time and date shall not become effective if, prior to the effective time and date, the parties to the articles to which the certificate relates file a request for cancellation with the Commission and the Commission, by order, cancels the certificate.
      C. Notwithstanding subsection A, for purposes of §§ 13.1-829 and 13.1-924, any certificate that has a delayed effective date shall be deemed to be effective when the certificate is issued.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -167,7 +156,6 @@ export const vncaText1 = [
      5. A statement that the board of directors authorized the correction and the date of such authorization.
      C. Upon the issuance of a certificate of correction by the Commission, the articles of correction shall become effective as of the effective date and time of the articles they correct except as to persons relying on the uncorrected articles and adversely affected by the correction. As to those persons, articles of correction are effective upon the issuance of the certificate of correction.
      D. No articles of correction shall be accepted by the Commission when received more than 30 days after the effective date of the certificate relating to the articles to be corrected.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -175,7 +163,6 @@ export const vncaText1 = [
     title: `§ 13.1-808. Evidentiary effect of copy of filed document.`,
     text: [
       `A certificate attached to a copy of any document admitted to the records of the Commission, bearing the signature of the clerk of the Commission or a member of the staff of the office of the clerk, which in either case may be in facsimile, and the seal of the Commission, which may be in facsimile, is conclusive evidence that the document has been admitted to the records of the Commission.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -193,7 +180,6 @@ export const vncaText1 = [
      3. No certificate of dissolution, certificate of withdrawal, or order of reinstatement prohibiting the domestic corporation from engaging in business until it changes its corporate name has been issued or such certificate or prohibition no longer is in effect.
      D. The certificate may state any other facts of record in the office of the clerk of the Commission that may be requested by the applicant.
      E. Subject to any qualification stated in the certificate, a certificate of good standing issued by the Commission may be relied upon as conclusive evidence that the domestic or foreign corporation is in good standing in the Commonwealth.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -223,7 +209,6 @@ export const vncaText1 = [
      5. If oral, when communicated.
      J. A notice or other communication may be in the form of an electronic transmission that cannot be directly reproduced in paper form by the recipient through an automated process used in conventional commercial practice only if (i) the electronic transmission is otherwise retrievable in perceivable form and (ii) the sender and the recipient have consented in writing to the use of such form of electronic transmission.
      K. If this chapter prescribes requirements for notices or other communications in particular circumstances, those requirements govern. If articles of incorporation or bylaws prescribe requirements for notices or other communications not inconsistent with this section or other provisions of this chapter, those requirements govern. The articles of incorporation or bylaws may authorize or require delivery of notices of meetings of directors by electronic transmission.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -235,7 +220,6 @@ export const vncaText1 = [
      2. A corporation, limited liability company, partnership, limited partnership, business trust, trust, estate, or other entity; or
      3. The trustees, guardians, custodians, or other fiduciaries of a single trust, estate, or account.
      B. For purposes of this Act, membership interests registered in substantially similar names constitute one member if it is reasonable to believe that the names represent the same person.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -244,8 +228,6 @@ export const vncaText1 = [
     text: [
       `A. It shall be unlawful for any person to sign a document which he knows is false in any material respect with intent that the document be delivered to the Commission for filing.
      B. Anyone who violates the provisions of this section shall be guilty of a Class 1 misdemeanor.
-     Code 1950, § 13.1-295; 1958, c. 506; 1975, c. 500; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -253,8 +235,6 @@ export const vncaText1 = [
     title: `§ 13.1-812. Unlawful to transact or offer to transact business as a corporation unless authorized.`,
     text: [
       `It shall be unlawful for any person to transact business in the Commonwealth as a corporation or to offer or advertise to transact business in the Commonwealth as a corporation unless the alleged corporation is either a domestic corporation or a foreign corporation authorized to transact business in the Commonwealth. Any person who violates this section shall be guilty of a Class 1 misdemeanor.
-     Code 1950, § 13.1-296; 1958, c. 565; 1981, c. 320; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -264,8 +244,6 @@ export const vncaText1 = [
       `A. The Commission shall have no power to grant a hearing with respect to any certificate issued by the Commission with respect to any articles filed with the Commission except on a petition by a member or director, filed with the Commission and the corporation within 30 days after the effective date of the certificate, in which the member or director asserts that the certification of corporate action contained in the articles contains a misstatement of a material fact as to compliance with statutory requirements, specifying the particulars thereof. After hearing, on notice in writing to the corporation and the member or director, the Commission shall determine the issues and revoke or refuse to revoke its order accordingly.
      B. No court within or without the Commonwealth shall have jurisdiction to enjoin or delay the holding of any meeting of directors or members for the purpose of authorizing or consummating any amendment, merger, domestication, or termination of corporate existence, or the execution or filing with the Commission of any articles or other documents for such purpose, except pursuant to subsection D of § 13.1-845 or for fraud. No court within or without the Commonwealth, except the Supreme Court by way of appeal as authorized by law, shall have jurisdiction to review, reverse, correct or annul any action of the Commission, within the scope of its authority, with regard to any articles, certificate, order, objection or petition, or to suspend or delay the execution or operation thereof, or to enjoin, restrain or interfere with the Commission in the performance of its official duties.
      C. Notwithstanding any provision of subsection A to the contrary, the Commission shall have the power to act upon a petition filed by a corporation at any time to correct Commission records so as to eliminate the effects of clerical errors and of filings made by a person or persons without authority to act for the corporation, or of its own motion to correct Commission records so as to eliminate the effects of clerical errors committed by its staff.
-     Code 1950, § 13.1-287; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925; 2008, c. 91; 2010, c. 171; 2015, c. 623.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -273,8 +251,6 @@ export const vncaText1 = [
     title: `§ 13.1-814. Shares of stock and dividends prohibited.`,
     text: [
       `A corporation shall not issue shares of stock. No dividend shall be paid and no part of the income of a corporation shall be distributed to its members, directors or officers, except that a corporation may make distributions to another nonprofit corporation that is a member of such corporation or has the power to appoint one or more of its directors. A corporation may pay compensation in a reasonable amount to its members, directors or officers for services rendered, including pensions, may confer benefits upon its members in conformity with its purposes, and may make distributions to its members or others as permitted by this Act upon dissolution or final liquidation and no such payment, benefit or distribution shall be deemed to be a dividend or a distribution of income.
-     Code 1950, § 13.1-229; 1956, c. 428; 1985, cc. 380, 522.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -284,7 +260,6 @@ export const vncaText1 = [
       `A. As used in this section, "community association" shall mean a corporation incorporated under this chapter or under former Chapter 2 of this title which owns or has under its care, custody or control real estate subject to a recorded declaration of covenants which obligates a person, by virtue of ownership of specific real estate, to be a member of the corporation.
      B. Notwithstanding the requirements of §§ 13.1-851, 13.1-852, 13.1-855, 13.1-856, 13.1-857, 13.1-858 and 13.1-862, the provisions set forth in those sections need not be set forth in the articles of incorporation of a community association and shall be effective if set forth in the bylaws.
      C. Notwithstanding the provisions of §§ 13.1-855, 13.1-856, 13.1-892 and 13.1-899, the provisions of the bylaws of any community association in existence on or before January 1, 1986, shall continue to govern (i) the procedures for and election of members of the board of directors, (ii) the amendment of the bylaws, (iii) the sale, release, exchange or disposition of all or substantially all of the corporation's property, whether or not in the usual and regular course of business, and (iv) the corporation's ability to mortgage, pledge, or dedicate to repayment of indebtedness, or otherwise encumber its property; provided, that the community association may, in accordance with its current articles of incorporation and bylaws, vote to amend its corporate documents to become subject to §§ 13.1-855, 13.1-856, 13.1-892 and 13.1-899.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   }

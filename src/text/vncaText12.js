@@ -6,7 +6,6 @@ export const vncaText12 = [
      1. To sell, lease, exchange, or otherwise dispose of any or all of the corporation's assets in the usual and regular course of business;
      2. To mortgage, pledge or dedicate to the repayment of indebtedness, whether with or without recourse, or otherwise encumber any or all of the corporation's assets whether or not in the usual and regular course of business; or
      3. To transfer any or all of the corporation's assets to one or more domestic or foreign eligible entities all of whose eligible interests are owned by the corporation.
-     Code 1950, §§ 13-232, 13.1-246; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -22,7 +21,6 @@ export const vncaText12 = [
      5. Unless the parties to the disposition have agreed otherwise, after a disposition of assets has been approved by members, and at any time before the disposition has been consummated, it may be abandoned, subject to any contractual rights, without further member action in accordance with the procedure set forth in the resolution proposing the disposition or, if none is set forth, by the board of directors.
      C. For a transaction to be authorized where there are no members, or no members having voting rights, the proposed transaction shall be authorized upon receiving the vote of a majority of the directors in office.
      D. A disposition of assets in the course of dissolution under Article 13 (§ 13.1-902 et seq.) is not governed by this section.
-     Code 1950, §§ 13-232, 13.1-246; 1956, c. 428; 1985, c. 522; 1991, c. 110; 2007, c. 925.
       `
     ]
   },
@@ -30,7 +28,6 @@ export const vncaText12 = [
     title: `§ 13.1-901. Sale of certain real property by incorporated educational institutions.`,
     text: [
       `In all cases where an incorporated educational institution, or its board of directors, or trustees, for its benefit, owns or holds more than 1,000 acres of land in one or more tracts outside of a city or incorporated town, such board of trustees or directors may, notwithstanding any provision in its charter, or in the deed, will or muniment of title under which such real estate is held, by a majority vote of all of the members of such board, sell and convey all of such real estate in excess of 1,000 acres, the portion to be sold to embrace both land and buildings as may be determined by the board.
-     Code 1950, § 13.1-246.1; 1973, c. 476; 1985, c. 522.
       `
     ]
   }

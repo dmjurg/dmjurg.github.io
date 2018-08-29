@@ -16,7 +16,6 @@ export const vncaText14 = [
      10. For a period of less than 90 consecutive days, producing, directing, filming, crewing or acting in motion picture feature films, television series or commercials, or promotional films which are sent outside of the Commonwealth for processing, editing, marketing and distribution; or
      11. Serving, without more, as a general partner of or as a partner in a partnership that is a general partner of a domestic or foreign limited partnership that does not otherwise transact business in the Commonwealth.
      C. The list of activities in subsection B is not exhaustive.
-     Code 1950, §§ 13.1-265 to 13.1-265.2; 1956, c. 428; 1962, c. 239; 1980, c. 630; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -29,7 +28,6 @@ export const vncaText14 = [
      A court may stay a proceeding commenced by a foreign corporation, its successor, or assignee until it determines whether the foreign corporation or its successor requires a certificate of authority. If it so determines, the court shall further stay the proceeding until the foreign corporation or its successor obtains the certificate.
      D. If a foreign corporation transacts business in the Commonwealth without a certificate of authority, each officer, director, and employee who does any of such business in the Commonwealth knowing that a certificate of authority is required shall be liable for a penalty of not less than $500 and not more than $5,000. Any such penalty may be imposed by the Commission or by any court in the Commonwealth before which an action against the corporation may lie, after the corporation and the individual have been given notice and an opportunity to be heard.
      E. Suits, actions and proceedings may be begun against a foreign corporation that transacts business in the Commonwealth without a certificate of authority by serving process on any director, officer or agent of the corporation doing such business, or, if none can be found, on the clerk of the Commission or on the corporation in any other manner permitted by law. If any foreign corporation transacts business in the Commonwealth without a certificate of authority, it shall by transacting such business be deemed to have thereby appointed the clerk of the Commission its attorney for service of process. Service upon the clerk shall be made in accordance with § 12.1-19.1.
-     Code 1950, §§ 13-218, 13.1-281; 1956, c. 428; 1981, c. 320; 1985, c. 522; 1986, c. 571; 1990, c. 325; 1991, c. 672; 2007, c. 925.
       `
     ]
   },
@@ -45,7 +43,6 @@ export const vncaText14 = [
      6. The names and usual business addresses of the current directors and principal officers of the foreign corporation.
      B. The foreign corporation shall deliver with the completed application a copy of its articles of incorporation and all amendments thereto, duly authenticated by the Secretary of State or other official having custody of corporate records in the state or other jurisdiction under whose laws it is incorporated.
      C. If the Commission finds that the application complies with the requirements of law, and that all required fees have been paid, it shall issue a certificate of authority to transact business in the Commonwealth.
-     Code 1950, §§ 13.1-269, 13.1-270; 1956, c. 428; 1958, c. 564; 1975, c. 500; 1985, c. 522; 1994, c. 348; 2001, cc. 517, 541; 2002, c. 607; 2004, c. 274; 2007, c. 925; 2015, c. 623.
       `
     ]
   },
@@ -57,7 +54,6 @@ export const vncaText14 = [
      2. To abandon or change the designated name adopted by the corporation for use in the Commonwealth pursuant to subsection B of § 13.1-924.
      B. The requirements of § 13.1-921 for obtaining an original certificate of authority apply to obtaining an amended certificate under this section.
      C. Whenever the articles of incorporation of a foreign corporation that is authorized to transact business in the Commonwealth are amended, within 30 days after the amendment becomes effective, the foreign corporation shall file with the Commission a copy of such amendment duly authenticated by the Secretary of State or other official having custody of corporate records in the state or other jurisdiction under whose law it is incorporated.
-     Code 1950, §§ 13.1-275 to 13.1-277; 1956, c. 428; 1958, c. 564; 1985, c. 522; 1986, c. 571; 1987, c. 431; 2007, c. 925; 2015, c. 623.
       `
     ]
   },
@@ -67,7 +63,6 @@ export const vncaText14 = [
       `A. A certificate of authority authorizes the foreign corporation to which it is issued to transact business in the Commonwealth, subject, however, to the right of the Commonwealth to revoke the certificate as provided in this Act.
      B. A foreign corporation holding a valid certificate of authority shall have no greater rights and privileges than a domestic corporation. The certificate of authority shall not be deemed to authorize it to exercise any of its corporate powers or purposes that a foreign corporation is forbidden by law to exercise in the Commonwealth.
      C. This Act does not authorize the Commonwealth to regulate the organization or internal affairs of a foreign corporation authorized to transact business in the Commonwealth.
-     Code 1950, §§ 13.1-266, 13.1-271; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -76,7 +71,6 @@ export const vncaText14 = [
     text: [
       `A. No certificate of authority shall be issued to a foreign corporation unless the corporate name of such foreign corporation satisfies the requirements of § 13.1-829.
      B. If the corporate name of a foreign corporation does not satisfy the requirements of § 13.1-829, to obtain or maintain a certificate of authority to transact business in the Commonwealth, if its real name is unavailable, the foreign corporation may use a designated name that is available, and that satisfies the requirements of § 13.1-829, if it informs the Commission of the designated name.
-     Code 1950, §§ 13.1-267, 13.1-268, 13.1-277; 1956, c. 428; 1975, c. 500; 1985, c. 522; 1986, cc. 232, 571; 2003, c. 592; 2005, c. 379; 2007, c. 925; 2012, c. 63.
       `
     ]
   },
@@ -89,7 +83,6 @@ export const vncaText14 = [
      a. An individual who is a resident of Virginia and either an officer or director of the corporation or a member of the Virginia State Bar, and whose business office is identical with the registered office; or
      b. A domestic or foreign stock or nonstock corporation, limited liability company or registered limited liability partnership authorized to transact business in the Commonwealth, the business office of which is identical with the registered office; provided such a registered agent (i) shall not be its own registered agent and (ii) shall designate by instrument in writing, acknowledged before a notary public, one or more natural persons at the office of the registered agent upon whom any process, notice or demand may be served and shall continuously maintain at least one such person at that office. Whenever any such person accepts service, a photographic copy of such instrument shall be attached to the return.
      B. The sole duty of the registered agent is to forward to the corporation at its last known address any process, notice or demand that is served on the registered agent.
-     Code 1950, § 13.1-272; 1956, c. 428; 1958, c. 564; 1985, c. 522; 1994, c. 348; 2000, c. 162; 2001, cc. 517, 541; 2007, c. 925.
       `
     ]
   },
@@ -105,7 +98,6 @@ export const vncaText14 = [
      6. That after the change or changes are made, the corporation will be in compliance with the requirements of § 13.1-925.
      B. A statement of change shall forthwith be filed with the Commission by a foreign corporation whenever its registered agent dies, resigns or ceases to satisfy the requirements of § 13.1-925.
      C. A foreign corporation's registered agent may sign a statement as required above if (i) the business address of the registered agent changes to another post office address within the Commonwealth or (ii) the name of the registered agent has been legally changed. A foreign corporation's new registered agent may sign and submit for filing a statement as required above if (a) the former registered agent is a business entity that has been merged into the new registered agent, (b) the instrument of merger is on record in the office of the clerk of the Commission, and (c) the new registered agent is an entity that is qualified to serve as a registered agent pursuant to § 13.1-925. In either instance, the registered agent or surviving entity shall forthwith file a statement as required above, which shall recite that a copy of the statement shall be mailed to the principal office address of the foreign corporation on or before the business day following the day on which the statement is filed.
-     Code 1950, § 13.1-273; 1956, c. 428; 1958, c. 564; 1975, c. 500; 1985, c. 522; 1986, c. 622; 2003, c. 597; 2007, c. 925; 2010, c. 434.
       `
     ]
   },
@@ -123,7 +115,6 @@ export const vncaText14 = [
       `A. The registered agent of a foreign corporation authorized to transact business in the Commonwealth shall be an agent of such corporation upon whom any process, notice, order or demand required or permitted by law to be served upon the corporation may be served. The registered agent may by instrument in writing, acknowledged before a notary public, designate a natural person or persons in the office of the registered agent upon whom any such process, notice, order or demand may be served. Whenever any such person accepts service of process, a photographic copy of such instrument shall be attached to the return.
      B. Whenever a foreign corporation authorized to transact business in the Commonwealth fails to appoint or maintain a registered agent in the Commonwealth, or whenever its registered agent cannot with reasonable diligence be found at the registered office, then the clerk of the Commission shall be an agent of the corporation upon whom service may be made in accordance with § 12.1-19.1.
      C. Nothing in this section shall limit or affect the right to serve any process, notice, order or demand, required or permitted by law to be served upon a corporation in any other manner now or hereafter permitted by law.
-     Code 1950, §§ 13-214 to 13-217, 13.1-274; 1956, c. 428; 1975, c. 500; 1985, c. 522; 1986, cc. 571, 622; 1991, c. 672; 2001, cc. 517, 541; 2007, c. 925.
       `
     ]
   },
@@ -160,7 +151,6 @@ export const vncaText14 = [
      C. The Commission shall not allow any foreign corporation to withdraw from the Commonwealth unless such corporation files with the Commission a statement certifying that the corporation has filed returns and has paid all state taxes to the time of the certificate or a statement that no such returns are required to be filed or taxes are required to be paid. In such case the corporation may file returns and pay taxes before they would otherwise be due. If the Commission finds that the application complies with the requirements of law and that all required fees have been paid, it shall issue a certificate of withdrawal.
      D. Before any foreign corporation authorized to transact business in the Commonwealth terminates its corporate existence, it shall file with the Commission an application for withdrawal. Whether or not such application is filed, the termination of the corporate existence of such foreign corporation shall not take away or impair any remedy available against such corporation for any right or claim existing or any liability incurred prior to such termination. Any such action or proceeding against such foreign corporation may be defended by such corporation in its corporate name. The members, directors and officers shall have power to take such corporate or other action as shall be appropriate to protect such remedy, right or claim. The right of a foreign corporation that has terminated its corporate existence to institute and maintain in its corporate name actions, suits or proceedings in the courts of the Commonwealth shall be governed by the law of the state of its incorporation.
      E. Service of process on the clerk of the Commission is service of process on a foreign corporation that has withdrawn pursuant to this section. Service upon the clerk shall be made in accordance with § 12.1-19.1, and service upon the foreign corporation may be made in any other manner permitted by law.
-     Code 1950, §§ 13.1-278, 13.1-278.1; 1956, c. 428; 1958, c. 564; 1975, c. 500; 1985, c. 522; 1986, c. 529; 1991, c. 672; 2007, c. 925; 2012, c. 130; 2015, c. 623.
       `
     ]
   },
@@ -172,7 +162,6 @@ export const vncaText14 = [
      C. If any foreign corporation whose registered agent has filed with the Commission his statement of resignation pursuant to § 13.1-927 fails to file a statement of change pursuant to § 13.1-926 within 31 days after the date on which the statement of resignation was filed, the Commission shall mail notice to the foreign corporation of impending revocation of its certificate of authority. If the foreign corporation fails to file the statement of change before the last day of the second month immediately following the month in which the impending revocation notice was mailed, the foreign corporation shall automatically cease to be authorized to transact business in the Commonwealth and its certificate of authority shall be automatically revoked as of that day.
      D. The automatic revocation of a foreign corporation's certificate of authority pursuant to this section constitutes the appointment of the clerk of the Commission as the foreign corporation's agent for service of process in any proceeding based on a cause of action arising during the time the foreign corporation was authorized to transact business in the Commonwealth. Service of process on the clerk of the Commission under this subsection is service on the foreign corporation and shall be made on the clerk in accordance with § 12.1-19.1.
      E. Revocation of a foreign corporation's certificate of authority pursuant to this section does not terminate the authority of the registered agent of the corporation.
-     Code 1950, § 13.1-279; 1956, c. 428; 1970, c. 4; 1985, cc. 522, 528; 1987, c. 2; 1988, c. 405; 1991, c. 125; 1997, c. 216; 2000, c. 52; 2007, c. 925; 2010, c. 753.
       `
     ]
   },
@@ -191,7 +180,6 @@ export const vncaText14 = [
      D. The authority of a foreign corporation to transact business in the Commonwealth ceases on the date shown on the order revoking its certificate of authority.
      E. The Commission's revocation of a foreign corporation's certificate of authority appoints the clerk of the Commission the foreign corporation's agent for service of process in any proceeding based on a cause of action arising during the time the foreign corporation was authorized to transact business in the Commonwealth. Service of process on the clerk of the Commission under this subsection is service on the foreign corporation and shall be made on the clerk in accordance with § 12.1-19.1.
      F. Revocation of a foreign corporation's certificate of authority does not terminate the authority of the registered agent of the corporation.
-     Code 1950, § 13.1-280; 1956, c. 428; 1958, c. 506; 1985, c. 522; 1991, c. 672; 1995, c. 76; 2007, c. 925; 2008, cc. 588, 770; 2015, c. 623.
       `
     ]
   },

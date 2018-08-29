@@ -9,7 +9,6 @@ export const vncaText13 = [
      C. The board of directors may condition its submission of the proposal for dissolution on any basis.
      D. The corporation shall notify each member entitled to vote of the proposed members' meeting in accordance with § 13.1-842. The notice shall also state that the purpose, or one of the purposes, of the meeting is to consider dissolving the corporation.
      E. Unless the board of directors, acting pursuant to subsection C, requires a greater vote, dissolution to be authorized shall have been approved by more than two-thirds of all the votes cast on the proposal to dissolve at a meeting at which a quorum exists. The articles of incorporation may provide for a greater or lesser vote than that provided for in this subsection or a vote by separate voting groups so long as the vote provided for is not less than a majority of all the votes cast by each voting group entitled to vote on the proposed dissolution at a meeting at which a quorum of the voting group exists.
-     Code 1950, § 13.1-248; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -17,7 +16,6 @@ export const vncaText13 = [
     title: `§ 13.1-903. Dissolution by directors.`,
     text: [
       `Where there are no members, or no members having voting rights, the dissolution of the corporation shall be authorized at a meeting of the board of directors upon the adoption of a resolution to dissolve by the vote of a majority of the directors in office.
-     Code 1950, § 13.1-248; 1956, c. 428; 1985, c. 522.
       `
     ]
   },
@@ -32,7 +30,6 @@ export const vncaText13 = [
      B. If the Commission finds that the articles of dissolution comply with the requirements of law and that the corporation has paid all required fees and taxes imposed by laws administered by the Commission, it shall issue a certificate of dissolution.
      C. A corporation is dissolved upon the effective date of the certificate of dissolution.
      D. For purposes of §§ 13.1-902 through 13.1-908.2, "dissolved corporation" means a corporation whose articles of dissolution have become effective; the term includes a successor entity to which the remaining assets of the corporation are transferred subject to its liabilities for purposes of liquidation.
-     Code 1950, §§ 13.1-252, 13.1-253; 1956, c. 428; 1974, c. 452; 1975, c. 500; 1985, c. 522; 2003, c. 596; 2007, c. 925.
       `
     ]
   },
@@ -49,7 +46,6 @@ export const vncaText13 = [
      5. If member action was required to revoke the dissolution, the information required by subdivision 3 of subsection A of § 13.1-904.
      D. If the Commission finds that the articles of revocation of dissolution comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of revocation of dissolution.
      E. When the revocation of dissolution is effective, it relates back to and takes effect as of the effective date of the dissolution and the corporation resumes carrying on its business as if dissolution had never occurred.
-     Code 1950, § 13.1-251; 1956, c. 428; 1985, c. 522.
       `
     ]
   },
@@ -82,7 +78,6 @@ export const vncaText13 = [
      4. Other assets, if any, shall be distributed in accordance with the provisions of the articles of incorporation or the bylaws to the extent that the articles of incorporation or bylaws determine the distributive rights of members, or any class or classes of members, or provide for distribution to others;
      5. Any remaining assets may be distributed to such persons, societies, organizations or domestic or foreign corporations, whether issuing shares or not, as may be specified in a plan of distribution adopted as provided in this Act or as a court may direct.
      B. A plan providing for the distribution of assets, not inconsistent with the provisions of this Act, may be adopted by a corporation in the process of dissolution and shall be adopted by a corporation for the purpose of authorizing any transfer or conveyance of assets for which this Act requires a plan of distribution. A plan shall be adopted in accordance with the procedures established in § 13.1-902 or 13.1-903, as the case may be.
-     Code 1950, §§ 13-237, 13.1-249, 13.1-250; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -159,7 +154,6 @@ export const vncaText13 = [
      C. Venue for a proceeding brought under this section lies in the city or county where the corporation's principal office is or was last located, or, if none in the Commonwealth, where its registered office is or was last located.
      D. It is not necessary to make directors or members parties to a proceeding to be brought under this section unless relief is sought against them individually.
      E. A court in a proceeding brought to dissolve a corporation may issue injunctions, appoint a receiver or custodian pendente lite with such powers and duties as the court may direct, take other action required to preserve the corporate assets wherever located, and carry on the business of the corporation until a full hearing can be held.
-     Code 1950, §§ 13.1-257, 13.1-260, 13.1-261; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -173,7 +167,6 @@ export const vncaText13 = [
      2. The custodian may exercise all of the powers of the corporation, through or in place of its board of directors or officers, to the extent necessary to manage the affairs of the corporation in the best interest of its members and creditors.
      D. The court during a receivership may redesignate the receiver a custodian, and during a custodianship may redesignate the custodian a receiver, if doing so is in the best interest of the corporation, its members, and creditors.
      E. The court from time to time during the receivership or custodianship may order compensation paid and expense disbursements or reimbursements made to the receiver or custodian and the custodian's counsel from the assets of the corporation or proceeds from the sale of the assets.
-     Code 1950, §§ 13.1-258, 13.1-259; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -182,7 +175,6 @@ export const vncaText13 = [
     text: [
       `A. If after a hearing the court determines that one or more grounds for judicial dissolution described in § 13.1-909 exist, it may enter a decree directing that the corporation shall be dissolved. The clerk of the court shall deliver a certified copy of the decree to the Commission, which shall enter an order of involuntary dissolution.
      B. After the order of involuntary dissolution has been entered, the court shall direct the winding up and liquidation of the corporation's business and affairs in accordance with §§ 13.1-906 and 13.1-907 and the notification of claimants in accordance with §§ 13.1-908, 13.1-908.1, and 13.1-908.2. When all of the assets of the corporation have been distributed, the court shall so advise the Commission, which shall enter an order of termination of corporate existence.
-     Code 1950, §§ 13.1-262, 13.1-263; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -217,7 +209,6 @@ export const vncaText13 = [
      B. If any domestic corporation whose registered agent has filed with the Commission his statement of resignation pursuant to § 13.1-835 fails to file a statement of change pursuant to § 13.1-834 within 31 days after the date on which the statement of resignation was filed, the Commission shall mail notice to the corporation of the impending termination of its corporate existence. If the corporation fails to file the statement of change before the last day of the second month immediately following the month in which the impending termination notice was mailed, the corporate existence of the corporation shall be automatically terminated as of that day.
      C. The properties and affairs of a corporation whose corporate existence has been terminated pursuant to this section shall pass automatically to its directors as trustees in liquidation. The trustees shall then proceed to (i) collect the assets of the corporation, (ii) pay, satisfy, and discharge its liabilities and obligations, and (iii) do all other acts required to liquidate its business and affairs. After paying or adequately providing for the payment of all its obligations, the trustees shall distribute the remainder of its assets in accordance with § 13.1-907.
      D. No officer, director, or agent of a corporation shall have any personal obligation for any of the liabilities of the corporation whether such liabilities arise in contract, tort, or otherwise, solely by reason of the termination of the corporation's existence pursuant to this section.
-     Code 1950, § 13.1-254; 1956, c. 428; 1970, c. 4; 1980, c. 185; 1985, cc. 522, 528; 1987, c. 2; 1988, c. 405; 1991, c. 125; 1997, c. 216; 2000, c. 52; 2007, c. 925; 2010, c. 753.
       `
     ]
   },
@@ -227,7 +218,6 @@ export const vncaText13 = [
       `A. The corporate existence of a corporation may be terminated involuntarily by order of the Commission when it finds that the corporation (i) has continued to exceed or abuse the authority conferred upon it by law; (ii) has failed to maintain a registered office or a registered agent in the Commonwealth as required by law; (iii) has failed to file any document required by this Act to be filed with the Commission; or (iv) has been convicted for a violation of 8 U.S.C. § 1324a(f), as amended, for actions of its officers and directors constituting a pattern or practice of employing unauthorized aliens in the Commonwealth. Upon termination, the properties and affairs of the corporation shall pass automatically to its directors as trustees in liquidation. The trustees then shall proceed to collect the assets of the corporation, and pay, satisfy and discharge its liabilities and obligations and do all other acts required to liquidate its business and affairs. After paying or adequately providing for the payment of all its obligations, the trustees shall distribute the remainder of its assets in accordance with § 13.1-907. A corporation whose existence is terminated pursuant to clause (iv) shall not be eligible for reinstatement for a period of not less than one year.
      B. Any corporation convicted of the offense listed in clause (iv) of subsection A shall immediately report such conviction to the Commission and file with the Commission an authenticated copy of the judgment or record of conviction.
      C. Before entering any such order the Commission shall issue a rule against the corporation giving it an opportunity to be heard and show cause why such an order should not be entered. The Commission may issue the rule on its own motion or on motion of the Attorney General.
-     Code 1950, § 13.1-256; 1956, c. 428; 1958, c. 506; 1968, c. 116; 1976, c. 350; 1985, c. 522; 1991, c. 310; 2007, c. 925; 2008, cc. 588, 770.
       `
     ]
   },
@@ -243,7 +233,6 @@ export const vncaText13 = [
      5. If the name of the corporation does not comply with the provisions of § 13.1-829 at the time of reinstatement, articles of amendment to the articles of incorporation to change the corporation's name to a name that satisfies the provisions of § 13.1-829, with the fee required by this chapter for the filing of articles of amendment; and
      6. If the corporation's registered agent has filed a statement of resignation and a new registered agent has not been appointed, a statement of change pursuant to § 13.1-834.
      C. If the corporation complies with the provisions of this section, the Commission shall enter an order of reinstatement of corporate existence. Upon entry of the order of reinstatement, the corporate existence shall be deemed to have continued from the date of termination as if termination had never occurred, and any liability incurred by the corporation or a director, officer, or other agent after the termination and before the reinstatement is determined as if the termination of the corporation's existence had never occurred.
-     Code 1950, § 13.1-255; 1956, c. 428; 1958, c. 564; 1976, c. 350; 1985, c. 522; 1986, c. 234; 1988, c. 405; 2004, c. 601; 2005, c. 379; 2006, c. 663; 2007, c. 925; 2015, c. 623.
       `
     ]
   },
@@ -251,7 +240,6 @@ export const vncaText13 = [
     title: `§ 13.1-917. Survival of remedy after termination of corporate existence.`,
     text: [
       `The termination of corporate existence shall not take away or impair any remedy available to or against the corporation, its directors, officers or members, for any right or claim existing, or any liability incurred, prior to such termination. Any such action or proceeding by or against the corporation may be prosecuted or defended by the corporation in its corporate name. The members, directors and officers shall have power to take such corporate or other action as shall be appropriate to protect such remedy, right or claim.
-     Code 1950, § 13.1-264; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },

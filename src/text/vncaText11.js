@@ -26,7 +26,6 @@ export const vncaText11 = [
      1. The amount or kind of membership interests, eligible interests or other securities, obligations, rights to acquire membership interests, eligible interests or other securities, cash, or other property to be received under the plan by the members of or owners of eligible interests in any party to the merger;
      2. The articles of incorporation of any domestic or foreign corporation or stock corporation or the organic document of any unincorporated entity that will survive or be created as a result of the merger, except for changes permitted by subsection B of § 13.1-885; or
      3. Any of the other terms or conditions of the plan if the change would adversely affect such members in any material respect.
-     Code 1950, § 13.1-240; 1956, c. 428; 1985, c. 522; 2007, c. 925; 2008, c. 509; 2015, c. 611.
       `
     ]
   },
@@ -49,7 +48,6 @@ export const vncaText11 = [
      3. Each person who is a member of the corporation immediately before the effective time of the merger will retain the same membership interest with identical designation, preferences, limitations, and rights immediately after the effective time of the merger.
      G. Where any merging corporation has no members, or no members having voting rights, a plan of merger shall be adopted at a meeting of the board of directors of such corporation upon receiving the vote of a majority of the directors in office.
      H. If as a result of a merger one or more members of a domestic corporation would become subject to owner liability for the debts, obligations, or liabilities of any other person or entity, approval of the plan of merger shall require the execution by each member of a separate written consent to become subject to such owner liability.
-     Code 1950, § 13.1-242; 1956, c. 428; 1985, c. 522; 2002, c. 607; 2007, c. 925; 2015, c. 611.
       `
     ]
   },
@@ -68,7 +66,6 @@ export const vncaText11 = [
      5. If the plan of merger was adopted by the directors without approval by the members of a domestic corporation that was a party to the merger, a statement that the plan of merger was duly approved by the vote of a majority of the directors in office, including the reason member approval was not required; and
      6. As to each foreign corporation or eligible entity that was a party to the merger, a statement that the participation of the foreign corporation or eligible entity was duly authorized as required by the organic law of the corporation or eligible entity.
      B. Articles of merger shall be filed with the Commission by the survivor of the merger. If the Commission finds that the articles of merger comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of merger. Articles of merger filed under this section may be combined with any filing required under the organic law of any domestic eligible entity involved in the transaction if the combined filing satisfies the requirements of both this section and the other organic law.
-     Code 1950, §§ 13.1-243, 13.1-244; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2000, c. 53; 2003, c. 597; 2007, c. 925; 2009, c. 216.
       `
     ]
   },
@@ -86,7 +83,6 @@ export const vncaText11 = [
      8. The membership interests of each domestic or foreign corporation that is a party to the merger and the eligible interests in an eligible entity that is a party to the merger that are to be converted under the plan of merger into membership interests, eligible interests or other securities, obligations, rights to acquire membership interests, eligible interests or other securities, cash, other property, or any combination of the foregoing, are converted, and the former holders of such membership interests or eligible interests are entitled only to the rights provided to them in the plan of merger or to any rights they may have under the organic law of the eligible entity.
      B. Upon a merger's becoming effective, a foreign corporation or a foreign eligible entity that is the survivor of the merger is deemed to appoint the clerk of the Commission as its agent for service of process in a proceeding to enforce the rights of members of each domestic corporation that is a party to the merger.
      C. No corporation that is required by law to be a domestic corporation may, by merger, cease to be a domestic corporation, but every such corporation, even though a corporation of some other state, the United States, or another country, shall also be a domestic corporation of the Commonwealth.
-     Code 1950, § 13.1-245; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925.
       `
     ]
   },

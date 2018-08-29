@@ -14,7 +14,6 @@ export const vncaText15 = [
      5. All written communications to members generally within the past three years;
      6. A list of the names and business addresses of its current directors and officers; and
      7. Its most recent annual report delivered to the Commission under § 13.1-936.
-     Code 1950, § 13.1-228; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -76,7 +75,6 @@ export const vncaText15 = [
      3. The names and post office addresses of the directors and the principal officers of the corporation.
      B. The report shall be made on forms prescribed and furnished by the Commission, and shall supply the information as of the date of the report.
      C. Except as otherwise provided in this subsection, the annual report of a domestic or foreign corporation shall be filed with the Commission on or before the last day of the twelfth month next succeeding the month in which it was incorporated or authorized to transact business in the Commonwealth, and on or before such date in each year thereafter. The report shall be filed no earlier than three months prior to its due date each year. If the report appears to be incomplete or inaccurate, the Commission shall return it for correction or explanation. Otherwise the Commission shall file it in the clerk's office. At the discretion of the Commission the annual report due date for a corporation may be extended, on a monthly basis for a period of not less than one month nor more than 11 months, at the request of its registered agent of record or as may be necessary to distribute annual report due dates of corporations as equally as practicable throughout the year on a monthly basis.
-     Code 1950, §§ 13-9, 13-11, 13-32, 13-213, 13.1-282, 13.1-283; 1956, c. 428; 1958, c. 418; 1975, c. 500; 1981, c. 523; 1985, c. 522; 1987, c. 2; 1997, c. 216; 2007, c. 925; 2010, c. 753.
       `
     ]
   },

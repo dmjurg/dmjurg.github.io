@@ -3,7 +3,6 @@ export const vncaText16 = [
     title: `§ 13.1-937. Application to existing corporations.`,
     text: [
       `Unless otherwise provided, the provisions of this chapter shall apply to all domestic and foreign corporations existing at the time this chapter takes effect and their members. The charter of every corporation heretofore or hereafter organized in this Commonwealth shall be subject to the provisions of this chapter. In the case of foreign corporations, the certificate of authority to transact business in this Commonwealth issued by the Commission under any prior act of this Commonwealth shall continue in effect subject to the provisions hereof.
-     Code 1950, §§ 13.1-203, 13.1-290, 13.1-290.1; 1956, c. 428; 1966, c. 387; 1975, c. 500; 1985, c. 522.
       `
     ]
   },
@@ -24,7 +23,6 @@ export const vncaText16 = [
      4. Any proceeding commenced, or reorganization or dissolution authorized by the board of directors, under the statute before its repeal, and the proceeding, reorganization or dissolution may be completed in accordance with the statute as if it had not been repealed.
      B. If a penalty or punishment imposed for violation of a statute repealed by this Act is reduced by this Act, the penalty or punishment if not already imposed shall be imposed in accordance with this Act.
      C. If any provision of this chapter is deemed to modify, limit, or supersede the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq., the provisions of this chapter shall control to the maximum extent permitted by 15 U.S.C. § 7002(a)(2).
-     Code 1950, § 13.1-292; 1956, c. 428; 1985, c. 522; 2007, c. 925; 2010, c. 171.
       `
     ]
   },

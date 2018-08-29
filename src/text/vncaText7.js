@@ -3,8 +3,6 @@ export const vncaText7 = [
     title: `§ 13.1-837. Members.`,
     text: [
       `A corporation may have one or more classes of members or may have no members. If the corporation has one or more classes of members, the designation of such class or classes and the qualifications and rights of the members of each class shall be set forth in the articles of incorporation or, if the articles of incorporation so provide, in the bylaws. A corporation may issue certificates evidencing membership interests therein. Membership interests shall not be transferable. Members shall not have voting or other rights except as provided in the articles of incorporation or if the articles of incorporation so provide, in the bylaws. Members of any corporation existing on January 1, 1957, shall continue to have the same voting and other rights as before January 1, 1957, until changed by amendment of the articles of incorporation.
-     Code 1950, § 13.1-211; 1956, c. 428; 1958, c. 564; 1982, c. 182; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -14,8 +12,6 @@ export const vncaText7 = [
       `A. A corporation shall hold a meeting of members annually at a time stated in or fixed in accordance with the bylaws.
      B. Except as otherwise determined by the board of directors acting pursuant to subsection C of § 13.1-844.2, meetings of members may be held at such place, in or out of the Commonwealth, as may be provided in the bylaws or, where not inconsistent with the bylaws, in the notice of the meeting.
      C. The failure to hold an annual meeting at the time stated in or fixed in accordance with a corporation's bylaws does not affect the validity of any corporate action.
-     Code 1950, § 13.1-213; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925; 2012, c. 706; 2018, c. 265.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -29,8 +25,6 @@ export const vncaText7 = [
      C. If not otherwise fixed under § 13.1-840 or 13.1-844, the record date for determining members entitled to demand a special meeting is the date the first member signs the demand.
      D. Except as otherwise determined by the board of directors acting pursuant to subsection C of § 13.1-844.2, members' meetings may be held at such place in or out of the Commonwealth as may be provided in the bylaws or, where not inconsistent with the bylaws, in the notice of the meeting.
      E. Only business within the purpose or purposes described in the meeting notice required by subsection C of § 13.1-842 may be conducted at a special members' meeting.
-     Code 1950, § 13.1-213; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925; 2012, c. 706; 2018, c. 265.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -43,7 +37,6 @@ export const vncaText7 = [
      a. Notice of the special meeting was not given within 30 days after the date the demand was delivered to the corporation's secretary; or
      b. The special meeting was not held in accordance with the notice.
      B. The court may fix the time and place of the meeting, determine the members entitled to participate in the meeting, specify a record date for determining members entitled to notice of and to vote at the meeting, prescribe the form and content of the meeting notice, and enter other orders necessary to accomplish the purpose or purposes of the meeting.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -58,8 +51,6 @@ export const vncaText7 = [
      D. If corporate action is to be taken under this section by fewer than all of the members entitled to vote on the action, the corporation shall give written notice of the proposed corporate action, not less than five days before the action is taken, to all persons who are members on the record date and who are entitled to vote on the matter. The notice shall contain or be accompanied by the same material that under this chapter would have been required to be sent to members in a notice of meeting at which the corporate action would have been submitted to the members for a vote.
      E. If this chapter requires that notice of proposed corporate action be given to nonvoting members and the corporate action is to be taken by consent of the voting members, the corporation shall give its nonvoting members written notice of the proposed action not less than five days before it is taken. The notice shall contain or be accompanied by the same material that under this chapter would have been required to be sent to nonvoting members in a notice of meeting at which the corporate action would have been submitted to the members for a vote.
      F. Any person, whether or not then a member, may provide that a consent in writing as a member shall be effective at a future time, including the time when an event occurs, but such future time shall not be more than 60 days after such provision is made. Any such consent shall be deemed to have been made for purposes of this section at the future time so specified for the consent to be effective, provided that (i) the person is a member at such future time and (ii) the person did not revoke the consent prior to such future time.
-     Code 1950, § 13.1-216; 1956, c. 428; 1985, c. 522; 2007, c. 925; 2015, c. 611.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -72,8 +63,6 @@ export const vncaText7 = [
      C. Notice of a special meeting shall state the purpose or purposes for which the meeting is called.
      D. If not otherwise fixed under § 13.1-840 or 13.1-844, the record date for determining members entitled to notice of and to vote at an annual or special meeting is the day before the effective date of the notice to members.
      E. Unless the bylaws require otherwise, if an annual or special meeting is adjourned to a different date, time, or place, notice need not be given if the new date, time, or place, if any, is announced at the meeting before adjournment. If a new record date for the adjourned meeting is or shall be fixed under § 13.1-844, however, not less than 10 days before the meeting date notice of the adjourned meeting shall be given under this section to persons who are members as of the new record date.
-     Code 1950, § 13.1-214; 1956, c. 428; 1958, c. 564; 1960, c. 214; 1985, c. 522; 1986, c. 529; 2002, c. 285; 2007, c. 925; 2010, c. 171; 2015, c. 611; 2018, c. 265.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -84,8 +73,6 @@ export const vncaText7 = [
      B. A member's attendance at a meeting:
      1. Waives objection to lack of notice or defective notice of the meeting, unless the member at the beginning of the meeting objects to holding the meeting or transacting business at the meeting; and
      2. Waives objection to consideration of a particular matter at the meeting that is not within the purpose or purposes described in the meeting notice, unless the member objects to considering the matter when it is presented.
-     Code 1950, § 13.1-215; 1956, c. 428; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -96,7 +83,6 @@ export const vncaText7 = [
      B. A record date fixed under this section may not be more than 70 days before the meeting or action requiring a determination of members.
      C. A determination of members entitled to notice of or to vote at a members' meeting is effective for any adjournment of the meeting unless the board of directors fixes a new record date, which it shall do if the meeting is adjourned to a date more than 120 days after the date fixed for the original meeting.
      D. If a court orders a meeting adjourned to a date more than 120 days after the date fixed for the original meeting, it may provide that the original record date continues in effect or it may fix a new record date.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -106,7 +92,6 @@ export const vncaText7 = [
       `A. At each meeting of members, a chairman shall preside. The chairman shall be appointed as provided in the articles of incorporation, bylaws, or, in the absence of such a provision, by the board of directors.
      B. Unless the articles of incorporation or bylaws provide otherwise, the chairman shall determine the order of business and shall have the authority to establish rules for the conduct of the meeting.
      C. The chairman of the meeting shall announce at the meeting when the polls will open and close for each matter voted upon. If no announcement is made, the polls shall be deemed to have opened at the beginning of the meeting and to close upon the final adjournment of the meeting.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -118,7 +103,6 @@ export const vncaText7 = [
      1. Verify that each person participating remotely is a member or a member's proxy; and
      2. Provide such members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting, substantially concurrently with such proceedings.
      C. Unless the articles of incorporation or bylaws require the meeting of members to be held at a place, the board of directors may determine that any meeting of members shall not be held at any place and shall instead be held solely by means of remote communication in conformity with subsection B.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -130,7 +114,6 @@ export const vncaText7 = [
      C. If the meeting is to be held at a place, the corporation shall make the list of members entitled to vote available at the meeting, and any member, or the member's agent or attorney, is entitled to inspect the list at any time during the meeting or any adjournment.
      D. If the corporation refuses to allow a member, the member's agent, or the member's attorney to inspect a members' list before or at the meeting as provided in subsections B and C, or to copy a list as permitted by subsection B, the circuit court of the county or city where the corporation's principal office, or if none in the Commonwealth its registered office, is located, on application of the member, may summarily order the inspection or copying at the corporation's expense and may postpone the meeting for which the list was prepared until the inspection or copying is complete.
      E. Refusal or failure to prepare or make available a members' list does not affect the validity of action taken at the meeting.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -141,8 +124,6 @@ export const vncaText7 = [
      B. When directors or officers are to be elected by members, the bylaws may provide that such elections may be conducted by mail.
      C. Unless the articles of incorporation provide otherwise, in the election of directors every member, regardless of class, is entitled to one vote for as many persons as there are directors to be elected at that time and for whose election the member has a right to vote.
      D. If a corporation has no members or its members have no right to vote, the directors shall have the sole voting power.
-     Code 1950, § 13.1-217; 1956, c. 428; 1975, c. 500; 1982, c. 182; 1985, c. 522; 2002, c. 285; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -160,7 +141,6 @@ export const vncaText7 = [
      F. An appointment made irrevocable under subsection D is revoked when the interest with which it is coupled is extinguished.
      G. Subject to § 13.1-848 and to any express limitation on the proxy's authority stated in the appointment form or electronic transmission, a corporation is entitled to accept the proxy's vote or other action as that of the member making the appointment.
      H. Any fiduciary who is entitled to vote any membership interest may vote such membership interest by proxy.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -172,7 +152,6 @@ export const vncaText7 = [
      C. No ballot, proxies, or votes, nor any revocations thereof or changes thereto, shall be accepted by the inspectors after the closing of the polls unless the circuit court of the city or county where the corporation's principal office is located or, if none in the Commonwealth, where its registered office is located, upon application by a member, shall determine otherwise.
      D. In determining the validity of proxies and ballots and in counting the votes, the inspectors shall be limited to an examination of the proxies, any envelopes submitted with those proxies, any information provided in accordance with subsection B of § 13.1-847, ballots, and the regular books and records of the corporation. If the inspectors consider other reliable information for the limited purpose permitted herein, they shall specify, at the time that they make their certification pursuant to clause (v) of subsection B, the precise information that they considered, including the person or persons from whom they obtained the information, when the information was obtained, the means by which the information was obtained, and the basis for their belief that such information is accurate and reliable.
      E. If authorized by the board of directors, any member vote to be taken by written ballot may be satisfied by a ballot submitted by electronic transmission by the member or the member's proxy, provided that any such electronic transmission shall either set forth or be submitted with information from which it may be determined that the electronic transmission was authorized by the member or the member's proxy. A member who votes by a ballot submitted by electronic transmission is deemed present at the meeting of members.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -190,7 +169,6 @@ export const vncaText7 = [
      D. The corporation is entitled to reject a vote, ballot, consent, waiver, or proxy appointment if the secretary or other officer or agent authorized to count votes, acting in good faith, has reasonable basis for doubt about the validity of the signature on it or about the signatory's authority to sign for the member.
      E. Neither the corporation nor the person authorized to count votes, including an inspector under § 13.1-847.1, who accepts or rejects a vote, ballot, consent, waiver, or proxy appointment in good faith and in accordance with the standards of this section or subsection B of § 13.1-847 is liable in damages to the member for the consequences of the acceptance or rejection.
      F. Corporate action based on the acceptance or rejection of a vote, consent, waiver, or proxy appointment under this section is valid unless a court of competent jurisdiction determines otherwise.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -201,8 +179,6 @@ export const vncaText7 = [
      B. Once a member is represented for any purpose at a meeting, the member is deemed present for quorum purposes for the remainder of the meeting and for any adjournment of that meeting unless a new record date is or shall be set for that adjourned meeting.
      C. Less than a quorum may adjourn a meeting.
      D. The election of directors is governed by § 13.1-852.
-     Code 1950, § 13.1-219; 1956, c. 428; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -211,7 +187,6 @@ export const vncaText7 = [
     text: [
       `A. If the articles of incorporation or this Act provides for voting by a single voting group on a matter, action on that matter is taken when voted upon by that voting group as provided in § 13.1-849.
      B. If the articles of incorporation or this Act provides for voting by two or more voting groups on a matter, action on that matter is taken only when voted upon by each of those voting groups counted separately as provided in § 13.1-849. Action may be taken by one voting group on a matter even though no action is taken by another voting group entitled to vote on the matter.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -220,8 +195,6 @@ export const vncaText7 = [
     text: [
       `A. The articles of incorporation may provide for a lesser or greater quorum requirement for members or voting groups of members than required by this chapter.
      B. An amendment to the articles of incorporation that adds, changes, or deletes a quorum or voting requirement shall meet the quorum requirement and be adopted by the vote and voting groups required to take action under the quorum and voting requirements then in effect.
-     Code 1950, § 13.1-218; 1956, c. 428; 1985, c. 522; 1986, c. 321.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -234,8 +207,6 @@ export const vncaText7 = [
      D. Members otherwise entitled to vote cumulatively may not vote cumulatively at a particular meeting unless:
      1. The meeting notice or proxy statement accompanying the notice states conspicuously that cumulative voting is authorized; or
      2. A member who has the right to cumulate his votes gives notice to the secretary of the corporation not less than 48 hours before the time set for the meeting of the member's intent to cumulate his votes during the meeting. If one member gives such a notice, all other members in the same voting group participating in the election are entitled to cumulate their votes without giving further notice.
-     Code 1950, § 13.1-221; 1956, c. 428; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   }

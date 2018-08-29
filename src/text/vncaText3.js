@@ -3,8 +3,6 @@ export const vncaText3 = [
     title: `§ 13.1-818. Incorporators.`,
     text: [
       `One or more persons may act as the incorporator or incorporators of a corporation by signing and delivering articles of incorporation to the Commission for filing.
-     Code 1950, § 13.1-230; 1956, c. 428; 1968, c. 42; 1975, c. 500; 1985, c. 522; 2015, c. 623.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -27,8 +25,6 @@ export const vncaText3 = [
      C. The articles of incorporation need not set forth any of the corporate powers enumerated in this Act.
      D. Provisions of the articles of incorporation may be made dependent upon facts objectively ascertainable outside the articles of incorporation in accordance with subsection L of § 13.1-804.
      E. Except as provided in subsection A of § 13.1-855, whenever a provision of the articles of incorporation is inconsistent with a bylaw, the provision of the articles of incorporation shall be controlling.
-     Code 1950, § 13.1-231; 1956, c. 428; 1958, c. 564; 1975, c. 500; 1982, c. 182; 1985, c. 522; 1986, c. 622; 1993, c. 113; 2000, c. 162; 2001, cc. 517, 541; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -37,8 +33,6 @@ export const vncaText3 = [
     text: [
       `If the Commission finds that the articles of incorporation comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of incorporation.
      When the certificate of incorporation is effective, the corporate existence shall begin. Upon becoming effective, the certificate of incorporation shall be conclusive evidence that all conditions precedent required to be performed by the incorporators have been complied with and that the corporation has been incorporated under this Act.
-     Code 1950, §§ 13-223, 13-224, 13.1-232, 13.1-233; 1956, c. 428; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -46,7 +40,6 @@ export const vncaText3 = [
     title: `§ 13.1-821. Liability for preincorporation transactions.`,
     text: [
       `All persons purporting to act as or on behalf of a corporation, but knowing there was no incorporation under this chapter, are jointly and severally liable for all liabilities created while so acting except for any liability to any person who also knew that there was no incorporation.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -60,8 +53,6 @@ export const vncaText3 = [
      b. To elect directors who shall complete the organization of the corporation.
      B. Action required or permitted by this Act to be taken by incorporators at an organizational meeting may be taken without a meeting if the action taken is evidenced by one or more written consents describing the action taken and signed by each incorporator.
      C. An organizational meeting may be held in or out of the Commonwealth.
-     Code 1950, § 13.1-234; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -70,8 +61,6 @@ export const vncaText3 = [
     text: [
       `A. The incorporators or board of directors of a corporation shall adopt initial bylaws for the corporation.
      B. The bylaws of a corporation may contain any provision that is not inconsistent with law or the articles of incorporation.
-     Code 1950, §§ 13-234, 13.1-212; 1956, c. 428; 1985, c. 522; 2007, c. 925; 2010, c. 171.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -87,8 +76,6 @@ export const vncaText3 = [
      1. Binds the corporation; and
      2. May not be used to impose liability on a corporate director, officer, employee or agent.
      D. An emergency exists for purposes of this section if a quorum of the corporation's board of directors cannot readily be assembled because of some catastrophic event.
-     Code 1950, § 13.1-212.1; 1962, c. 102; 1975, c. 500; 1985, c. 522; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   }

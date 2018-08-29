@@ -23,8 +23,6 @@ export const vncaText5 = [
      C. A domestic corporation may apply to the Commission for authorization to use a name that is not distinguishable upon the Commission's records from one or more of the names described in subsection B. The Commission shall authorize use of the name applied for if the other entity consents to the use in writing and submits an undertaking in form satisfactory to the Commission to change its name to a name that is distinguishable upon the records of the Commission from the name of the applying corporation.
      D. The use of assumed names or fictitious names, as provided for in Chapter 5 (§ 59.1-69 et seq.) of Title 59.1, is not affected by this Act.
      E. The Commission, in determining whether a corporate name is distinguishable upon its records from the name of any of the business entities listed in subsection B, shall not consider any word, phrase, abbreviation, or designation required or permitted under § 13.1-544.1, subsection A of § 13.1-630, subsection A of § 13.1-1012, § 13.1-1104, subsection A of § 50-73.2, and subdivision A 2 of § 50-73.78 to be contained in the name of a business entity formed or organized under the laws of the Commonwealth or authorized or registered to transact business in the Commonwealth.
-     Code 1950, § 13.1-207; 1956, c. 428; 1975, c. 500; 1985, c. 522; 1986, c. 232; 2003, c. 592; 2005, c. 379; 2007, c. 925; 2009, c. 216; 2012, c. 63.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -35,8 +33,6 @@ export const vncaText5 = [
      B. The owner of a reserved corporate name may renew the reservation for successive periods of 120 days each by filing with the Commission, during the 45-day period preceding the date of expiration of the reservation, a renewal application.
      C. The owner of a reserved corporate name may transfer the reservation to another person by delivering to the Commission a notice of the transfer, signed by the applicant for whom the name was reserved, and specifying the name and address of the transferee.
      D. A reserved corporate name may be used by its owner in connection with (i) the formation or an amendment to change the name of a domestic stock or nonstock corporation, limited liability company, business trust, or limited partnership; (ii) an application for a certificate of authority or registration to transact business in the Commonwealth as a foreign stock or nonstock corporation, limited liability company, business trust, or limited partnership; or (iii) an amended application for such authority or registration, provided that the proposed name complies with the provisions of § 13.1-630, 13.1-762, 13.1-829, 13.1-924, 13.1-1012, 13.1-1054, 13.1-1214, 13.1-1244, 50-73.2, or 50-73.56, as the case may be.
-     Code 1950, § 13.1-207.1; 1975, c. 500; 1985, c. 522; 2006, c. 505; 2007, c. 925; 2015, c. 444.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -51,8 +47,6 @@ export const vncaText5 = [
      D. A foreign corporation whose registration is effective may renew it for the succeeding year by filing with the Commission, during the 60-day period preceding the date of expiration of the registration, a renewal application that complies with the requirements of subsection B, and paying a renewal fee of $20. The renewal application is effective when filed in accordance with this section and, except as provided in subsection E, renews the registration for one year after the date the registration would have expired if such subsequent renewal of the registration had not occurred.
      E. A foreign corporation whose registration is effective may thereafter obtain a certificate of authority to transact business in the Commonwealth under the registered name or consent in writing to the use of that name by a corporation thereafter incorporated under this Act or by another foreign corporation thereafter authorized to transact business in the Commonwealth. The registration terminates when the domestic corporation is incorporated or the foreign corporation obtains a certificate of authority to transact business in the Commonwealth or consents to the authorization of another foreign corporation to transact business in the Commonwealth under the registered name.
      F. A foreign corporation that has in effect a registration of its corporate name may release such name by filing a notice of release of a registered name with the Commission and by paying a fee of $10.
-     Code 1950, § 13.1-207.2; 1975, c. 500; 1981, c. 522; 1985, c. 522; 1995, c. 114; 2002, c. 607; 2007, c. 925.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   },
@@ -60,7 +54,6 @@ export const vncaText5 = [
     title: `§ 13.1-832. Repealed.`,
     text: [
       `Repealed by Acts 2007, c. 771, cl. 2.
-     The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
     ]
   }

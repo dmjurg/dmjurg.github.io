@@ -3,7 +3,6 @@ export const condoText4 = [
     title: `§ 55-79.86. Administrative agency.`,
     text: [
       `This chapter shall be administered by the Common Interest Community Board which hereinafter is called the agency.
-     
       `
     ]
   },
@@ -17,7 +16,6 @@ export const condoText4 = [
      4. Dispositions in a residential condominium in which there are three or fewer units, so long as the condominium instruments do not reserve to the declarant the right to create additional condominium units; or
      5. A disposition of a unit by a sale at an auction, where a current public offering statement or resale certificate was made available as part of an auction package for prospective purchasers prior to the auction sale.
      B. In cases of dispositions in a condominium where all units are restricted to nonresidential use, the provisions of §§ 55-79.88 through 55-79.95 shall not apply, unless the method of offer or disposition is adopted for the purpose of evasion of this chapter.
-     
       `
     ]
   },
@@ -33,7 +31,6 @@ export const condoText4 = [
      6. Have the authority to evict a tenant of any unit owner or to require any unit owner to execute a power of attorney authorizing the unit owners' association to so evict. However, if the unit owner designates a person licensed under the provisions of § 54.1-2106.1 as the unit owner's authorized representative with respect to any lease, the unit owners' association shall recognize such representation without a formal power of attorney, provided that the unit owners' association is given a written authorization signed by the unit owner designating such representative. Notwithstanding the foregoing, the requirements of § 55-79.77 and the condominium instruments shall be satisfied before any such representative may exercise a vote on behalf of a unit owner as a proxy.
      B. The unit owners' association may require the unit owner to provide the unit owners' association with the names and contact information of the tenants and authorized occupants under such lease and any authorized agent of the unit owner, and vehicle information for such tenants or authorized occupants. The unit owners' association may require the unit owner to provide the unit owners' association with the tenant's acknowledgement of and consent to any rules and regulations of the unit owners' association.
      C. The provisions of this section shall not apply to units owned by the unit owners' association.
-     
       `
     ]
   },
@@ -44,7 +41,6 @@ export const condoText4 = [
      1. No declarant may offer or dispose of any interest in a condominium unit located in this Commonwealth, nor offer or dispose in this Commonwealth of any interest in a condominium unit located without this Commonwealth prior to the time the condominium including such unit is registered in accordance with this chapter.
      2. No declarant may dispose of any interest in a condominium unit unless he delivers to the purchaser a current public offering statement by the time of such disposition and such disposition is expressly and without qualification or condition subject to cancellation by the purchaser within five calendar days from the contract date of the disposition or delivery of the current public offering statement, whichever is later. If the purchaser elects to cancel, he may do so by notice thereof hand-delivered or sent by United States mail, return receipt requested, to the declarant. Such cancellation shall be without penalty, and any deposit made by the purchaser shall be promptly refunded in its entirety.
      3. The purchaser's right to cancel the purchase contract pursuant to subdivision 2 shall be set forth on the first page of the purchase contract in boldface print of not less than 12 point type.
-     
       `
     ]
   },
@@ -68,7 +64,6 @@ export const condoText4 = [
      B. If the declarant registers additional units to be offered for disposition in the same condominium he may consolidate the subsequent registration with any earlier registration offering units in the condominium for disposition under the same promotional plan.
      C. The declarant shall immediately report any material changes in the information contained in an application for registration.
      D. Each application shall be accompanied by a fee in an amount established by the agency pursuant to § 54.1-113. All fees shall be remitted by the agency to the State Treasurer, and shall be placed to the credit of the Common Interest Community Management Information Fund established pursuant to § 55-529.
-     
       `
     ]
   },
@@ -94,7 +89,6 @@ export const condoText4 = [
      B. The public offering statement shall not be used for any promotional purposes before registration of the condominium project and afterwards only if it is used in its entirety. No person may advertise or represent that the agency approves or recommends the condominium or disposition thereof. No portion of the public offering statement may be underscored, italicized, or printed in larger or heavier or different color type than the remainder of the statement unless the agency requires it.
      C. The agency may require the declarant to alter or amend the proposed public offering statement in order to assure full and fair disclosure to prospective purchasers, and no change in the substance of the promotional plan or plan of disposition or development of the condominium may be made after registration without notifying the agency and without making appropriate amendment of the public offering statement. A public offering statement is not current unless all amendments are incorporated.
      D. If an interest in a condominium is currently registered with the Securities and Exchange Commission of the United States, a declarant satisfies all requirements relating to the preparation of a public offering statement in this chapter if he delivers to the purchaser and files with the agency a copy of the public offering statement filed with the Securities and Exchange Commission. An interest in a condominium is not a security under the provisions of the Securities Act (§ 13.1-501 et seq.).
-     
       `
     ]
   },
@@ -107,7 +101,6 @@ export const condoText4 = [
      3. The advertising material and the general promotional plan are not false or misleading and comply with the standards prescribed by the agency in its regulations and afford full and fair disclosure;
      4. The declarant has not, or if a corporation, its officers, and principals have not, been convicted of a crime involving condominium unit dispositions or any aspect of the land sales business in this Commonwealth, United States, or any other state or foreign country within the past ten years and has not been subject to any injunction or administrative order restraining a false or misleading promotional plan involving land dispositions; and
      5. The public offering statement requirements of this chapter have been satisfied.
-     
       `
     ]
   },
@@ -117,7 +110,6 @@ export const condoText4 = [
       `A. Upon receipt of the application for registration, the agency shall, within five business days, issue a notice of filing to the applicant. In the case of receipt of an application for a condominium that is a conversion condominium, the agency shall, within five business days, also issue a notice of filing to the chief administrative officer of the county or city in which the proposed condominium is located, which notice shall include the name and address of the applicant and the name and address or location of the proposed condominium. Within sixty days from the date of the notice of filing, the agency shall enter an order registering the condominium or rejecting the registration. If no order of rejection is entered within sixty days from the date of notice of filing, the condominium shall be deemed registered unless the applicant has consented in writing to a delay.
      B. If the agency affirmatively determines, upon inquiry and examination, that the requirements of §§ 55-79.89 and 55-79.91 have been met, it shall enter an order registering the condominium and shall designate the form of the public offering statement.
      C. If the agency determines upon inquiry and examination that any of the requirements of §§ 55-79.89 and 55-79.91 have not been met, the agency shall notify the applicant that the application for registration must be corrected in the particulars specified within twenty days. If the requirements are not met within the time allowed the agency shall enter an order rejecting the registration which shall include the findings of fact upon which the order is based. The order rejecting the registration shall not become effective for twenty days after issuance of the order. During this twenty-day period the applicant may petition for reconsideration and shall be entitled to a hearing or correct the particulars specified in the agency's notice. Such order of rejection shall not take effect, in any event, until such time as the hearing, once requested, is given to the applicant.
-     
       `
     ]
   },
@@ -125,7 +117,6 @@ export const condoText4 = [
     title: `§ 55-79.93. Annual report by declarant.`,
     text: [
       `The declarant shall file a report in the form prescribed by the regulations of the agency within 30 days of each anniversary date of the order registering the condominium. The report shall reflect any material changes in information contained in the original application for registration.
-     
       `
     ]
   },
@@ -140,7 +131,6 @@ export const condoText4 = [
      b. Five hundredths of one percent (0.05%) of the unit owners' association's gross assessment income during the preceding year.
      2. For the purposes of clause b of subsection C, no minimum payment shall be less than $10.00.
      D. The annual payment shall be remitted to the State Treasurer and shall be placed to the credit of the Common Interest Community Management Fund established pursuant to § 55-529.
-     
       `
     ]
   },
@@ -151,7 +141,6 @@ export const condoText4 = [
      B. Notwithstanding any other provision of this chapter, the agency may administratively terminate the registration of a condominium if:
      1. The declarant has not filed an annual report in accordance with § 55-79.93 for three or more consecutive years; or
      2. The declarant's registration with the State Corporation Commission, if applicable, has not been active for five or more consecutive years.
-     
       `
     ]
   },
@@ -176,7 +165,6 @@ export const condoText4 = [
      "Disabled" means a person suffering from a severe, chronic physical or mental impairment which results in substantial functional limitations.
      "Elderly" means a person not less than 62 years of age.
      G. The governing body of any county utilizing the urban county executive form of optional government (§§ 15.2-800 through 15.2-858) or the county manager plan of optional government (§§ 15.2-702 through 15.2-749), or of any city or town adjoining any such county, may require by ordinance that the declarant of any residential condominium converted from multi-family rental use shall reimburse any tenant displaced by the conversion for amounts actually expended to relocate as a result of such dislocation. The reimbursement shall not be required to exceed the amount which the tenant would have been entitled to receive under §§ 25.1-407 and 25.1-415 if the real estate comprising the condominium had been condemned by the Department of Transportation.
-     
       `
     ]
   },
@@ -201,7 +189,6 @@ export const condoText4 = [
      4. $500,000 or more but less than $1 million, the blanket letter of credit shall be $1 million; and
      5. $1 million or more, the blanket letter of credit shall be 100 percent of the amount of such deposits.
      For the purposes of determining the amount of any blanket letter of credit that a declarant maintains in any calendar year, the total amount of deposits considered held by the declarant shall be determined as of May 31 in each calendar year and the amount of the letter of credit shall be in accordance with the amount of deposits held as of May 31.
-     
       `
     ]
   },
@@ -209,7 +196,6 @@ export const condoText4 = [
     title: `§ 55-79.96. Declarant to deliver declaration, etc., to purchaser.`,
     text: [
       `The declarant shall within ten days of recordation of the condominium instruments as provided for in §§ 55-79.45 and 55-79.49 hereof, forward to each purchaser at his last known address by first-class mail, return receipt requested, an exact copy of the recorded declaration and bylaws.
-     
       `
     ]
   },
@@ -266,7 +252,6 @@ export const condoText4 = [
      K. Except as expressly authorized in this chapter or in the condominium instruments or as otherwise provided by law, no unit owners' association shall:
      1. Require the use of any for sale sign that is (i) a unit owners' association sign or (ii) a real estate sign that does not comply with the requirements of the Virginia Real Estate Board. A unit owners' association may, however, prohibit the placement of signs in the common elements and establish reasonable rules and regulations that regulate (a) the number of real estate signs to be located on real property upon which the owner has a separate ownership interest or a right of exclusive possession, so long as at least one real estate sign is permitted; (b) the geographical location of real estate signs on real property in which the owner has a separate ownership interest or a right of exclusive possession, so long as the location of the real estate signs complies with the requirements of the Virginia Real Estate Board; (c) the manner in which real estate signs are affixed to real property; and (d) the period of time after settlement when the real estate signs on such real property shall be removed; or
      2. Require any unit owner to execute a formal power of attorney if the unit owner designates a person licensed under the provisions of § 54.1-2106.1 as the unit owner's authorized representative, and the unit owners' association shall recognize such representation without a formal power of attorney, provided that the unit owners' association is given a written authorization signed by the unit owner designating such representative. Notwithstanding the foregoing, the requirements of § 55-79.77 and the condominium instruments shall be satisfied before any such representative may exercise a vote on behalf of a unit owner as a proxy.
-     
       `
     ]
   },
@@ -294,7 +279,6 @@ export const condoText4 = [
      K. When a resale certificate has been delivered as required by § 55-79.97, the unit owners' association shall, as to the purchaser, be bound by the statements set forth therein as to the status of the assessment account and the status of the unit with respect to any violation of the condominium instruments as of the date of the statement unless the purchaser had actual knowledge that the contents of the resale certificate were in error.
      L. If the unit owners' association or its common interest community manager has been requested in writing to furnish the resale certificate required by § 55-79.97, failure to provide the resale certificate substantially in the form provided in this section shall be deemed a waiver of any claim for delinquent assessments or of any violation of the declaration, bylaws, rules and regulations, or architectural guidelines existing as of the date of the request with respect to the subject unit. The preparer of the resale certificate shall be liable to the seller in an amount equal to the actual damages sustained by the seller in an amount not to exceed $1,000. The purchaser shall nevertheless be obligated to abide by the condominium instruments, rules and regulations, and architectural guidelines of the unit owners' association as to all matters arising after the date of the settlement of the sale.
      M. The Common Interest Community Board may assess a monetary penalty for failure to deliver the resale certificate within 14 days against any (i) unit owners' association pursuant to § 54.1-2351 or (ii) common interest community manager pursuant to § 54.1-2349 and regulations promulgated thereto, and may issue a cease and desist order pursuant to § 54.1-2349 or 54.1-2352, as applicable.
-     
       `
     ]
   },
@@ -302,7 +286,6 @@ export const condoText4 = [
     title: `§ 55-79.97:2. Properties subject to more than one declaration.`,
     text: [
       `If the unit is subject to more than one declaration, the unit owners' association or its common interest community manager may charge the fee authorized by § 55-79.97:1 for each of the applicable associations, provided however, that no association may charge an inspection fee unless the association has architectural control over the unit.
-     
       `
     ]
   },
@@ -311,7 +294,6 @@ export const condoText4 = [
     text: [
       `A. The settlement agent may request a financial update from the preparer of the resale certificate. The preparer of the resale certificate shall, upon request from the settlement agent, provide the settlement agent with written escrow instructions directing the amount of any funds to be paid from the settlement proceeds to the association or the common interest community manager. There shall be no fees charged for a response by the association or its common interest community manager to a request from the settlement agent for written escrow instructions; however a fee may be charged for a financial update pursuant to this chapter.
      B. The settlement agent, when transmitting funds to the unit owners' association or the common interest community manager, shall, unless otherwise directed in writing, provide the preparer of the resale certificate with (i) the complete record name of the seller, (ii) the address of the subject unit, (iii) the complete name of the purchaser, (iv) the date of settlement, and (v) a brief explanation of the application of any funds transmitted or by providing a copy of a settlement statement, unless otherwise prohibited.
-     
       `
     ]
   },
@@ -328,7 +310,6 @@ export const condoText4 = [
      2. Contract with similar agencies in this Commonwealth or other jurisdictions to perform investigative functions;
      3. Accept grants in aid from any governmental source.
      G. The agency shall cooperate with similar agencies in other jurisdictions to establish uniform filing procedures and forms, uniform public offering statements, advertising standards, rules and common administrative practices.
-     
       `
     ]
   },
@@ -338,7 +319,6 @@ export const condoText4 = [
       `A. Whenever the agency receives a written complaint which appears to state a valid claim, the agency shall make necessary public or private investigations in accordance with law within or outside of this Commonwealth to determine whether any declarant, its agents, employees or other representatives have violated or are about to violate this chapter or any rule or order hereunder, or to aid in the enforcement of this chapter or in the prescribing of rules, regulations and forms hereunder. The agency may also in like manner and with like authority investigate written complaints against persons other than the declarant, its agents, employees or other representatives.
      B. For the purpose of any investigation or proceeding under this chapter, the agency or any officer designated by rule may administer oaths or affirmations, and upon its own motion or upon request of any party shall subpoena witnesses, compel their attendance, take evidence, and require the production of any matter which is relevant to the investigation, including the existence, description, nature, custody, condition, and location of any books, documents, or other tangible things and the identity and location of persons having knowledge of relevant facts or any other matter reasonably calculated to lead to the discovery of material evidence.
      C. Upon failure to obey a subpoena or to answer questions propounded by the investigating officer and upon reasonable notice to all persons affected thereby, the agency may apply to the Circuit Court of the City of Richmond for an order compelling compliance.
-     
       `
     ]
   },
@@ -353,7 +333,6 @@ export const condoText4 = [
      (5) Violated any lawful order or rule of the agency;
      it may issue an order requiring the person to cease and desist from the unlawful practice and to take such affirmative action as in the judgment of the agency will carry out the purposes of this chapter.
      (b) If the agency makes a finding of fact in writing that the public interest will be irreparably harmed by delay in issuing an order, it may issue a temporary cease and desist order. Prior to issuing the temporary cease and desist order, the agency shall give notice of the proposal to issue a temporary cease and desist order to the person. Every temporary cease and desist order shall include in its terms a provision that upon request a hearing will be held promptly to determine whether or not it becomes permanent.
-     
       `
     ]
   },
@@ -368,7 +347,6 @@ export const condoText4 = [
      (5) Made intentional misrepresentations or concealed material facts in an application for registration.
      Findings of fact, if set forth in statutory language, shall be accompanied by concise and explicit statement of the underlying facts supporting the findings.
      (b) If the agency finds after notice and hearing that the developer has been guilty of a violation for which revocation could be ordered, it may issue a cease and desist order instead.
-     
       `
     ]
   },
@@ -376,7 +354,6 @@ export const condoText4 = [
     title: `§ 55-79.102. Judicial review.`,
     text: [
       `Proceedings for judicial review shall be in accordance with the provisions of the Administrative Process Act (§ 2.2-4000 et seq.).
-     
       `
     ]
   },
@@ -384,7 +361,6 @@ export const condoText4 = [
     title: `§ 55-79.103. Penalties.`,
     text: [
       `Any person who willfully violates any provision of §§ 55-79.87, 55-79.88, 55-79.89, 55-79.90, 55-79.93, 55-79.94, 55-79.95, or any rule adopted under or order issued pursuant to § 55-79.98, or any person who willfully in an application for registration makes any untrue statement of a material fact or omits to state a material fact shall be guilty of a misdemeanor and may be fined not less than $1,000 or double the amount of gain from the transaction, whichever is the larger but not more than $50,000; or he may be imprisoned for not more than 6 months; or both, for each offense.
-     
       `
     ]
   }

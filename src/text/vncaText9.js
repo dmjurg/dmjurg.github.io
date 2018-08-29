@@ -27,7 +27,6 @@ export const vncaText9 = [
      D. Unless ordered by a court under subsection C of § 13.1-879.1, a corporation may not indemnify a director under this section:
      1. In connection with a proceeding by or in the right of the corporation except for reasonable expenses incurred in connection with the proceeding if it is determined that the director has met the relevant standard under subsection A; or
      2. In connection with any other proceeding charging improper personal benefit to the director, whether or not involving action in his official capacity, in which he was adjudged liable on the basis that personal benefit was improperly received by him.
-     Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -35,7 +34,6 @@ export const vncaText9 = [
     title: `§ 13.1-877. Mandatory indemnification.`,
     text: [
       `Unless limited by its articles of incorporation, a corporation shall indemnify a director who entirely prevails in the defense of any proceeding to which he was a party because he is or was a director of the corporation against reasonable expenses incurred by him in connection with the proceeding.
-     Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522.
       `
     ]
   },
@@ -49,7 +47,6 @@ export const vncaText9 = [
      a. If there are two or more disinterested directors, by a majority vote of all the disinterested directors, a majority of whom shall for such purpose constitute a quorum, or by a majority of the members of a committee of two or more disinterested directors appointed by such a vote; or
      b. If there are fewer than two disinterested directors, by the vote necessary for action by the board in accordance with subsection C of § 13.1-868, in which authorization directors who do not qualify as disinterested directors may participate; or
      2. The members, but any membership interest under the control of a director who at the time does not qualify as a disinterested director may not be voted on the authorization.
-     Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522; 2007, c. 925; 2010, c. 171; 2015, c. 611.
       `
     ]
   },
@@ -81,7 +78,6 @@ export const vncaText9 = [
      b. If there are fewer than two disinterested directors, selected by the board of directors, in which selection directors who do not qualify as disinterested directors may participate; or
      3. By the members, but membership interests under the control of a director who at the time does not qualify as a disinterested director may not be voted on the determination.
      C. Authorization of indemnification shall be made in the same manner as the determination that indemnification is permissible, except that if there are fewer than two disinterested directors or if the determination is made by special legal counsel, authorization of indemnification shall be made by those entitled under subdivision B 2 to select counsel.
-     Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -91,7 +87,6 @@ export const vncaText9 = [
       `Unless limited by a corporation's articles of incorporation:
      1. An officer of the corporation is entitled to mandatory indemnification under § 13.1-877, and is entitled to apply for court-ordered indemnification under § 13.1-879.1, in each case to the same extent as a director; and
      2. The corporation may indemnify and advance expenses under this article to an officer of the corporation to the same extent as to a director.
-     Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -99,7 +94,6 @@ export const vncaText9 = [
     title: `§ 13.1-882. Insurance.`,
     text: [
       `A corporation may purchase and maintain insurance on behalf of an individual who is or was a director or officer of the corporation, or who, while a director or officer of the corporation, is or was serving at the request of the corporation as a director, officer, partner, trustee, employee or agent of another foreign or domestic corporation, limited liability company, partnership, joint venture, trust, employee benefit plan or other entity, against liability asserted against or incurred by such person in that capacity or arising from his status as a director or officer, whether or not the corporation would have power to indemnify him against the same liability under § 13.1-876 or 13.1-877.
-     Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -112,7 +106,6 @@ export const vncaText9 = [
      D. No right provided to any person pursuant to this section may be reduced or eliminated by any amendment of the articles of incorporation or bylaws with respect to any act or omission occurring before such amendment.
      E. This article does not limit a corporation's power to pay or reimburse expenses incurred by a director or an officer in connection with his appearance as a witness in a proceeding at a time when he is not a party.
      F. This article does not limit a corporation's power to indemnify, advance expenses to, or provide or maintain insurance on behalf of an employee or agent who is not a director or officer.
-     Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522; 1987, cc. 59, 257; 1988, c. 561; 2007, c. 925; 2010, c. 171.
       `
     ]
   }

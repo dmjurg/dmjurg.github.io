@@ -29,7 +29,6 @@ export const cicoText = [
     text: [
       `PART II. ASSOCIATION COMPLAINT PROCEDURE
        In accordance with § 55-530 E of the Code of Virginia, each association shall have a written process for resolving association complaints from members and citizens. The association complaint procedure or form shall conform with the requirements set forth in § 55-530 of the Code of Virginia and this chapter, as well as the association governing documents, which shall not be in conflict with § 55-530 of the Code of Virginia or this chapter.
-
      `
     ]
   },
@@ -111,7 +110,6 @@ export const cicoText = [
     text: [
       `Upon receipt of the notice of final adverse decision from the complainant, along with the filing fee or a board-approved waiver of filing fee, the Office of the Common Interest Community Ombudsman shall provide written acknowledgment of receipt of the notice to the complainant and shall provide a copy of the written notice to the association that made the final adverse decision. The notice of adverse decision will not be reviewed until the filing fee has been received or a waiver of filing fee has been granted by the board.
        In accordance with § 55-530 G of the Code of Virginia, additional information may be requested from the association that made the final adverse decision. Upon request, the association shall provide such information to the Office of the Common Interest Community Ombudsman within a reasonable time.
-
      `
     ]
   },

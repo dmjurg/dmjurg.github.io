@@ -4,7 +4,6 @@ export const vncaText10 = [
     text: [
       `A. A corporation may amend its articles of incorporation at any time to add or change a provision that is required or permitted in the articles or to delete a provision not required in the articles. Whether a provision is required or permitted in the articles of incorporation is determined as of the effective date of the amendment.
      B. A member of the corporation does not have a vested property right resulting from any provision in the articles of incorporation, including provisions relating to management, control, capital structure, purpose, or duration of the corporation.
-     Code 1950, § 13.1-235; 1956, c. 428; 1985, c. 522.
       `
     ]
   },
@@ -17,7 +16,6 @@ export const vncaText10 = [
      2. To delete the name of the initial registered agent or the address of the initial registered office, if a statement of change described in § 13.1-834 is on file with the Commission;
      3. To add, delete, or change a geographic attribution for the name; or
      4. To make any other change expressly permitted by this Act to be made without member action.
-     Code 1950, § 13.1-236; 1956, c. 428; 1964, c. 580; 1985, c. 522; 2007, c. 925; 2015, c. 623.
       `
     ]
   },
@@ -31,7 +29,6 @@ export const vncaText10 = [
      B. The board of directors may condition its submission of the proposed amendment on any basis.
      C. The corporation shall notify each member entitled to vote of the proposed members' meeting in accordance with § 13.1-842. The notice of meeting shall also state that the purpose, or one of the purposes, of the meeting is to consider the proposed amendment and contain or be accompanied by a copy of the amendment.
      D. Unless this Act or the board of directors, acting pursuant to subsection B, requires a greater vote, the amendment to be adopted shall be approved by each voting group entitled to vote on the amendment by more than two-thirds of all the votes cast by that voting group. The articles of incorporation may provide for a greater or lesser vote than that provided for in this subsection or a vote by separate voting groups so long as the vote provided for is not less than a majority of all the votes cast on the amendment by each voting group entitled to vote on the amendment at a meeting at which a quorum of the voting group exists.
-     Code 1950, § 13.1-236; 1956, c. 428; 1964, c. 580; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
@@ -63,7 +60,6 @@ export const vncaText10 = [
      (1) The existence of a quorum of each voting group entitled to vote separately on the amendment; and
      (2) Either the total number of votes cast for and against the amendment by each voting group entitled to vote separately on the amendment or the total number of undisputed votes cast for the amendment by each voting group and a statement that the number cast for the amendment by each voting group was sufficient for approval by that voting group.
      B. If the Commission finds that the articles of amendment comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of amendment.
-     Code 1950, §§ 13-226, 13-227, 13.1-237, 13.1-238; 1956, c. 428; 1966, c. 218; 1975, c. 500; 1985, c. 522; 2002, c. 607; 2007, c. 925; 2012, c. 130.
       `
     ]
   },
@@ -98,7 +94,6 @@ export const vncaText10 = [
     title: `§ 13.1-891. Effect of amendment of articles of incorporation.`,
     text: [
       `An amendment to the articles of incorporation does not affect a cause of action existing in favor of or against the corporation, a proceeding to which the corporation is a party, or the existing rights of persons other than members of the corporation. An amendment changing a corporation's name does not abate a proceeding brought by or against the corporation in its former name.
-     Code 1950, § 13.1-239; 1956, c. 428; 1985, c. 522; 2007, c. 925.
       `
     ]
   },
