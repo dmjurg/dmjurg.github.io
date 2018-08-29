@@ -31,11 +31,21 @@ class LawSection extends React.Component {
 
     const els = [];
     bodyText.forEach((paragraphText, paragraphIndex) => {
-      const splitText = paragraphText.split(searchText);
+      let regExp = new RegExp(`(${searchText})`, "i");
+      const splitText = paragraphText.split(regExp);
       const innerEls = [];
 
       splitText.forEach((text, innerTextIndex) => {
-        innerEls.push(<span key={`text-${innerTextIndex}`}>{text}</span>);
+        if (text.match(regExp)) {
+          const match = <span className="highlight"
+                              key={`text-match-${innerTextIndex}`}
+                              ref={matchEl => this.props.registerMatch && this.props.registerMatch(matchEl)}>
+                      {text}
+                    </span>;
+          innerEls.push(match);
+        } else {
+          innerEls.push(<span key={`text-${innerTextIndex}`}>{text}</span>);
+        }
 
         if (innerTextIndex === splitText.length - 1) {
           return;
@@ -43,13 +53,6 @@ class LawSection extends React.Component {
 
         // there is at least one match!
         this.setState({bodyVisible: true});
-
-        const match = <span className="highlight"
-                            key={`text-match-${innerTextIndex}`}
-                            ref={matchEl => this.props.registerMatch && this.props.registerMatch(matchEl)}>
-                      {searchText}
-                    </span>;
-        innerEls.push(match);
       });
 
       els.push(<p key={paragraphIndex}>{innerEls}</p>);
