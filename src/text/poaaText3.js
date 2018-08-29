@@ -1,469 +1,289 @@
 export const poaaText3 = [
   {
     title: `§ 55-510. Access to association records; association meetings; notice.`,
-    text:
+    text: [
+      `A. The association shall keep detailed records of receipts and expenditures affecting the operation and administration of the association. All financial books and records shall be kept in accordance with generally accepted accounting practices.
+       B. Subject to the provisions of subsection C and so long as the request is for a proper purpose related to his membership in the association, all books and records kept by or on behalf of the association, shall be available for examination and copying by a member in good standing or his authorized agent including but not limited to:
+       1. The association's membership list and addresses, which shall not be used for purposes of pecuniary gain or commercial solicitation; and
+       2. The actual salary of the six highest compensated employees of the association earning over $75,000 and aggregate salary information of all other employees of the association; however, individual salary information shall not be available for examination and copying during the declarant control period.
+       Notwithstanding any provision of law to the contrary, this right of examination shall exist without reference to the duration of membership and may be exercised (i) only during reasonable business hours or at a mutually convenient time and location and (ii) upon five business days' written notice for an association managed by a common interest community manager and 10 business days' written notice for a self-managed association, which notice reasonably identifies the purpose for the request and the specific books and records of the association requested.
+       C. Books and records kept by or on behalf of an association may be withheld from inspection and copying to the extent that they concern:
+       1. Personnel matters relating to specific, identified persons or a person's medical records;
+       2. Contracts, leases, and other commercial transactions to purchase or provide goods or services, currently in or under negotiation;
+       3. Pending or probable litigation. Probable litigation means those instances where there has been a specific threat of litigation from a party or the legal counsel of a party;
+       4. Matters involving state or local administrative or other formal proceedings before a government tribunal for enforcement of the association documents or rules and regulations promulgated pursuant to § 55-513;
+       5. Communications with legal counsel that relate to subdivisions 1 through 4 or that are protected by the attorney-client privilege or the attorney work product doctrine;
+       6. Disclosure of information in violation of law;
+       7. Meeting minutes or other confidential records of an executive session of the board of directors held in accordance with subsection C of § 55-510.1;
+       8. Documentation, correspondence or management or board reports compiled for or on behalf of the association or the board by its agents or committees for consideration by the board in executive session; or
+       9. Individual unit owner or member files, other than those of the requesting lot owner, including any individual lot owner's or member's files kept by or on behalf of the association.
+       D. Books and records kept by or on behalf of an association shall be withheld from inspection and copying in their entirety only to the extent that an exclusion from disclosure under subsection C applies to the entire content of such books and records. Otherwise, only those portions of the books and records containing information subject to an exclusion under subsection C may be withheld or redacted, and all portions of the books and records that are not so excluded shall be available for examination and copying, provided that the requesting member shall be responsible to the association for paying or reimbursing the association for any reasonable costs incurred by the association in responding to the request for the books and records and review for redaction of the same.
+       E. Prior to providing copies of any books and records to a member in good standing under this section, the association may impose and collect a charge, reflecting the reasonable costs of materials and labor, not to exceed the actual costs thereof. Charges may be imposed only in accordance with a cost schedule adopted by the board of directors in accordance with this subsection. The cost schedule shall (i) specify the charges for materials and labor, (ii) apply equally to all members in good standing, and (iii) be provided to such requesting member at the time the request is made.
+       F. Notwithstanding the provisions of subsections B and C, all books and records of the association, including individual salary information for all employees and payments to independent contractors, shall be available for examination and copying upon request by a member of the board of directors in the discharge of his duties as a director.
+       G. Meetings of the association shall be held in accordance with the provisions of the bylaws at least once each year after the formation of the association. The bylaws shall specify an officer or his agent who shall, at least 14 days in advance of any annual or regularly scheduled meeting, and at least seven days in advance of any other meeting, send to each member notice of the time, place, and purposes of such meeting. In the event of cancellation of any annual meeting of the association at which directors are elected, the seven-day notice of any subsequent meeting scheduled to elect such directors shall include a statement that the meeting is scheduled for the purpose of the election of directors.
+       Notice shall be sent by United States mail to all members at the address of their respective lots unless the member has provided to such officer or his agent an address other than the address of the member's lot; or notice may be hand delivered by the officer or his agent, provided the officer or his agent certifies in writing that notice was delivered to the member. Except as provided in subdivision C 7, draft minutes of the board of directors shall be open for inspection and copying (i) within 60 days from the conclusion of the meeting to which such minutes appertain or (ii) when such minutes are distributed to board members as part of an agenda package for the next meeting of the board of directors, whichever occurs first.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. The association shall keep detailed records of receipts and expenditures affecting the operation and administration of the association. All financial books and records shall be kept in accordance with generally accepted accounting practices.
-
-        B. Subject to the provisions of subsection C and so long as the request is for a proper purpose related to his membership in the association, all books and records kept by or on behalf of the association, shall be available for examination and copying by a member in good standing or his authorized agent including but not limited to:
-
-        1. The association's membership list and addresses, which shall not be used for purposes of pecuniary gain or commercial solicitation; and
-
-        2. The actual salary of the six highest compensated employees of the association earning over $75,000 and aggregate salary information of all other employees of the association; however, individual salary information shall not be available for examination and copying during the declarant control period.
-
-        Notwithstanding any provision of law to the contrary, this right of examination shall exist without reference to the duration of membership and may be exercised (i) only during reasonable business hours or at a mutually convenient time and location and (ii) upon five business days' written notice for an association managed by a common interest community manager and 10 business days' written notice for a self-managed association, which notice reasonably identifies the purpose for the request and the specific books and records of the association requested.
-
-        C. Books and records kept by or on behalf of an association may be withheld from inspection and copying to the extent that they concern:
-
-        1. Personnel matters relating to specific, identified persons or a person's medical records;
-
-        2. Contracts, leases, and other commercial transactions to purchase or provide goods or services, currently in or under negotiation;
-
-        3. Pending or probable litigation. Probable litigation means those instances where there has been a specific threat of litigation from a party or the legal counsel of a party;
-
-        4. Matters involving state or local administrative or other formal proceedings before a government tribunal for enforcement of the association documents or rules and regulations promulgated pursuant to § 55-513;
-
-        5. Communications with legal counsel that relate to subdivisions 1 through 4 or that are protected by the attorney-client privilege or the attorney work product doctrine;
-
-        6. Disclosure of information in violation of law;
-
-        7. Meeting minutes or other confidential records of an executive session of the board of directors held in accordance with subsection C of § 55-510.1;
-
-        8. Documentation, correspondence or management or board reports compiled for or on behalf of the association or the board by its agents or committees for consideration by the board in executive session; or
-
-        9. Individual unit owner or member files, other than those of the requesting lot owner, including any individual lot owner's or member's files kept by or on behalf of the association.
-
-        D. Books and records kept by or on behalf of an association shall be withheld from inspection and copying in their entirety only to the extent that an exclusion from disclosure under subsection C applies to the entire content of such books and records. Otherwise, only those portions of the books and records containing information subject to an exclusion under subsection C may be withheld or redacted, and all portions of the books and records that are not so excluded shall be available for examination and copying, provided that the requesting member shall be responsible to the association for paying or reimbursing the association for any reasonable costs incurred by the association in responding to the request for the books and records and review for redaction of the same.
-
-        E. Prior to providing copies of any books and records to a member in good standing under this section, the association may impose and collect a charge, reflecting the reasonable costs of materials and labor, not to exceed the actual costs thereof. Charges may be imposed only in accordance with a cost schedule adopted by the board of directors in accordance with this subsection. The cost schedule shall (i) specify the charges for materials and labor, (ii) apply equally to all members in good standing, and (iii) be provided to such requesting member at the time the request is made.
-
-        F. Notwithstanding the provisions of subsections B and C, all books and records of the association, including individual salary information for all employees and payments to independent contractors, shall be available for examination and copying upon request by a member of the board of directors in the discharge of his duties as a director.
-
-        G. Meetings of the association shall be held in accordance with the provisions of the bylaws at least once each year after the formation of the association. The bylaws shall specify an officer or his agent who shall, at least 14 days in advance of any annual or regularly scheduled meeting, and at least seven days in advance of any other meeting, send to each member notice of the time, place, and purposes of such meeting. In the event of cancellation of any annual meeting of the association at which directors are elected, the seven-day notice of any subsequent meeting scheduled to elect such directors shall include a statement that the meeting is scheduled for the purpose of the election of directors.
-
-        Notice shall be sent by United States mail to all members at the address of their respective lots unless the member has provided to such officer or his agent an address other than the address of the member's lot; or notice may be hand delivered by the officer or his agent, provided the officer or his agent certifies in writing that notice was delivered to the member. Except as provided in subdivision C 7, draft minutes of the board of directors shall be open for inspection and copying (i) within 60 days from the conclusion of the meeting to which such minutes appertain or (ii) when such minutes are distributed to board members as part of an agenda package for the next meeting of the board of directors, whichever occurs first.
-
-        1989, c. 679; 1991, c. 667; 1992, cc. 69, 71; 1993, cc. 365, 827; 1999, cc. 594, 654, 1029; 2000, cc. 905, 1008; 2001, c. 419; 2003, c. 442; 2004, c. 193; 2007, c. 675; 2008, cc. 851, 871; 2009, c. 665; 2011, c. 361; 2013, c. 275; 2014, c. 207; 2018, c. 663.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-510.1. Meetings of the board of directors.`,
-    text:
+    text: [
+      `A. All meetings of the board of directors, including any subcommittee or other committee thereof, shall be open to all members of record. The board of directors shall not use work sessions or other informal gatherings of the board of directors to circumvent the open meeting requirements of this section. Minutes of the meetings of the board of directors shall be recorded and shall be available as provided in subsection B of § 55-510.
+       B. Notice of the time, date and place of each meeting of the board of directors or of any subcommittee or other committee thereof shall be published where it is reasonably calculated to be available to a majority of the lot owners.
+       A lot owner may make a request to be notified on a continual basis of any such meetings which request shall be made at least once a year in writing and include the lot owners' name, address, zip code, and any e-mail address as appropriate. Notice of the time, date, and place shall be sent to any lot owner requesting notice (i) by first-class mail or e-mail in the case of meetings of the board of directors or (ii) by e-mail in the case of meetings of any subcommittee or other committee of the board of directors.
+       Notice, reasonable under the circumstances, of special or emergency meetings shall be given contemporaneously with the notice provided members of the association's board of directors or any subcommittee or other committee thereof conducting the meeting.
+       Unless otherwise exempt as relating to an executive session pursuant to subsection C, at least one copy of all agenda packets and materials furnished to members of an association's board of directors or subcommittee or other committee thereof for a meeting shall be made available for inspection by the membership of the association at the same time such documents are furnished to the members of the board of directors or any subcommittee or committee thereof.
+       Any member may record any portion of a meeting required to be open. The board of directors or subcommittee or other committee thereof conducting the meeting may adopt rules (i) governing the placement and use of equipment necessary for recording a meeting to prevent interference with the proceedings and (ii) requiring the member recording the meeting to provide notice that the meeting is being recorded.
+       If a meeting is conducted by telephone conference or video conference or similar electronic means, at least two members of the board of directors shall be physically present at the meeting place included in the notice. The audio equipment shall be sufficient for any member in attendance to hear what is said by any member of the board of directors participating in the meeting who is not physically present.
+       Voting by secret or written ballot in an open meeting shall be a violation of this chapter except for the election of officers.
+       C. The board of directors or any subcommittee or other committee thereof may convene in executive session to consider personnel matters; consult with legal counsel; discuss and consider contracts, pending or probable litigation and matters involving violations of the declaration or rules and regulations adopted pursuant thereto for which a member, his family members, tenants, guests or other invitees are responsible; or discuss and consider the personal liability of members to the association, upon the affirmative vote in an open meeting to assemble in executive session. The motion shall state specifically the purpose for the executive session. Reference to the motion and the stated purpose for the executive session shall be included in the minutes. The board of directors shall restrict the consideration of matters during such portions of meetings to only those purposes specifically exempted and stated in the motion. No contract, motion or other action adopted, passed or agreed to in executive session shall become effective unless the board of directors or subcommittee or other committee thereof, following the executive session, reconvenes in open meeting and takes a vote on such contract, motion or other action which shall have its substance reasonably identified in the open meeting. The requirements of this section shall not require the disclosure of information in violation of law.
+       D. Subject to reasonable rules adopted by the board of directors, the board of directors shall provide a designated period of time during a meeting to allow members an opportunity to comment on any matter relating to the association. During a meeting at which the agenda is limited to specific topics or at a special meeting, the board of directors may limit the comments of members to the topics listed on the meeting agenda.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. All meetings of the board of directors, including any subcommittee or other committee thereof, shall be open to all members of record. The board of directors shall not use work sessions or other informal gatherings of the board of directors to circumvent the open meeting requirements of this section. Minutes of the meetings of the board of directors shall be recorded and shall be available as provided in subsection B of § 55-510.
-
-        B. Notice of the time, date and place of each meeting of the board of directors or of any subcommittee or other committee thereof shall be published where it is reasonably calculated to be available to a majority of the lot owners.
-
-        A lot owner may make a request to be notified on a continual basis of any such meetings which request shall be made at least once a year in writing and include the lot owners' name, address, zip code, and any e-mail address as appropriate. Notice of the time, date, and place shall be sent to any lot owner requesting notice (i) by first-class mail or e-mail in the case of meetings of the board of directors or (ii) by e-mail in the case of meetings of any subcommittee or other committee of the board of directors.
-
-        Notice, reasonable under the circumstances, of special or emergency meetings shall be given contemporaneously with the notice provided members of the association's board of directors or any subcommittee or other committee thereof conducting the meeting.
-
-        Unless otherwise exempt as relating to an executive session pursuant to subsection C, at least one copy of all agenda packets and materials furnished to members of an association's board of directors or subcommittee or other committee thereof for a meeting shall be made available for inspection by the membership of the association at the same time such documents are furnished to the members of the board of directors or any subcommittee or committee thereof.
-
-        Any member may record any portion of a meeting required to be open. The board of directors or subcommittee or other committee thereof conducting the meeting may adopt rules (i) governing the placement and use of equipment necessary for recording a meeting to prevent interference with the proceedings and (ii) requiring the member recording the meeting to provide notice that the meeting is being recorded.
-
-        If a meeting is conducted by telephone conference or video conference or similar electronic means, at least two members of the board of directors shall be physically present at the meeting place included in the notice. The audio equipment shall be sufficient for any member in attendance to hear what is said by any member of the board of directors participating in the meeting who is not physically present.
-
-        Voting by secret or written ballot in an open meeting shall be a violation of this chapter except for the election of officers.
-
-        C. The board of directors or any subcommittee or other committee thereof may convene in executive session to consider personnel matters; consult with legal counsel; discuss and consider contracts, pending or probable litigation and matters involving violations of the declaration or rules and regulations adopted pursuant thereto for which a member, his family members, tenants, guests or other invitees are responsible; or discuss and consider the personal liability of members to the association, upon the affirmative vote in an open meeting to assemble in executive session. The motion shall state specifically the purpose for the executive session. Reference to the motion and the stated purpose for the executive session shall be included in the minutes. The board of directors shall restrict the consideration of matters during such portions of meetings to only those purposes specifically exempted and stated in the motion. No contract, motion or other action adopted, passed or agreed to in executive session shall become effective unless the board of directors or subcommittee or other committee thereof, following the executive session, reconvenes in open meeting and takes a vote on such contract, motion or other action which shall have its substance reasonably identified in the open meeting. The requirements of this section shall not require the disclosure of information in violation of law.
-
-        D. Subject to reasonable rules adopted by the board of directors, the board of directors shall provide a designated period of time during a meeting to allow members an opportunity to comment on any matter relating to the association. During a meeting at which the agenda is limited to specific topics or at a special meeting, the board of directors may limit the comments of members to the topics listed on the meeting agenda.
-
-        1999, c. 1029; 2000, c. 905; 2001, c. 715; 2003, c. 404; 2004, c. 333; 2005, c. 353.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-510.2. Distribution of information by members.`,
-    text:
+    text: [
+      `The board of directors shall establish a reasonable, effective, and free method, appropriate to the size and nature of the association, for lot owners to communicate among themselves and with the board of directors regarding any matter concerning the association.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        The board of directors shall establish a reasonable, effective, and free method, appropriate to the size and nature of the association, for lot owners to communicate among themselves and with the board of directors regarding any matter concerning the association.
-
-        2001, c. 715.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-510.3. Common areas; notice of pesticide application.`,
-    text:
+    text: [
+      `The association shall post notice of all pesticide applications in or upon the common areas. Such notice shall consist of conspicuous signs placed in or upon the common areas where the pesticide will be applied at least 48 hours prior to the application.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        The association shall post notice of all pesticide applications in or upon the common areas. Such notice shall consist of conspicuous signs placed in or upon the common areas where the pesticide will be applied at least 48 hours prior to the application.
-
-        2011, c. 264.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§§ 55-511, 55-512. Repealed.`,
-    text:
+    text: [
+      `Repealed by Acts 2008, cc. 851 and 871, cl. 5.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        Repealed by Acts 2008, cc. 851 and 871, cl. 5.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-513. Adoption and enforcement of rules.`,
-    text:
+    text: [
+      `A. Except as otherwise provided in this chapter, the board of directors shall have the power to establish, adopt, and enforce rules and regulations with respect to use of the common areas and with respect to such other areas of responsibility assigned to the association by the declaration, except where expressly reserved by the declaration to the members. Rules and regulations may be adopted by resolution and shall be reasonably published or distributed throughout the development. A majority of votes cast, in person or by proxy, at a meeting convened in accordance with the provisions of the association's bylaws and called for that purpose shall repeal or amend any rule or regulation adopted by the board of directors. Rules and regulations may be enforced by any method normally available to the owner of private property in Virginia, including, but not limited to, application for injunctive relief or actual damages, during which the court may award to the prevailing party court costs and reasonable attorney fees.
+       B. The board of directors shall also have the power, to the extent the declaration or rules and regulations duly adopted pursuant thereto expressly so provide, to (i) suspend a member's right to use facilities or services, including utility services, provided directly through the association for nonpayment of assessments which are more than 60 days past due, to the extent that access to the lot through the common areas is not precluded and provided that such suspension shall not endanger the health, safety, or property of any owner, tenant, or occupant and (ii) assess charges against any member for any violation of the declaration or rules and regulations for which the member or his family members, tenants, guests, or other invitees are responsible.
+       C. Before any action authorized in this section is taken, the member shall be given a reasonable opportunity to correct the alleged violation after written notice of the alleged violation to the member at the address required for notices of meetings pursuant to § 55-510. If the violation remains uncorrected, the member shall be given an opportunity to be heard and to be represented by counsel before the board of directors or other tribunal specified in the documents.
+       Notice of a hearing, including the actions that may be taken by the association in accordance with this section, shall be hand delivered or mailed by registered or certified mail, return receipt requested, to the member at the address of record with the association at least 14 days prior to the hearing. Within seven days of the hearing, the hearing result shall be hand delivered or mailed by registered or certified mail, return receipt requested, to the member at the address of record with the association.
+       D. The amount of any charges so assessed shall not be limited to the expense or damage to the association caused by the violation, but shall not exceed $50 for a single offense or $10 per day for any offense of a continuing nature and shall be treated as an assessment against the member's lot for the purposes of § 55-516. However, the total charges for any offense of a continuing nature shall not be assessed for a period exceeding 90 days.
+       E. The board of directors may file or defend legal action in general district or circuit court that seeks relief, including injunctive relief arising from any violation of the declaration or duly adopted rules and regulations.
+       F. After the date a lawsuit is filed in the general district or circuit court by (i) the association, by and through its counsel, to collect the charges or obtain injunctive relief and correct the violation or (ii) the lot owner challenging any such charges, no additional charges shall accrue. If the court rules in favor of the association, it shall be entitled to collect such charges from the date the action was filed as well as all other charges assessed pursuant to this section against the lot owner prior to the action. In addition, if the court finds that the violation remains uncorrected, the court may order the unit owner to abate or remedy the violation.
+       G. In any suit filed in general district court pursuant to this section, the court may enter default judgment against the lot owner on the association's sworn affidavit.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. Except as otherwise provided in this chapter, the board of directors shall have the power to establish, adopt, and enforce rules and regulations with respect to use of the common areas and with respect to such other areas of responsibility assigned to the association by the declaration, except where expressly reserved by the declaration to the members. Rules and regulations may be adopted by resolution and shall be reasonably published or distributed throughout the development. A majority of votes cast, in person or by proxy, at a meeting convened in accordance with the provisions of the association's bylaws and called for that purpose shall repeal or amend any rule or regulation adopted by the board of directors. Rules and regulations may be enforced by any method normally available to the owner of private property in Virginia, including, but not limited to, application for injunctive relief or actual damages, during which the court may award to the prevailing party court costs and reasonable attorney fees.
-
-        B. The board of directors shall also have the power, to the extent the declaration or rules and regulations duly adopted pursuant thereto expressly so provide, to (i) suspend a member's right to use facilities or services, including utility services, provided directly through the association for nonpayment of assessments which are more than 60 days past due, to the extent that access to the lot through the common areas is not precluded and provided that such suspension shall not endanger the health, safety, or property of any owner, tenant, or occupant and (ii) assess charges against any member for any violation of the declaration or rules and regulations for which the member or his family members, tenants, guests, or other invitees are responsible.
-
-        C. Before any action authorized in this section is taken, the member shall be given a reasonable opportunity to correct the alleged violation after written notice of the alleged violation to the member at the address required for notices of meetings pursuant to § 55-510. If the violation remains uncorrected, the member shall be given an opportunity to be heard and to be represented by counsel before the board of directors or other tribunal specified in the documents.
-
-        Notice of a hearing, including the actions that may be taken by the association in accordance with this section, shall be hand delivered or mailed by registered or certified mail, return receipt requested, to the member at the address of record with the association at least 14 days prior to the hearing. Within seven days of the hearing, the hearing result shall be hand delivered or mailed by registered or certified mail, return receipt requested, to the member at the address of record with the association.
-
-        D. The amount of any charges so assessed shall not be limited to the expense or damage to the association caused by the violation, but shall not exceed $50 for a single offense or $10 per day for any offense of a continuing nature and shall be treated as an assessment against the member's lot for the purposes of § 55-516. However, the total charges for any offense of a continuing nature shall not be assessed for a period exceeding 90 days.
-
-        E. The board of directors may file or defend legal action in general district or circuit court that seeks relief, including injunctive relief arising from any violation of the declaration or duly adopted rules and regulations.
-
-        F. After the date a lawsuit is filed in the general district or circuit court by (i) the association, by and through its counsel, to collect the charges or obtain injunctive relief and correct the violation or (ii) the lot owner challenging any such charges, no additional charges shall accrue. If the court rules in favor of the association, it shall be entitled to collect such charges from the date the action was filed as well as all other charges assessed pursuant to this section against the lot owner prior to the action. In addition, if the court finds that the violation remains uncorrected, the court may order the unit owner to abate or remedy the violation.
-
-        G. In any suit filed in general district court pursuant to this section, the court may enter default judgment against the lot owner on the association's sworn affidavit.
-
-        1989, c. 679; 1991, c. 667; 1993, c. 956; 1994, c. 368; 1997, cc. 173, 417; 2000, cc. 846, 905; 2002, c. 509; 2008, cc. 851, 871; 2011, cc. 372, 378; 2014, c. 784.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-513.1. Display of the flag of the United States; necessary supporting structures; affirmative defense.`,
-    text:
+    text: [
+      `A. In accordance with the federal Freedom to Display the American Flag Act of 2005, no association shall prohibit any lot owner from displaying upon property to which the lot owner has a separate ownership interest or a right to exclusive possession or use the flag of the United States whenever such display is in compliance with Chapter 1 of Title 4 of the United States Code, or any rule or custom pertaining to the proper display of the flag. The association may, however, establish reasonable restrictions as to the size, place, duration, and manner of placement or display of the flag on such property provided such restrictions are necessary to protect a substantial interest of the association.
+       B. The association may restrict the display of such flag in the common areas.
+       C. In any action brought by the association under § 55-513 for violation of a flag restriction, the association shall bear the burden of proof that the restrictions as to the size, place, duration, and manner of placement or display of such flag are necessary to protect a substantial interest of the association.
+       D. In any action brought by the association under § 55-513, the lot owner shall be entitled to assert as an affirmative defense that the required disclosure of any limitations pertaining to the display of flags or any flagpole or similar structure necessary to display such flags was not contained in the disclosure packet required pursuant to § 55-509.5.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. In accordance with the federal Freedom to Display the American Flag Act of 2005, no association shall prohibit any lot owner from displaying upon property to which the lot owner has a separate ownership interest or a right to exclusive possession or use the flag of the United States whenever such display is in compliance with Chapter 1 of Title 4 of the United States Code, or any rule or custom pertaining to the proper display of the flag. The association may, however, establish reasonable restrictions as to the size, place, duration, and manner of placement or display of the flag on such property provided such restrictions are necessary to protect a substantial interest of the association.
-
-        B. The association may restrict the display of such flag in the common areas.
-
-        C. In any action brought by the association under § 55-513 for violation of a flag restriction, the association shall bear the burden of proof that the restrictions as to the size, place, duration, and manner of placement or display of such flag are necessary to protect a substantial interest of the association.
-
-        D. In any action brought by the association under § 55-513, the lot owner shall be entitled to assert as an affirmative defense that the required disclosure of any limitations pertaining to the display of flags or any flagpole or similar structure necessary to display such flags was not contained in the disclosure packet required pursuant to § 55-509.5.
-
-        2000, c. 891; 2007, cc. 854, 910; 2008, cc. 851, 871; 2010, cc. 166, 453.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-513.2. Home-based businesses permitted; compliance with local ordinances.`,
-    text:
+    text: [
+      `Except to the extent the declaration provides otherwise, no association shall prohibit any lot owner from operating a home-based business within his personal residence. The association may, however, establish (i) reasonable restrictions as to the time, place, and manner of the operation of a home-based business and (ii) reasonable restrictions as to the size, place, duration, and manner of the placement or display of any signs on the owner's lot related to such home-based business. Any home-based business shall comply with all applicable local ordinances.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        Except to the extent the declaration provides otherwise, no association shall prohibit any lot owner from operating a home-based business within his personal residence. The association may, however, establish (i) reasonable restrictions as to the time, place, and manner of the operation of a home-based business and (ii) reasonable restrictions as to the size, place, duration, and manner of the placement or display of any signs on the owner's lot related to such home-based business. Any home-based business shall comply with all applicable local ordinances.
-
-        2013, c. 310.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-513.3. Assessments; late fees.`,
-    text:
+    text: [
+      `Except to the extent that the declaration or any rules or regulations promulgated pursuant thereto provides otherwise, the board may impose a late fee for, not to exceed the penalty provided in § 58.1-3915, any assessment or installment thereof that is not paid within 60 days of the due date for payment of such assessment.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        Except to the extent that the declaration or any rules or regulations promulgated pursuant thereto provides otherwise, the board may impose a late fee for, not to exceed the penalty provided in § 58.1-3915, any assessment or installment thereof that is not paid within 60 days of the due date for payment of such assessment.
-
-        2013, c. 256; 2014, c. 239.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-514. Authority to levy special assessments.`,
-    text:
+    text: [
+      `A. In addition to all other assessments which are authorized in the declaration, the board of directors shall have the power to levy a special assessment against its members if the purpose in so doing is found by the board to be in the best interests of the association and the proceeds of the assessment are used primarily for the maintenance and upkeep of the common area and such other areas of association responsibility expressly provided for in the declaration, including capital expenditures. A majority of votes cast, in person or by proxy, at a meeting of the membership convened in accordance with the provisions of the association's bylaws within 60 days of promulgation of the notice of the assessment shall rescind or reduce the special assessment. No director or officer of the association shall be liable for failure to perform his fiduciary duty if a special assessment for the funds necessary for the director or officer to perform his fiduciary duty is rescinded by the owners pursuant to this section, and the association shall indemnify such director or officer against any damage resulting from any claimed breach of fiduciary duty arising therefrom.
+       B. The failure of a member to pay the special assessment allowed by subsection A shall entitle the association to the lien provided by § 55-516 as well as any other rights afforded a creditor under law.
+       C. The failure of a member to pay the special assessment allowed by subsection A will provide the association with the right to deny the member access to any or all of the common areas. Notwithstanding the immediately preceding sentence, direct access to the member's lot over any road within the development which is a common area shall not be denied the member.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. In addition to all other assessments which are authorized in the declaration, the board of directors shall have the power to levy a special assessment against its members if the purpose in so doing is found by the board to be in the best interests of the association and the proceeds of the assessment are used primarily for the maintenance and upkeep of the common area and such other areas of association responsibility expressly provided for in the declaration, including capital expenditures. A majority of votes cast, in person or by proxy, at a meeting of the membership convened in accordance with the provisions of the association's bylaws within 60 days of promulgation of the notice of the assessment shall rescind or reduce the special assessment. No director or officer of the association shall be liable for failure to perform his fiduciary duty if a special assessment for the funds necessary for the director or officer to perform his fiduciary duty is rescinded by the owners pursuant to this section, and the association shall indemnify such director or officer against any damage resulting from any claimed breach of fiduciary duty arising therefrom.
-
-        B. The failure of a member to pay the special assessment allowed by subsection A shall entitle the association to the lien provided by § 55-516 as well as any other rights afforded a creditor under law.
-
-        C. The failure of a member to pay the special assessment allowed by subsection A will provide the association with the right to deny the member access to any or all of the common areas. Notwithstanding the immediately preceding sentence, direct access to the member's lot over any road within the development which is a common area shall not be denied the member.
-
-        1989, c. 679; 1991, c. 667; 1992, c. 450; 1998, cc. 32, 751; 2008, cc. 851, 871.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-514.1. Reserves for capital components.`,
-    text:
+    text: [
+      `A. Except to the extent otherwise provided in the declaration and unless the declaration imposes more stringent requirements, the board of directors shall:
+       1. Conduct at least once every five years a study to determine the necessity and amount of reserves required to repair, replace and restore the capital components;
+       2. Review the results of that study at least annually to determine if reserves are sufficient; and
+       3. Make any adjustments the board of directors deems necessary to maintain reserves, as appropriate.
+       B. To the extent that the reserve study conducted in accordance with this section indicates a need to budget for reserves, the association budget shall include, without limitation:
+       1. The current estimated replacement cost, estimated remaining life and estimated useful life of the capital components;
+       2. As of the beginning of the fiscal year for which the budget is prepared, the current amount of accumulated cash reserves set aside, to repair, replace or restore capital components and the amount of the expected contribution to the reserve fund for that year; and
+       3. A general statement describing the procedures used for the estimation and accumulation of cash reserves pursuant to this section and the extent to which the association is funding its reserve obligations consistent with the study currently in effect.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. Except to the extent otherwise provided in the declaration and unless the declaration imposes more stringent requirements, the board of directors shall:
-
-        1. Conduct at least once every five years a study to determine the necessity and amount of reserves required to repair, replace and restore the capital components;
-
-        2. Review the results of that study at least annually to determine if reserves are sufficient; and
-
-        3. Make any adjustments the board of directors deems necessary to maintain reserves, as appropriate.
-
-        B. To the extent that the reserve study conducted in accordance with this section indicates a need to budget for reserves, the association budget shall include, without limitation:
-
-        1. The current estimated replacement cost, estimated remaining life and estimated useful life of the capital components;
-
-        2. As of the beginning of the fiscal year for which the budget is prepared, the current amount of accumulated cash reserves set aside, to repair, replace or restore capital components and the amount of the expected contribution to the reserve fund for that year; and
-
-        3. A general statement describing the procedures used for the estimation and accumulation of cash reserves pursuant to this section and the extent to which the association is funding its reserve obligations consistent with the study currently in effect.
-
-        2002, c. 459.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-514.2. Deposit of funds; fidelity bond.`,
-    text:
+    text: [
+      `A. All funds deposited with a managing agent shall be handled in a fiduciary capacity and shall be kept in a fiduciary trust account in a federally insured financial institution separate from other assets of the managing agent. The funds shall be the property of the association and shall be segregated for each account in the records of the managing agent in a manner that permits the funds to be identified on an individual association basis.
+       B. Any association collecting assessments for common expenses shall obtain and maintain a blanket fidelity bond or employee dishonesty insurance policy insuring the association against losses resulting from theft or dishonesty committed by the officers, directors, or persons employed by the association, or committed by any managing agent or employees of the managing agent. Such bond or insurance policy shall provide coverage in an amount equal to the lesser of $1 million or the amount of the reserve balances of the association plus one-fourth of the aggregate annual assessment income of such association. The minimum coverage amount shall be $10,000. The board of directors or managing agent may obtain such bond or insurance on behalf of the association.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. All funds deposited with a managing agent shall be handled in a fiduciary capacity and shall be kept in a fiduciary trust account in a federally insured financial institution separate from other assets of the managing agent. The funds shall be the property of the association and shall be segregated for each account in the records of the managing agent in a manner that permits the funds to be identified on an individual association basis.
-
-        B. Any association collecting assessments for common expenses shall obtain and maintain a blanket fidelity bond or employee dishonesty insurance policy insuring the association against losses resulting from theft or dishonesty committed by the officers, directors, or persons employed by the association, or committed by any managing agent or employees of the managing agent. Such bond or insurance policy shall provide coverage in an amount equal to the lesser of $1 million or the amount of the reserve balances of the association plus one-fourth of the aggregate annual assessment income of such association. The minimum coverage amount shall be $10,000. The board of directors or managing agent may obtain such bond or insurance on behalf of the association.
-
-        2007, cc. 696, 712; 2008, cc. 851, 871.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-515. Compliance with declaration.`,
-    text:
+    text: [
+      `A. Every lot owner, and all those entitled to occupy a lot shall comply with all lawful provisions of this chapter and all provisions of the declaration. Any lack of such compliance shall be grounds for an action or suit to recover sums due, for damages or injunctive relief, or for any other remedy available at law or in equity, maintainable by the association, or by its board of directors or any managing agent on behalf of such association, or in any proper case, by one or more aggrieved lot owners on their own behalf or as a class action. Except as provided in subsection B, the prevailing party shall be entitled to recover reasonable attorney fees, costs expended in the matter, and interest on the judgment as provided in § 8.01-382. This section shall not preclude an action against the association and authorizes the recovery, by the prevailing party in any such action, of reasonable attorney fees, costs expended in the matter, and interest on the judgment as provided in § 8.01-382 in such actions.
+       B. In actions against a lot owner for nonpayment of assessments in which the lot owner has failed to pay assessments levied by the association on more than one lot or such lot owner has had legal actions taken against him for nonpayment of any prior assessment and the prevailing party is the association or its board of directors or any managing agent on behalf of the association, the prevailing party shall be awarded reasonable attorney fees, costs expended in the matter, and interest on the judgment as provided in subsection A, even if the proceeding is settled prior to judgment. The delinquent owner shall be personally responsible for reasonable attorney fees and costs expended in the matter by the association, whether any judicial proceedings are filed.
+       C. A declaration may provide for arbitration of disputes or other means of alternative dispute resolution. Any such arbitration held in accordance with this subsection shall be consistent with the provisions of this chapter and Chapter 21 (§ 8.01-577 et seq.) of Title 8.01. The place of any such arbitration or alternative dispute resolution shall be in the county or city in which the development is located, or as mutually agreed to by the parties.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. Every lot owner, and all those entitled to occupy a lot shall comply with all lawful provisions of this chapter and all provisions of the declaration. Any lack of such compliance shall be grounds for an action or suit to recover sums due, for damages or injunctive relief, or for any other remedy available at law or in equity, maintainable by the association, or by its board of directors or any managing agent on behalf of such association, or in any proper case, by one or more aggrieved lot owners on their own behalf or as a class action. Except as provided in subsection B, the prevailing party shall be entitled to recover reasonable attorney fees, costs expended in the matter, and interest on the judgment as provided in § 8.01-382. This section shall not preclude an action against the association and authorizes the recovery, by the prevailing party in any such action, of reasonable attorney fees, costs expended in the matter, and interest on the judgment as provided in § 8.01-382 in such actions.
-
-        B. In actions against a lot owner for nonpayment of assessments in which the lot owner has failed to pay assessments levied by the association on more than one lot or such lot owner has had legal actions taken against him for nonpayment of any prior assessment and the prevailing party is the association or its board of directors or any managing agent on behalf of the association, the prevailing party shall be awarded reasonable attorney fees, costs expended in the matter, and interest on the judgment as provided in subsection A, even if the proceeding is settled prior to judgment. The delinquent owner shall be personally responsible for reasonable attorney fees and costs expended in the matter by the association, whether any judicial proceedings are filed.
-
-        C. A declaration may provide for arbitration of disputes or other means of alternative dispute resolution. Any such arbitration held in accordance with this subsection shall be consistent with the provisions of this chapter and Chapter 21 (§ 8.01-577 et seq.) of Title 8.01. The place of any such arbitration or alternative dispute resolution shall be in the county or city in which the development is located, or as mutually agreed to by the parties.
-
-        1989, c. 679; 1993, c. 956; 2012, c. 758; 2014, c. 569.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-515.1. Amendment to declaration and bylaws; consent of mortgagee.`,
-    text:
+    text: [
+      `A. In the event that any provision in the declaration requires the written consent of a mortgagee in order to amend the bylaws or the declaration, the association shall be deemed to have received the written consent of a mortgagee if the association sends the text of the proposed amendment by certified mail, return receipt requested, or by regular mail with proof of mailing to the mortgagee at the address supplied by such mortgagee in a written request to the association to receive notice of proposed amendments to the declaration and receives no written objection to the adoption of the amendment from the mortgagee within 60 days of the date that the notice of amendment is sent by the association, unless the declaration expressly provides otherwise. If the mortgagee has not supplied an address to the association, the association shall be deemed to have received the written consent of a mortgagee if the association sends the text of the proposed amendment by certified mail, return receipt requested, to the mortgagee at the address filed in the land records or with the local tax assessor's office, and receives no written objection to the adoption of the amendment from the mortgagee within 60 days of the date that the notice of amendment is sent by the association, unless the declaration expressly provides otherwise.
+       B. Subsection A shall not apply to amendments which alter the priority of the lien of the mortgagee or which materially impair or affect a lot as collateral or the right of the mortgagee to foreclose on a lot as collateral.
+       C. Where the declaration is silent on the need for mortgagee consent, no mortgagee consent shall be required if the amendment to the declaration does not specifically affect mortgagee rights.
+       D. Except as otherwise provided in the declaration, a declaration may be amended by a two-thirds vote of the owners.
+       E. An action to challenge the validity of an amendment adopted by the association may not be brought more than one year after the amendment is effective.
+       F. Agreement of the required majority of lot owners to any amendment of the declaration adopted pursuant to subsection D shall be evidenced by their execution of the amendment, or ratifications thereof, and the same shall become effective when a copy of the amendment is recorded together with a certification, signed by the principal officer of the association or by such other officer or officers as the declaration may specify, that the requisite majority of the lot owners signed the amendment or ratifications thereof.
+       G. Subsections D and F shall not be construed to affect the validity of any amendment recorded prior to July 1, 2017.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. In the event that any provision in the declaration requires the written consent of a mortgagee in order to amend the bylaws or the declaration, the association shall be deemed to have received the written consent of a mortgagee if the association sends the text of the proposed amendment by certified mail, return receipt requested, or by regular mail with proof of mailing to the mortgagee at the address supplied by such mortgagee in a written request to the association to receive notice of proposed amendments to the declaration and receives no written objection to the adoption of the amendment from the mortgagee within 60 days of the date that the notice of amendment is sent by the association, unless the declaration expressly provides otherwise. If the mortgagee has not supplied an address to the association, the association shall be deemed to have received the written consent of a mortgagee if the association sends the text of the proposed amendment by certified mail, return receipt requested, to the mortgagee at the address filed in the land records or with the local tax assessor's office, and receives no written objection to the adoption of the amendment from the mortgagee within 60 days of the date that the notice of amendment is sent by the association, unless the declaration expressly provides otherwise.
-
-        B. Subsection A shall not apply to amendments which alter the priority of the lien of the mortgagee or which materially impair or affect a lot as collateral or the right of the mortgagee to foreclose on a lot as collateral.
-
-        C. Where the declaration is silent on the need for mortgagee consent, no mortgagee consent shall be required if the amendment to the declaration does not specifically affect mortgagee rights.
-
-        D. Except as otherwise provided in the declaration, a declaration may be amended by a two-thirds vote of the owners.
-
-        E. An action to challenge the validity of an amendment adopted by the association may not be brought more than one year after the amendment is effective.
-
-        F. Agreement of the required majority of lot owners to any amendment of the declaration adopted pursuant to subsection D shall be evidenced by their execution of the amendment, or ratifications thereof, and the same shall become effective when a copy of the amendment is recorded together with a certification, signed by the principal officer of the association or by such other officer or officers as the declaration may specify, that the requisite majority of the lot owners signed the amendment or ratifications thereof.
-
-        G. Subsections D and F shall not be construed to affect the validity of any amendment recorded prior to July 1, 2017.
-
-        1997, c. 887; 1998, c. 32; 1999, c. 805; 2003, cc. 59, 74; 2017, c. 374.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-515.2. Validity of declaration; corrective amendments.`,
-    text:
+    text: [
+      `A. All provisions of a declaration shall be deemed severable, and any unlawful provision thereof shall be void.
+       B. No provision of a declaration shall be deemed void by reason of the rule against perpetuities.
+       C. No restraint on alienation shall discriminate or be used to discriminate on any basis prohibited under the Virginia Fair Housing Law (§ 36-96.1 et seq.).
+       D. Subject to the provisions of subsection C, the rule of property law known as the rule restricting unreasonable restraints on alienation shall not be applied to defeat any provision of a declaration restraining the alienation of lots other than such lots as may be restricted to residential use only.
+       E. The rule of property law known as the doctrine of merger shall not apply to any easement included in or granted pursuant to a right reserved in a declaration.
+       F. The declarant may unilaterally execute and record a corrective amendment or supplement to the declaration to correct a mathematical mistake, an inconsistency or a scrivener's error, or clarify an ambiguity in the declaration with respect to an objectively verifiable fact (including without limitation recalculating the liability for assessments or the number of votes in the association appertaining to a lot), within five years after the recordation of the declaration containing or creating such mistake, inconsistency, error or ambiguity. No such amendment or supplement may materially reduce what the obligations of the declarant would have been if the mistake, inconsistency, error or ambiguity had not occurred. Regardless of the date of recordation of the declaration, the principal officer of the association may also unilaterally execute and record such a corrective amendment or supplement upon a vote of two-thirds of the members of the board of directors. All corrective amendments and supplements recorded prior to July 1, 1997, are hereby validated to the extent that such corrective amendments and supplements would have been permitted by this subsection.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. All provisions of a declaration shall be deemed severable, and any unlawful provision thereof shall be void.
-
-        B. No provision of a declaration shall be deemed void by reason of the rule against perpetuities.
-
-        C. No restraint on alienation shall discriminate or be used to discriminate on any basis prohibited under the Virginia Fair Housing Law (§ 36-96.1 et seq.).
-
-        D. Subject to the provisions of subsection C, the rule of property law known as the rule restricting unreasonable restraints on alienation shall not be applied to defeat any provision of a declaration restraining the alienation of lots other than such lots as may be restricted to residential use only.
-
-        E. The rule of property law known as the doctrine of merger shall not apply to any easement included in or granted pursuant to a right reserved in a declaration.
-
-        F. The declarant may unilaterally execute and record a corrective amendment or supplement to the declaration to correct a mathematical mistake, an inconsistency or a scrivener's error, or clarify an ambiguity in the declaration with respect to an objectively verifiable fact (including without limitation recalculating the liability for assessments or the number of votes in the association appertaining to a lot), within five years after the recordation of the declaration containing or creating such mistake, inconsistency, error or ambiguity. No such amendment or supplement may materially reduce what the obligations of the declarant would have been if the mistake, inconsistency, error or ambiguity had not occurred. Regardless of the date of recordation of the declaration, the principal officer of the association may also unilaterally execute and record such a corrective amendment or supplement upon a vote of two-thirds of the members of the board of directors. All corrective amendments and supplements recorded prior to July 1, 1997, are hereby validated to the extent that such corrective amendments and supplements would have been permitted by this subsection.
-
-        1998, c. 32; 2001, c. 271.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-515.2:1. Reformation of declaration; judicial procedure.`,
-    text:
+    text: [
+      `A. An association may petition the circuit court in the county or city wherein the development or the greater part thereof is located to reform a declaration where the association, acting through its board of directors, has attempted to amend the declaration regarding ownership of legal title of the common areas or real property using provisions outlined therein to resolve (i) ambiguities or inconsistencies in the declaration that are the source of legal and other disputes pertaining to the legal rights and responsibilities of the association or individual lot owners or (ii) scrivener's errors, including incorrectly identifying the association, incorrectly identifying an entity other than the association, or errors arising from oversight or from an inadvertent omission or mathematical mistake.
+       B. The court shall have jurisdiction over matters set forth in subsection A regarding ownership of legal title of the common areas or real property to:
+       1. Reform, in whole or in part, any provision of a declaration; and
+       2. Correct mistakes or any other error in the declaration that may exist with respect to the declaration for any other purpose.
+       C. A petition filed by the association with the court setting forth any inconsistency or error made in the declaration, or the necessity for any change therein, shall be deemed sufficient basis for the reformation, in whole or in part, of the declaration, provided that:
+       1. The association has made three good faith attempts to convene a duly called meeting of the association to present for consideration amendments to the declaration for the reasons specified in subsection A, which attempts have proven unsuccessful as evidenced by an affidavit verified by oath of the principal officer of the association;
+       2. There is no adequate remedy at law as practical and effective to attain the ends of justice as may be accomplished in the circuit court;
+       3. Where the declarant of the development still owns a lot or other property in the development, the declarant joins in the petition of the association;
+       4. A copy of the petition is sent to all owners at least 30 days before the petition is filed as evidenced by an affidavit verified by oath of the principal officer of the association; and
+       5. A copy of the petition is sent to all mortgagees at least 30 days before the petition is filed as evidenced by an affidavit verified by oath of the principal officer of the association.
+       D. Any mortgagee of a lot in the development shall have standing to participate in the reformation proceedings before the court. No reformation pursuant to this section shall affect mortgagee rights, alter the priority of the lien of any mortgage, materially impair or affect any lot as collateral for a mortgage, or affect a mortgagee's right to foreclose on a lot as collateral without the prior written consent of the mortgagee. Consent of a mortgagee required by this section may be deemed received pursuant to § 55-515.1.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. An association may petition the circuit court in the county or city wherein the development or the greater part thereof is located to reform a declaration where the association, acting through its board of directors, has attempted to amend the declaration regarding ownership of legal title of the common areas or real property using provisions outlined therein to resolve (i) ambiguities or inconsistencies in the declaration that are the source of legal and other disputes pertaining to the legal rights and responsibilities of the association or individual lot owners or (ii) scrivener's errors, including incorrectly identifying the association, incorrectly identifying an entity other than the association, or errors arising from oversight or from an inadvertent omission or mathematical mistake.
-
-        B. The court shall have jurisdiction over matters set forth in subsection A regarding ownership of legal title of the common areas or real property to:
-
-        1. Reform, in whole or in part, any provision of a declaration; and
-
-        2. Correct mistakes or any other error in the declaration that may exist with respect to the declaration for any other purpose.
-
-        C. A petition filed by the association with the court setting forth any inconsistency or error made in the declaration, or the necessity for any change therein, shall be deemed sufficient basis for the reformation, in whole or in part, of the declaration, provided that:
-
-        1. The association has made three good faith attempts to convene a duly called meeting of the association to present for consideration amendments to the declaration for the reasons specified in subsection A, which attempts have proven unsuccessful as evidenced by an affidavit verified by oath of the principal officer of the association;
-
-        2. There is no adequate remedy at law as practical and effective to attain the ends of justice as may be accomplished in the circuit court;
-
-        3. Where the declarant of the development still owns a lot or other property in the development, the declarant joins in the petition of the association;
-
-        4. A copy of the petition is sent to all owners at least 30 days before the petition is filed as evidenced by an affidavit verified by oath of the principal officer of the association; and
-
-        5. A copy of the petition is sent to all mortgagees at least 30 days before the petition is filed as evidenced by an affidavit verified by oath of the principal officer of the association.
-
-        D. Any mortgagee of a lot in the development shall have standing to participate in the reformation proceedings before the court. No reformation pursuant to this section shall affect mortgagee rights, alter the priority of the lien of any mortgage, materially impair or affect any lot as collateral for a mortgage, or affect a mortgagee's right to foreclose on a lot as collateral without the prior written consent of the mortgagee. Consent of a mortgagee required by this section may be deemed received pursuant to § 55-515.1.
-
-        2014, c. 659.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-515.3. Use of technology.`,
-    text:
+    text: [
+      `A. Unless the declaration expressly provides otherwise, (i) any notice required to be sent or received or (ii) any signature, vote, consent, or approval required to be obtained under any declaration or bylaw provision or any provision of this chapter may be accomplished using the most advanced technology available at that time if such use is a generally accepted business practice. This section shall govern the use of technology in implementing the provisions of any declaration or bylaw provision or any provision of this chapter dealing with notices, signatures, votes, consents, or approvals.
+       B. Electronic transmission and other equivalent methods. The association, lot owners, and those entitled to occupy a lot may perform any obligation or exercise any right under any declaration or bylaw provision or any provision of this chapter by use of any technological means providing sufficient security, reliability, identification, and verifiability. "Acceptable technological means" shall include without limitation electronic transmission over the Internet, or the community or other network, whether by direct connection, intranet, telecopier, or electronic mail.
+       C. Signature requirements. An electronic signature meeting the requirements of applicable law shall satisfy any requirement for a signature under any declaration or bylaw provision or any provision of this chapter.
+       D. Voting rights. Voting, consent to and approval of any matter under any declaration or bylaw provision or any provision of this chapter may be accomplished by electronic transmission or other equivalent technological means provided that a record is created as evidence thereof and maintained as long as such record would be required to be maintained in nonelectronic form.
+       E. Acknowledgment not required. Subject to other provisions of law, no action required or permitted by any declaration or bylaw provision or any provision of this chapter need be acknowledged before a notary public if the identity and signature of such person can otherwise be authenticated to the satisfaction of the executive organ.
+       F. Nontechnology alternatives. If any person does not have the capability or desire to conduct business using electronic transmission or other equivalent technological means, the association shall make reasonable accommodation, at its expense, for such person to conduct business with the association without use of such electronic or other means.
+       G. This section shall not apply to any notice related to an enforcement action by the association, an assessment lien, or foreclosure proceedings in enforcement of an assessment lien.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. Unless the declaration expressly provides otherwise, (i) any notice required to be sent or received or (ii) any signature, vote, consent, or approval required to be obtained under any declaration or bylaw provision or any provision of this chapter may be accomplished using the most advanced technology available at that time if such use is a generally accepted business practice. This section shall govern the use of technology in implementing the provisions of any declaration or bylaw provision or any provision of this chapter dealing with notices, signatures, votes, consents, or approvals.
-
-        B. Electronic transmission and other equivalent methods. The association, lot owners, and those entitled to occupy a lot may perform any obligation or exercise any right under any declaration or bylaw provision or any provision of this chapter by use of any technological means providing sufficient security, reliability, identification, and verifiability. "Acceptable technological means" shall include without limitation electronic transmission over the Internet, or the community or other network, whether by direct connection, intranet, telecopier, or electronic mail.
-
-        C. Signature requirements. An electronic signature meeting the requirements of applicable law shall satisfy any requirement for a signature under any declaration or bylaw provision or any provision of this chapter.
-
-        D. Voting rights. Voting, consent to and approval of any matter under any declaration or bylaw provision or any provision of this chapter may be accomplished by electronic transmission or other equivalent technological means provided that a record is created as evidence thereof and maintained as long as such record would be required to be maintained in nonelectronic form.
-
-        E. Acknowledgment not required. Subject to other provisions of law, no action required or permitted by any declaration or bylaw provision or any provision of this chapter need be acknowledged before a notary public if the identity and signature of such person can otherwise be authenticated to the satisfaction of the executive organ.
-
-        F. Nontechnology alternatives. If any person does not have the capability or desire to conduct business using electronic transmission or other equivalent technological means, the association shall make reasonable accommodation, at its expense, for such person to conduct business with the association without use of such electronic or other means.
-
-        G. This section shall not apply to any notice related to an enforcement action by the association, an assessment lien, or foreclosure proceedings in enforcement of an assessment lien.
-
-        2010, c. 432.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-516. Lien for assessments.`,
-    text:
+    text: [
+      `A. Once perfected, the association shall have a lien on every lot for unpaid assessments levied against that lot in accordance with the provisions of this chapter and all lawful provisions of the declaration. The lien, once perfected, shall be prior to all other subsequent liens and encumbrances except (i) real estate tax liens on that lot, (ii) liens and encumbrances recorded prior to the recordation of the declaration, and (iii) sums unpaid on and owing under any mortgage or deed of trust recorded prior to the perfection of said lien. The provisions of this subsection shall not affect the priority of mechanics' and materialmen's liens. Notice of a memorandum of lien to a holder of a credit line deed of trust under § 55-58.2 shall be given in the same fashion as if the association's lien were a judgment.
+       B. The association, in order to perfect the lien given by this section, shall file before the expiration of 12 months from the time the first such assessment became due and payable in the clerk's office of the circuit court in the county or city in which such development is situated, a memorandum, verified by the oath of the principal officer of the association, or such other officer or officers as the declaration may specify, which contains the following:
+       1. The name of the development;
+       2. A description of the lot;
+       3. The name or names of the persons constituting the owners of that lot;
+       4. The amount of unpaid assessments currently due or past due relative to such lot together with the date when each fell due;
+       5. The date of issuance of the memorandum;
+       6. The name of the association and the name and current address of the person to contact to arrange for payment or release of the lien; and
+       7. A statement that the association is obtaining a lien in accordance with the provisions of the Virginia Property Owners' Association Act as set forth in Chapter 26 (§ 55-508 et seq.) of Title 55.
+       It shall be the duty of the clerk in whose office such memorandum is filed as hereinafter provided to record and index the same as provided in subsection D, in the names of the persons identified therein as well as in the name of the association. The cost of recording and releasing the memorandum shall be taxed against the person found liable in any judgment or decree enforcing such lien.
+       C. Prior to filing a memorandum of lien, a written notice shall be sent to the property owner by certified mail, at the property owner's last known address, informing the property owner that a memorandum of lien will be filed in the circuit court clerk's office of the applicable city or county. The notice shall be sent at least 10 days before the actual filing date of the memorandum of lien.
+       D. Notwithstanding any other provision of this section, or any other provision of law requiring documents to be recorded in the miscellaneous lien books or the deed books in the clerk's office of any court, on or after July 1, 1989, all memoranda of liens arising under this section shall be recorded in the deed books in the clerk's office. Any memorandum shall be indexed in the general index to deeds, and the general index shall identify the lien as a lien for lot assessments.
+       E. No suit to enforce any lien perfected under subsection B shall be brought or action to foreclose any lien perfected under subsection I shall be initiated after 36 months from the time when the memorandum of lien was recorded; however, the filing of a petition to enforce any such lien in any suit wherein the petition may be properly filed shall be regarded as the institution of a suit under this section. Nothing herein shall extend the time within which any such lien may be perfected.
+       F. The judgment or decree in an action brought pursuant to this section shall include, without limitation, reimbursement for costs and reasonable attorneys' fees of the prevailing party. If the association prevails, it may also recover interest at the legal rate for the sums secured by the lien from the time each such sum became due and payable.
+       G. When payment or satisfaction is made of a debt secured by the lien perfected by subsection B hereof, the lien shall be released in accordance with the provisions of § 55-66.3. Any lien which is not so released shall subject the lien creditor to the penalty set forth in subdivision A 1 of § 55-66.3. For the purposes of § 55-66.3, the principal officer of the association, or any other officer or officers as the declaration may specify, shall be deemed the duly authorized agent of the lien creditor.
+       H. Nothing in this section shall be construed to prohibit actions at law to recover sums for which subsection A hereof creates a lien, maintainable pursuant to § 55-515.
+       I. At any time after perfecting the lien pursuant to this section, the property owners' association may sell the lot at public sale, subject to prior liens. For purposes of this section, the association shall have the power both to sell and convey the lot and shall be deemed the lot owner's statutory agent for the purpose of transferring title to the lot. A nonjudicial foreclosure sale shall be conducted in compliance with the following:
+       1. The association shall give notice to the lot owner prior to advertisement required by subdivision 4. The notice shall specify (i) the debt secured by the perfected lien; (ii) the action required to satisfy the debt secured by the perfected lien; (iii) the date, not less than 60 days from the date the notice is given to the lot owner, by which the debt secured by the lien must be satisfied; and (iv) that failure to satisfy the debt secured by the lien on or before the date specified in the notice may result in the sale of the lot. The notice shall further inform the lot owner of the right to bring a court action in the circuit court of the county or city where the lot is located to assert the nonexistence of a debt or any other defense of the lot owner to the sale.
+       2. After expiration of the 60-day notice period specified in subdivision 1, the association may appoint a trustee to conduct the sale. The appointment of the trustee shall be filed in the clerk's office of the circuit court in the county or city in which such development is situated. It shall be the duty of the clerk in whose office such appointment is filed to record and index the same as provided in subsection D, in the names of the persons identified therein as well as in the name of the association. The association, at its option, may from time to time remove the trustee and appoint a successor trustee.
+       3. If the lot owner meets the conditions specified in this subdivision prior to the date of the foreclosure sale, the lot owner shall have the right to have enforcement of the perfected lien discontinued prior to the sale of the lot. Those conditions are that the lot owner: (i) satisfy the debt secured by lien that is the subject of the nonjudicial foreclosure sale and (ii) pays all expenses and costs incurred in perfecting and enforcing the lien, including but not limited to advertising costs and reasonable attorneys' fees.
+       4. In addition to the advertisement required by subdivision 5, the association shall give written notice of the time, date and place of any proposed sale in execution of the lien, and including the name, address and telephone number of the trustee, by personal delivery or by mail to (i) the present owner of the property to be sold at his last known address as such owner and address appear in the records of the association, (ii) any lienholder who holds a note against the property secured by a deed of trust recorded at least 30 days prior to the proposed sale and whose address is recorded with the deed of trust, and (iii) any assignee of such a note secured by a deed of trust provided the assignment and address of the assignee are likewise recorded at least 30 days prior to the proposed sale. Mailing a copy of the advertisement or the notice containing the same information to the owner by certified or registered mail no less than 14 days prior to such sale and to lienholders and their assigns, at the addresses noted in the memorandum of lien, by ordinary mail no less than 14 days prior to such sale, shall be a sufficient compliance with the requirement of notice.
+       5. The advertisement of sale by the association shall be in a newspaper having a general circulation in the city or county wherein the property to be sold, or any portion thereof, lies pursuant to the following provisions:
+       a. The association shall advertise once a week for four successive weeks; however, if the property or some portion thereof is located in a city or in a county immediately contiguous to a city, publication of the advertisement five different days, which may be consecutive days, shall be deemed adequate. The sale shall be held on any day following the day of the last advertisement which is no earlier than eight days following the first advertisement nor more than 30 days following the last advertisement.
+       b. Such advertisement shall be placed in that section of the newspaper where legal notices appear or where the type of property being sold is generally advertised for sale. The advertisement of sale, in addition to such other matters as the association finds appropriate, shall set forth a description of the property to be sold, which description need not be as extensive as that contained in the deed of trust, but shall identify the property by street address, if any, or, if none, shall give the general location of the property with reference to streets, routes, or known landmarks. Where available, tax map identification may be used but is not required. The advertisement shall also include the date, time, place, and terms of sale and the name of the association. It shall set forth the name, address and telephone number of the representative, agent, or attorney who may be able to respond to inquiries concerning the sale.
+       c. In addition to the advertisement required by subdivisions a and b above, the association may give such other further and different advertisement as the association finds appropriate.
+       6. In the event of postponement of sale, which postponement shall be at the discretion of the association, advertisement of such postponed sale shall be in the same manner as the original advertisement of sale.
+       7. Failure to comply with the requirements for advertisement contained in this section shall, upon petition, render a sale of the property voidable by the court.
+       8. In the event of a sale, the association shall have the following powers and duties:
+       a. Written one-price bids may be made and shall be received by the trustee from the association or any person for entry by announcement at the sale. Any person other than the trustee may bid at the foreclosure sale, including a person who has submitted a written one-price bid. Upon request to the trustee, any other bidder in attendance at a foreclosure sale shall be permitted to inspect written bids. Unless otherwise provided in the declaration, the association may bid to purchase the lot at a foreclosure sale. The association may own, lease, encumber, exchange, sell or convey the lot. Whenever the written bid of the association is the highest bid submitted at the sale, such written bid shall be filed by the trustee with his account of sale required under subdivision I 10 of this section and § 64.2-1309. The written bid submitted pursuant to this subsection may be prepared by the association, its agent or attorney.
+       b. The association may require of any bidder at any sale a cash deposit of as much as 10 percent of the sale price before his bid is received, which shall be refunded to him if the property is not sold to him. The deposit of the successful bidder shall be applied to his credit at settlement, or if such bidder fails to complete his purchase promptly, the deposit shall be applied to pay the costs and expenses of the sale, and the balance, if any, shall be retained by the association in connection with that sale.
+       c. The property owners' association shall receive and receipt for the proceeds of sale, no purchaser being required to see to the application of the proceeds, and apply the same in the following order: first, to the reasonable expenses of sale, including attorneys' fees; second, to the satisfaction of all taxes, levies and assessments, with costs and interest; third, to the satisfaction of the lien for the owners' assessments; fourth, to the satisfaction in the order of priority of any remaining inferior claims of record; and fifth, to pay the residue of the proceeds to the owner or his assigns; provided, however, that the association as to such residue shall not be bound by any inheritance, devise, conveyance, assignment or lien of or upon the owner's equity, without actual notice thereof prior to distribution.
+       9. The trustee shall deliver to the purchaser a trustee's deed conveying the lot with special warranty of title. The trustee shall not be required to take possession of the property prior to the sale thereof or to deliver possession of the lot to the purchaser at the sale.
+       10. The trustee shall file an accounting of the sale with the commissioner of accounts pursuant to § 64.2-1309 and every account of a sale shall be recorded pursuant to § 64.2-1310. In addition, the accounting shall be made available for inspection and copying pursuant to § 55-510 upon the written request of the prior lot owner, current lot owner or any holder of a recorded lien against the lot at the time of the sale. The association shall maintain a copy of the accounting for at least 12 months following the foreclosure sale.
+       11. If the sale of a lot is made pursuant to subsection I and the accounting is made by the trustee, the title of the purchaser at such sale shall not be disturbed unless within 12 months from the confirmation of the accounting by the commissioner of accounts, the sale is set aside by the court or an appeal is allowed by the Supreme Court of Virginia, and a decree is therein entered requiring such sale to be set aside.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. Once perfected, the association shall have a lien on every lot for unpaid assessments levied against that lot in accordance with the provisions of this chapter and all lawful provisions of the declaration. The lien, once perfected, shall be prior to all other subsequent liens and encumbrances except (i) real estate tax liens on that lot, (ii) liens and encumbrances recorded prior to the recordation of the declaration, and (iii) sums unpaid on and owing under any mortgage or deed of trust recorded prior to the perfection of said lien. The provisions of this subsection shall not affect the priority of mechanics' and materialmen's liens. Notice of a memorandum of lien to a holder of a credit line deed of trust under § 55-58.2 shall be given in the same fashion as if the association's lien were a judgment.
-
-        B. The association, in order to perfect the lien given by this section, shall file before the expiration of 12 months from the time the first such assessment became due and payable in the clerk's office of the circuit court in the county or city in which such development is situated, a memorandum, verified by the oath of the principal officer of the association, or such other officer or officers as the declaration may specify, which contains the following:
-
-        1. The name of the development;
-
-        2. A description of the lot;
-
-        3. The name or names of the persons constituting the owners of that lot;
-
-        4. The amount of unpaid assessments currently due or past due relative to such lot together with the date when each fell due;
-
-        5. The date of issuance of the memorandum;
-
-        6. The name of the association and the name and current address of the person to contact to arrange for payment or release of the lien; and
-
-        7. A statement that the association is obtaining a lien in accordance with the provisions of the Virginia Property Owners' Association Act as set forth in Chapter 26 (§ 55-508 et seq.) of Title 55.
-
-        It shall be the duty of the clerk in whose office such memorandum is filed as hereinafter provided to record and index the same as provided in subsection D, in the names of the persons identified therein as well as in the name of the association. The cost of recording and releasing the memorandum shall be taxed against the person found liable in any judgment or decree enforcing such lien.
-
-        C. Prior to filing a memorandum of lien, a written notice shall be sent to the property owner by certified mail, at the property owner's last known address, informing the property owner that a memorandum of lien will be filed in the circuit court clerk's office of the applicable city or county. The notice shall be sent at least 10 days before the actual filing date of the memorandum of lien.
-
-        D. Notwithstanding any other provision of this section, or any other provision of law requiring documents to be recorded in the miscellaneous lien books or the deed books in the clerk's office of any court, on or after July 1, 1989, all memoranda of liens arising under this section shall be recorded in the deed books in the clerk's office. Any memorandum shall be indexed in the general index to deeds, and the general index shall identify the lien as a lien for lot assessments.
-
-        E. No suit to enforce any lien perfected under subsection B shall be brought or action to foreclose any lien perfected under subsection I shall be initiated after 36 months from the time when the memorandum of lien was recorded; however, the filing of a petition to enforce any such lien in any suit wherein the petition may be properly filed shall be regarded as the institution of a suit under this section. Nothing herein shall extend the time within which any such lien may be perfected.
-
-        F. The judgment or decree in an action brought pursuant to this section shall include, without limitation, reimbursement for costs and reasonable attorneys' fees of the prevailing party. If the association prevails, it may also recover interest at the legal rate for the sums secured by the lien from the time each such sum became due and payable.
-
-        G. When payment or satisfaction is made of a debt secured by the lien perfected by subsection B hereof, the lien shall be released in accordance with the provisions of § 55-66.3. Any lien which is not so released shall subject the lien creditor to the penalty set forth in subdivision A 1 of § 55-66.3. For the purposes of § 55-66.3, the principal officer of the association, or any other officer or officers as the declaration may specify, shall be deemed the duly authorized agent of the lien creditor.
-
-        H. Nothing in this section shall be construed to prohibit actions at law to recover sums for which subsection A hereof creates a lien, maintainable pursuant to § 55-515.
-
-        I. At any time after perfecting the lien pursuant to this section, the property owners' association may sell the lot at public sale, subject to prior liens. For purposes of this section, the association shall have the power both to sell and convey the lot and shall be deemed the lot owner's statutory agent for the purpose of transferring title to the lot. A nonjudicial foreclosure sale shall be conducted in compliance with the following:
-
-        1. The association shall give notice to the lot owner prior to advertisement required by subdivision 4. The notice shall specify (i) the debt secured by the perfected lien; (ii) the action required to satisfy the debt secured by the perfected lien; (iii) the date, not less than 60 days from the date the notice is given to the lot owner, by which the debt secured by the lien must be satisfied; and (iv) that failure to satisfy the debt secured by the lien on or before the date specified in the notice may result in the sale of the lot. The notice shall further inform the lot owner of the right to bring a court action in the circuit court of the county or city where the lot is located to assert the nonexistence of a debt or any other defense of the lot owner to the sale.
-
-        2. After expiration of the 60-day notice period specified in subdivision 1, the association may appoint a trustee to conduct the sale. The appointment of the trustee shall be filed in the clerk's office of the circuit court in the county or city in which such development is situated. It shall be the duty of the clerk in whose office such appointment is filed to record and index the same as provided in subsection D, in the names of the persons identified therein as well as in the name of the association. The association, at its option, may from time to time remove the trustee and appoint a successor trustee.
-
-        3. If the lot owner meets the conditions specified in this subdivision prior to the date of the foreclosure sale, the lot owner shall have the right to have enforcement of the perfected lien discontinued prior to the sale of the lot. Those conditions are that the lot owner: (i) satisfy the debt secured by lien that is the subject of the nonjudicial foreclosure sale and (ii) pays all expenses and costs incurred in perfecting and enforcing the lien, including but not limited to advertising costs and reasonable attorneys' fees.
-
-        4. In addition to the advertisement required by subdivision 5, the association shall give written notice of the time, date and place of any proposed sale in execution of the lien, and including the name, address and telephone number of the trustee, by personal delivery or by mail to (i) the present owner of the property to be sold at his last known address as such owner and address appear in the records of the association, (ii) any lienholder who holds a note against the property secured by a deed of trust recorded at least 30 days prior to the proposed sale and whose address is recorded with the deed of trust, and (iii) any assignee of such a note secured by a deed of trust provided the assignment and address of the assignee are likewise recorded at least 30 days prior to the proposed sale. Mailing a copy of the advertisement or the notice containing the same information to the owner by certified or registered mail no less than 14 days prior to such sale and to lienholders and their assigns, at the addresses noted in the memorandum of lien, by ordinary mail no less than 14 days prior to such sale, shall be a sufficient compliance with the requirement of notice.
-
-        5. The advertisement of sale by the association shall be in a newspaper having a general circulation in the city or county wherein the property to be sold, or any portion thereof, lies pursuant to the following provisions:
-
-        a. The association shall advertise once a week for four successive weeks; however, if the property or some portion thereof is located in a city or in a county immediately contiguous to a city, publication of the advertisement five different days, which may be consecutive days, shall be deemed adequate. The sale shall be held on any day following the day of the last advertisement which is no earlier than eight days following the first advertisement nor more than 30 days following the last advertisement.
-
-        b. Such advertisement shall be placed in that section of the newspaper where legal notices appear or where the type of property being sold is generally advertised for sale. The advertisement of sale, in addition to such other matters as the association finds appropriate, shall set forth a description of the property to be sold, which description need not be as extensive as that contained in the deed of trust, but shall identify the property by street address, if any, or, if none, shall give the general location of the property with reference to streets, routes, or known landmarks. Where available, tax map identification may be used but is not required. The advertisement shall also include the date, time, place, and terms of sale and the name of the association. It shall set forth the name, address and telephone number of the representative, agent, or attorney who may be able to respond to inquiries concerning the sale.
-
-        c. In addition to the advertisement required by subdivisions a and b above, the association may give such other further and different advertisement as the association finds appropriate.
-
-        6. In the event of postponement of sale, which postponement shall be at the discretion of the association, advertisement of such postponed sale shall be in the same manner as the original advertisement of sale.
-
-        7. Failure to comply with the requirements for advertisement contained in this section shall, upon petition, render a sale of the property voidable by the court.
-
-        8. In the event of a sale, the association shall have the following powers and duties:
-
-        a. Written one-price bids may be made and shall be received by the trustee from the association or any person for entry by announcement at the sale. Any person other than the trustee may bid at the foreclosure sale, including a person who has submitted a written one-price bid. Upon request to the trustee, any other bidder in attendance at a foreclosure sale shall be permitted to inspect written bids. Unless otherwise provided in the declaration, the association may bid to purchase the lot at a foreclosure sale. The association may own, lease, encumber, exchange, sell or convey the lot. Whenever the written bid of the association is the highest bid submitted at the sale, such written bid shall be filed by the trustee with his account of sale required under subdivision I 10 of this section and § 64.2-1309. The written bid submitted pursuant to this subsection may be prepared by the association, its agent or attorney.
-
-        b. The association may require of any bidder at any sale a cash deposit of as much as 10 percent of the sale price before his bid is received, which shall be refunded to him if the property is not sold to him. The deposit of the successful bidder shall be applied to his credit at settlement, or if such bidder fails to complete his purchase promptly, the deposit shall be applied to pay the costs and expenses of the sale, and the balance, if any, shall be retained by the association in connection with that sale.
-
-        c. The property owners' association shall receive and receipt for the proceeds of sale, no purchaser being required to see to the application of the proceeds, and apply the same in the following order: first, to the reasonable expenses of sale, including attorneys' fees; second, to the satisfaction of all taxes, levies and assessments, with costs and interest; third, to the satisfaction of the lien for the owners' assessments; fourth, to the satisfaction in the order of priority of any remaining inferior claims of record; and fifth, to pay the residue of the proceeds to the owner or his assigns; provided, however, that the association as to such residue shall not be bound by any inheritance, devise, conveyance, assignment or lien of or upon the owner's equity, without actual notice thereof prior to distribution.
-
-        9. The trustee shall deliver to the purchaser a trustee's deed conveying the lot with special warranty of title. The trustee shall not be required to take possession of the property prior to the sale thereof or to deliver possession of the lot to the purchaser at the sale.
-
-        10. The trustee shall file an accounting of the sale with the commissioner of accounts pursuant to § 64.2-1309 and every account of a sale shall be recorded pursuant to § 64.2-1310. In addition, the accounting shall be made available for inspection and copying pursuant to § 55-510 upon the written request of the prior lot owner, current lot owner or any holder of a recorded lien against the lot at the time of the sale. The association shall maintain a copy of the accounting for at least 12 months following the foreclosure sale.
-
-        11. If the sale of a lot is made pursuant to subsection I and the accounting is made by the trustee, the title of the purchaser at such sale shall not be disturbed unless within 12 months from the confirmation of the accounting by the commissioner of accounts, the sale is set aside by the court or an appeal is allowed by the Supreme Court of Virginia, and a decree is therein entered requiring such sale to be set aside.
-
-        1989, c. 679; 1991, c. 667; 1997, cc. 760, 766; 2000, c. 905; 2004, cc. 778, 779, 786.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-516.01. Notice of sale under deed of trust.`,
-    text:
+    text: [
+      `In accordance with the provisions of § 15.2-979, the association shall be given notice whenever a lot becomes subject to a sale under a deed of trust. Upon receipt of such notice, the board of directors, on behalf of the association, shall exercise whatever due diligence it deems necessary with respect to the lot subject to a sale under a deed of trust to protect the interests of the association.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        In accordance with the provisions of § 15.2-979, the association shall be given notice whenever a lot becomes subject to a sale under a deed of trust. Upon receipt of such notice, the board of directors, on behalf of the association, shall exercise whatever due diligence it deems necessary with respect to the lot subject to a sale under a deed of trust to protect the interests of the association.
-
-        2015, cc. 93, 410.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-516.1. Annual report by association.`,
-    text:
+    text: [
+      `A. The association shall file an annual report in a form and at such time as prescribed by regulations of the Common Interest Community Board. The annual report shall be accompanied by a fixed fee in an amount established by the Board.
+       B. The Common Interest Community Board may accept copies of forms submitted to other state agencies to satisfy the requirements of this section if such forms contain substantially the same information required by the Common Interest Community Board.
+       C. The association shall also remit to the agency an annual payment as follows:
+       1. The lesser of:
+       a. $1,000 or such other amount as established by agency regulation; or
+       b. Five hundredths of one percent (0.05%) of the association's gross assessment income during the preceding year.
+       2. For the purposes of subdivision 1 b, no minimum payment shall be less than $10.00.
+       D. The annual payment shall be remitted to the State Treasurer and shall be placed to the credit of the Common Interest Community Management Fund established pursuant to § 55-529.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        A. The association shall file an annual report in a form and at such time as prescribed by regulations of the Common Interest Community Board. The annual report shall be accompanied by a fixed fee in an amount established by the Board.
-
-        B. The Common Interest Community Board may accept copies of forms submitted to other state agencies to satisfy the requirements of this section if such forms contain substantially the same information required by the Common Interest Community Board.
-
-        C. The association shall also remit to the agency an annual payment as follows:
-
-        1. The lesser of:
-
-        a. $1,000 or such other amount as established by agency regulation; or
-
-        b. Five hundredths of one percent (0.05%) of the association's gross assessment income during the preceding year.
-
-        2. For the purposes of subdivision 1 b, no minimum payment shall be less than $10.00.
-
-        D. The annual payment shall be remitted to the State Treasurer and shall be placed to the credit of the Common Interest Community Management Fund established pursuant to § 55-529.
-
-        1993, c. 958; 2008, cc. 851, 871; 2009, c. 557; 2012, cc. 481, 797.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   },
   {
     title: `§ 55-516.2. Condemnation of common area; procedure.`,
-    text:
+    text: [
+      `When any portion of the common area is taken or damaged under the power of eminent domain, any award or payment therefor shall be paid to the association, which shall be a party in interest in the condemnation proceeding. The common area that is affected shall be valued on the basis of the common area's highest and best use as though it were free from restriction to sole use as a common area.
+       Except to the extent the declaration or any rules and regulations duly adopted pursuant thereto otherwise provide, the board of directors shall have the authority to negotiate with the condemning authority, agree to an award or payment amount with the condemning authority without instituting condemnation proceedings and, upon such agreement, convey the subject common area to the condemning authority. Thereafter, the president of the association may unilaterally execute and record the deed of conveyance to the condemning authority.
+       A member of the association, by virtue of his membership, shall be estopped from contesting the action of the association in any proceeding held pursuant to this section.
+       The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
       `
-        When any portion of the common area is taken or damaged under the power of eminent domain, any award or payment therefor shall be paid to the association, which shall be a party in interest in the condemnation proceeding. The common area that is affected shall be valued on the basis of the common area's highest and best use as though it were free from restriction to sole use as a common area.
-
-        Except to the extent the declaration or any rules and regulations duly adopted pursuant thereto otherwise provide, the board of directors shall have the authority to negotiate with the condemning authority, agree to an award or payment amount with the condemning authority without instituting condemnation proceedings and, upon such agreement, convey the subject common area to the condemning authority. Thereafter, the president of the association may unilaterally execute and record the deed of conveyance to the condemning authority.
-
-        A member of the association, by virtue of his membership, shall be estopped from contesting the action of the association in any proceeding held pursuant to this section.
-
-        1995, c. 377; 1998, c. 32; 2016, c. 719.
-
-        The chapters of the acts of assembly referenced in the historical citation at the end of this section may not constitute a comprehensive list of such chapters and may exclude chapters whose provisions have expired.
-      `
+    ]
   }
-]
+];
