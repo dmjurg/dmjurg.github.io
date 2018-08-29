@@ -1,15 +1,15 @@
 import React from 'react';
 import Home from './Home';
-import POAA from './POAA';
-import Condo from './Condo';
-import VNCA from './VNCA';
-import CICO from './CICO';
-import CIO from './CIO';
-import CICB from './CICB';
+import POAA from './sections/POAA';
+import Condo from './sections/Condo';
+import VNCA from './sections/VNCA';
+import CICO from './sections/CICO';
+import CIO from './sections/CIO';
+import CICB from './sections/CICB';
 import Contact from './Contact';
 import Disclaimer from './Disclaimer';
 import './App.css';
-import logo from './logo.png';
+import logo from './images/logo.png';
 import {
   BrowserRouter as Router,
   Route,

@@ -1,12 +1,12 @@
 import React from 'react';
-import LawSection from './LawSection';
+import LawSection from '../LawSection';
 import {
   Link
 } from 'react-router-dom'
-import {condoText1} from './condoText1';
-import {condoText2} from './condoText2';
-import {condoText3} from './condoText3';
-import {condoText4} from './condoText4';
+import {condoText1} from '../text/condoText1';
+import {condoText2} from '../text/condoText2';
+import {condoText3} from '../text/condoText3';
+import {condoText4} from '../text/condoText4';
 
 class Condo extends React.Component {
   constructor(props) {

@@ -1,9 +1,9 @@
 import React from 'react';
-import LawSection from './LawSection';
+import LawSection from '../LawSection';
 import {
   Link
 } from 'react-router-dom'
-import {cicoText} from './cicoText';
+import {cicoText} from '../text/cicoText';
 
 class CICO extends React.Component {
   constructor(props) {

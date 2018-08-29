@@ -1,29 +1,29 @@
 import React from 'react';
-import LawSection from './LawSection';
+import LawSection from '../LawSection';
 import {
   Link
 } from 'react-router-dom'
-import {vncaText1} from './vncaText1';
-import {vncaText2} from './vncaText2';
-import {vncaText3} from './vncaText3';
-import {vncaText4} from './vncaText4';
-import {vncaText5} from './vncaText5';
-import {vncaText6} from './vncaText6';
-import {vncaText7} from './vncaText7';
-import {vncaText71} from './vncaText71';
-import {vncaText8} from './vncaText8';
-import {vncaText9} from './vncaText9';
-import {vncaText10} from './vncaText10';
-import {vncaText11} from './vncaText11';
-import {vncaText111} from './vncaText111';
-import {vncaText12} from './vncaText12';
-import {vncaText13} from './vncaText13';
-import {vncaText14} from './vncaText14';
-import {vncaText15} from './vncaText15';
-import {vncaText16} from './vncaText16';
-import {vncaText17} from './vncaText17';
-import {vncaText171} from './vncaText171';
-import {vncaText18} from './vncaText18';
+import {vncaText1} from '../text/vncaText1';
+import {vncaText2} from '../text/vncaText2';
+import {vncaText3} from '../text/vncaText3';
+import {vncaText4} from '../text/vncaText4';
+import {vncaText5} from '../text/vncaText5';
+import {vncaText6} from '../text/vncaText6';
+import {vncaText7} from '../text/vncaText7';
+import {vncaText71} from '../text/vncaText71';
+import {vncaText8} from '../text/vncaText8';
+import {vncaText9} from '../text/vncaText9';
+import {vncaText10} from '../text/vncaText10';
+import {vncaText11} from '../text/vncaText11';
+import {vncaText111} from '../text/vncaText111';
+import {vncaText12} from '../text/vncaText12';
+import {vncaText13} from '../text/vncaText13';
+import {vncaText14} from '../text/vncaText14';
+import {vncaText15} from '../text/vncaText15';
+import {vncaText16} from '../text/vncaText16';
+import {vncaText17} from '../text/vncaText17';
+import {vncaText171} from '../text/vncaText171';
+import {vncaText18} from '../text/vncaText18';
 
 class VNCA extends React.Component {
   constructor(props) {

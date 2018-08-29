@@ -1,8 +1,8 @@
 import React from 'react';
-import phone from './phone-image.png';
-import email from './email-image.png';
-import map from './map-image.png';
-import website from './website-image.png';
+import phone from './images/phone-image.png';
+import email from './images/email-image.png';
+import map from './images/map-image.png';
+import website from './images/website-image.png';
 
 class Contact extends React.Component {
   render() {

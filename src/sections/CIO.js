@@ -1,13 +1,11 @@
 import React from 'react';
-import LawSection from './LawSection';
+import LawSection from '../LawSection';
 import {
   Link
 } from 'react-router-dom'
-import {poaaText1} from './poaaText1';
-import {poaaText2} from './poaaText2';
-import {poaaText3} from './poaaText3';
+import {cioText} from '../text/cioText';
 
-class POAA extends React.Component {
+class CIO extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -62,32 +60,17 @@ class POAA extends React.Component {
     const {searchText} = this.state;
 
     return (
-      <div className="poaa-text">
-        <h1>Property Owners' Association Act</h1>
+      <div class="cio-text">
+        <h1>Common Interest Communities</h1>
         <div className="search-form">
           <input value={searchText} onChange={this.updateSearchText} />
-          <button onClick={this.scrollToNextMatch}>Search</button>
+          <button onClick={this.scrollToNextMatch}>Next</button>
           {this.state.currentMatch} of {this.state.matches.length}
         </div>
         <div className="back-button">
-          <Link to="/">&lt; Back</Link>
+          <Link to="/">Back</Link>
         </div>
-        <h2>Article 1. General Provisions</h2>
-        {poaaText1.map((section, index) => <LawSection headingText={section.title}
-                                             bodyText={section.text}
-                                             searchText={searchText}
-                                             registerMatch={this.registerMatch}
-                                             key={`section-${index}`}
-                                           />)}
-        <h2>Article 2. Disclosure Requirements; Authorized Fees</h2>
-        {poaaText2.map((section, index) => <LawSection headingText={section.title}
-                                             bodyText={section.text}
-                                             searchText={searchText}
-                                             registerMatch={this.registerMatch}
-                                             key={`section-${index}`}
-                                           />)}
-        <h2>Article 3. Operation and Management of Association</h2>
-        {poaaText3.map((section, index) => <LawSection headingText={section.title}
+        {cioText.map((section, index) => <LawSection headingText={section.title}
                                              bodyText={section.text}
                                              searchText={searchText}
                                              registerMatch={this.registerMatch}
@@ -98,4 +81,4 @@ class POAA extends React.Component {
   }
 }
 
-export default POAA;
+export default CIO;

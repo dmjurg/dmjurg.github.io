@@ -3,9 +3,9 @@ export const cicbText = [
     title: `§ 55-528. Definitions.`,
     text:
       `
-        As used in this chapter, unless the context requires a different meaning:
+        <p>As used in this chapter, unless the context requires a different meaning:</p>
 
-        "Association" includes condominium, cooperative, or property owners' associations.
+        <h3>"Association" includes condominium, cooperative, or property owners' associations.</h3>
 
         "Balance of the fund" means cash, securities that are legal investments for fiduciaries under the provisions of subdivisions A 1, 2, and 4 of § 2.2-4519, and repurchase agreements secured by obligations of the United States government or any agency thereof, and shall not mean accounts receivable, judgments, notes, accrued interest, or other obligations to the fund.
 
