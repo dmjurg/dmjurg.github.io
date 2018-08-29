@@ -9,46 +9,51 @@ class LawSection extends React.Component {
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-
     const differentVisibleState = this.state.bodyVisible !== nextState.bodyVisible;
     const differentText = this.props.bodyText !== nextProps.bodyText;
     const differentSearchText = this.props.searchText !== nextProps.searchText;
+    const differentRegisterMatch = nextProps.registerMatch !== this.props.registerMatch;
 
     if (differentSearchText && nextProps.searchText.length === 0) {
       nextState.bodyVisible = false;
     }
-    
-    const differentRegisterMatch = nextProps.registerMatch !== this.props.registerMatch;
+
     return differentVisibleState || differentText || differentSearchText || differentRegisterMatch;
-   }
+  }
 
   render() {
     const {bodyText, searchText} = this.props;
 
     // don't search for short bits of text
     if (!searchText || searchText.length < 3) {
-      return this.renderSection(bodyText);
+      return this.renderSection(bodyText.map((paragraph, i) => <p key={i}>{paragraph}</p>));
     }
 
-    const splitText = bodyText.split(searchText);
     const els = [];
+    bodyText.forEach((paragraphText, paragraphIndex) => {
+      const splitText = paragraphText.split(searchText);
+      const innerEls = [];
 
-    splitText.forEach((text, index) => {
-      els.push(<span key={`text-${index}`}>{text}</span>);
-      if (index === splitText.length - 1) {
-        return;
-      }
+      splitText.forEach((text, innerTextIndex) => {
+        innerEls.push(<span key={`text-${innerTextIndex}`}>{text}</span>);
 
-      // there is a match!
-      this.setState({bodyVisible: true});
+        if (innerTextIndex === splitText.length - 1) {
+          return;
+        }
 
-      const match = <span className="highlight"
-                          key={`text-match-${index}`}
-                          ref={matchEl => this.props.registerMatch && this.props.registerMatch(matchEl)}>
+        // there is at least one match!
+        this.setState({bodyVisible: true});
+
+        const match = <span className="highlight"
+                            key={`text-match-${innerTextIndex}`}
+                            ref={matchEl => this.props.registerMatch && this.props.registerMatch(matchEl)}>
                       {searchText}
                     </span>;
-      els.push(match);
-    })
+        innerEls.push(match);
+      });
+
+      els.push(<p key={paragraphIndex}>{innerEls}</p>);
+    });
 
     return this.renderSection(els);
   }
@@ -57,7 +62,8 @@ class LawSection extends React.Component {
     return (
       <section>
         <h3 className="law-section-heading" onClick={() => {
-          this.setState({bodyVisible: !this.state.bodyVisible})}
+          this.setState({bodyVisible: !this.state.bodyVisible})
+        }
         }>
           {this.props.headingText}
         </h3>

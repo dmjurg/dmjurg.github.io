@@ -26,7 +26,7 @@ class CIO extends React.Component {
   }
 
   registerMatch(match) {
-    if(match) {
+    if (match) {
       this.state.matches.push(match);
     }
 
@@ -46,9 +46,9 @@ class CIO extends React.Component {
   }
 
   scrollToNextMatch = () => {
-    const {matches, currentMatch} = this.state;
+    const {matches} = this.state;
 
-    if(matches.length === 0) {
+    if (matches.length === 0) {
       return;
     }
 
@@ -63,7 +63,7 @@ class CIO extends React.Component {
       <div class="cio-text">
         <h1>Common Interest Communities</h1>
         <div className="search-form">
-          <input value={searchText} onChange={this.updateSearchText} />
+          <input value={searchText} onChange={this.updateSearchText}/>
           <button onClick={this.scrollToNextMatch}>Next</button>
           {this.state.currentMatch} of {this.state.matches.length}
         </div>
@@ -71,11 +71,11 @@ class CIO extends React.Component {
           <Link to="/">Back</Link>
         </div>
         {cioText.map((section, index) => <LawSection headingText={section.title}
-                                             bodyText={section.text}
-                                             searchText={searchText}
-                                             registerMatch={this.registerMatch}
-                                             key={`section-${index}`}
-                                           />)}
+                                                     bodyText={section.text}
+                                                     searchText={searchText}
+                                                     registerMatch={this.registerMatch}
+                                                     key={`section-${index}`}
+        />)}
       </div>
     );
   }
